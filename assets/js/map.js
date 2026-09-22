@@ -1,1 +1,162 @@
-LyoqCiAqIG1hcC5qcyDigJTigJQg5Zyw5Zu+5byV5pOO5bCB6KOFCiAqIOaciemrmOW+tyBLZXkgIOKGkiDkvb/nlKjpq5jlvrcgSlMgQVBJIDIuMAogKiDml6AgS2V5ICAgICAg4oaSIOiHquWKqOmZjee6p+S4uiBMZWFmbGV0ICsg6auY5b635YWs5byA55Om54mH77yI5bqV5Zu+6aOO5qC85LiA6Ie077yM5peg6ZyAIEtlee+8iQogKiDkuIDplK7lr7zoiKrlp4vnu4jkvb/nlKjpq5jlvrcgVVJJIEFQSe+8iHVyaS5hbWFwLmNvbe+8ie+8jOS4jemcgOimgSBLZXnjgIIKICovCihmdW5jdGlvbiAoZ2xvYmFsKSB7CiAgJ3VzZSBzdHJpY3QnOwoKICBjb25zdCBDRkcgPSBnbG9iYWwuWlpfQ09ORklHOwogIGxldCBlbmdpbmUgPSBudWxsOyAgIC8vICdhbWFwJyB8ICdsZWFmbGV0JwogIGxldCBtYXAgPSBudWxsLCBpbmZvV2luZG93ID0gbnVsbCwgbGF5ZXJHcm91cCA9IG51bGw7CiAgbGV0IHBvaW50cyA9IFtdOwogIGxldCBjbGlja0hhbmRsZXIgPSBudWxsOwoKICBmdW5jdGlvbiBsb2FkU2NyaXB0KHNyYykgewogICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgY29uc3QgcyA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpOwogICAgICBzLnNyYyA9IHNyYzsgcy5hc3luYyA9IHRydWU7CiAgICAgIHMub25sb2FkID0gcmVzb2x2ZTsKICAgICAgcy5vbmVycm9yID0gKCkgPT4gcmVqZWN0KG5ldyBFcnJvcign5Yqg6L295aSx6LSlOiAnICsgc3JjKSk7CiAgICAgIGRvY3VtZW50LmhlYWQuYXBwZW5kQ2hpbGQocyk7CiAgICB9KTsKICB9CiAgZnVuY3Rpb24gbG9hZENzcyhocmVmKSB7CiAgICBpZiAoZG9jdW1lbnQucXVlcnlTZWxlY3RvcignbGlua1tkYXRhLXp6PSInICsgaHJlZiArICciXScpKSByZXR1cm47CiAgICBjb25zdCBsID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnbGluaycpOwogICAgbC5yZWwgPSAnc3R5bGVzaGVldCc7IGwuaHJlZiA9IGhyZWY7IGwuc2V0QXR0cmlidXRlKCdkYXRhLXp6JywgaHJlZik7CiAgICBkb2N1bWVudC5oZWFkLmFwcGVuZENoaWxkKGwpOwogIH0KCiAgZnVuY3Rpb24gcGluSHRtbChwKSB7CiAgICBjb25zdCBjb2xvciA9IHAuY29sb3IgfHwgJyMyZjg1NWEnOwogICAgcmV0dXJuICc8ZGl2IGNsYXNzPSJtYXAtcGluIiBzdHlsZT0iYmFja2dyb3VuZDonICsgY29sb3IgKyAnIj4nICsgKHAuaWNvbiB8fCAnJykgKyAnPC9kaXY+JzsKICB9CgogIGFzeW5jIGZ1bmN0aW9uIGluaXRBbWFwKGVsSWQsIG9wdHMpIHsKICAgIGlmIChDRkcuQU1BUF9TRUNVUklUWV9DT0RFKSB7CiAgICAgIGdsb2JhbC5fQU1hcFNlY3VyaXR5Q29uZmlnID0geyBzZWN1cml0eUpzQ29kZTogQ0ZHLkFNQVBfU0VDVVJJVFlfQ09ERSB9OwogICAgfQogICAgYXdhaXQgbG9hZFNjcmlwdCgnaHR0cHM6Ly93ZWJhcGkuYW1hcC5jb20vbWFwcz92PTIuMCZrZXk9JyArIGVuY29kZVVSSUNvbXBvbmVudChDRkcuQU1BUF9LRVkpKTsKICAgIG1hcCA9IG5ldyBnbG9iYWwuQU1hcC5NYXAoZWxJZCwgewogICAgICB6b29tOiBvcHRzLnpvb20gfHwgQ0ZHLmNpdHkuem9vbSwKICAgICAgY2VudGVyOiBvcHRzLmNlbnRlciB8fCBDRkcuY2l0eS5jZW50ZXIsCiAgICAgIHZpZXdNb2RlOiAnMkQnCiAgICB9KTsKICAgIG1hcC5vbignY2xpY2snLCAoZSkgPT4geyBpZiAoY2xpY2tIYW5kbGVyKSBjbGlja0hhbmRsZXIoZS5sbmdsYXQuZ2V0TG5nKCksIGUubG5nbGF0LmdldExhdCgpKTsgfSk7CiAgICBpbmZvV2luZG93ID0gbmV3IGdsb2JhbC5BTWFwLkluZm9XaW5kb3coeyBvZmZzZXQ6IG5ldyBnbG9iYWwuQU1hcC5QaXhlbCgwLCAtMzApLCBpc0N1c3RvbTogZmFsc2UgfSk7CiAgICBlbmdpbmUgPSAnYW1hcCc7CiAgfQoKICBhc3luYyBmdW5jdGlvbiBpbml0TGVhZmxldChlbElkLCBvcHRzKSB7CiAgICBsb2FkQ3NzKCdodHRwczovL3VucGtnLmNvbS9sZWFmbGV0QDEuOS40L2Rpc3QvbGVhZmxldC5jc3MnKTsKICAgIGF3YWl0IGxvYWRTY3JpcHQoJ2h0dHBzOi8vdW5wa2cuY29tL2xlYWZsZXRAMS45LjQvZGlzdC9sZWFmbGV0LmpzJyk7CiAgICBtYXAgPSBnbG9iYWwuTC5tYXAoZWxJZCwgeyB6b29tQ29udHJvbDogdHJ1ZSB9KS5zZXRWaWV3KG9wdHMuY2VudGVyIHx8IENGRy5jaXR5LmNlbnRlciwgb3B0cy56b29tIHx8IENGRy5jaXR5Lnpvb20pOwogICAgZ2xvYmFsLkwudGlsZUxheWVyKAogICAgICAnaHR0cHM6Ly93ZWJyZDB7c30uaXMuYXV0b25hdmkuY29tL2FwcG1hcHRpbGU/bGFuZz16aF9jbiZzaXplPTEmc2NhbGU9MSZzdHlsZT04Jng9e3h9Jnk9e3l9Jno9e3p9JywKICAgICAgeyBzdWJkb21haW5zOiBbJzEnLCAnMicsICczJywgJzQnXSwgbWF4Wm9vbTogMTgsIGF0dHJpYnV0aW9uOiAnJmNvcHk7IOmrmOW+t+WcsOWbvicgfQogICAgKS5hZGRUbyhtYXApOwogICAgbWFwLm9uKCdjbGljaycsIChlKSA9PiB7IGlmIChjbGlja0hhbmRsZXIpIGNsaWNrSGFuZGxlcihlLmxuZ2xhdC5sbmcsIGUubGF0bG5nLmxhdCk7IH0pOwogICAgbGF5ZXJHcm91cCA9IGdsb2JhbC5MLmxheWVyR3JvdXAoKS5hZGRUbyhtYXApOwogICAgZW5naW5lID0gJ2xlYWZsZXQnOwogIH0KCiAgY29uc3QgWlpNYXAgPSB7CiAgICBnZXQgZW5naW5lKCkgeyByZXR1cm4gZW5naW5lOyB9LAoKICAgIGFzeW5jIGluaXQoZWxJZCwgb3B0cykgewogICAgICBvcHRzID0gb3B0cyB8fCB7fTsKICAgICAgaWYgKENGRy5BTUFQX0tFWSkgewogICAgICAgIHRyeSB7IGF3YWl0IGluaXRBbWFwKGVsSWQsIG9wdHMpOyB9CiAgICAgICAgY2F0Y2ggKGUpIHsKICAgICAgICAgIGNvbnNvbGUud2FybignW21hcF0g6auY5b635Yqg6L295aSx6LSl77yM6ZmN57qnIExlYWZsZXTvvJonLCBlLm1lc3NhZ2UpOwogICAgICAgICAgYXdhaXQgaW5pdExlYWZsZXQoZWxJZCwgb3B0cyk7CiAgICAgICAgfQogICAgICB9IGVsc2UgewogICAgICAgIGF3YWl0IGluaXRMZWFmbGV0KGVsSWQsIG9wdHMpOwogICAgICB9CiAgICAgIHJldHVybiBlbmdpbmU7CiAgICB9LAoKICAgIG9uQ2xpY2soY2IpIHsgY2xpY2tIYW5kbGVyID0gY2I7IH0sCgogICAgY2xlYXIoKSB7CiAgICAgIHBvaW50cyA9IFtdOwogICAgICBpZiAoIW1hcCkgcmV0dXJuOwogICAgICBpZiAoZW5naW5lID09PSAnYW1hcCcpIG1hcC5jbGVhck1hcCgpOwogICAgICBlbHNlIGlmIChsYXllckdyb3VwKSBsYXllckdyb3VwLmNsZWFyTGF5ZXJzKCk7CiAgICB9LAoKICAgIGFkZChwKSB7CiAgICAgIHBvaW50cy5wdXNoKHApOwogICAgICBpZiAoIW1hcCkgcmV0dXJuOwogICAgICBpZiAoZW5naW5lID09PSAnYW1hcCcpIHsKICAgICAgICBjb25zdCBtYXJrZXIgPSBuZXcgZ2xvYmFsLkFNYXAuTWFya2VyKHsKICAgICAgICAgIHBvc2l0aW9uOiBbcC5sbmcsIHAubGF0XSwKICAgICAgICAgIGNvbnRlbnQ6IHBpbkh0bWwocCksCiAgICAgICAgICBvZmZzZXQ6IG5ldyBnbG9iYWwuQU1hcC5QaXhlbCgtMTUsIC0xNSksCiAgICAgICAgICB0aXRsZTogcC50aXRsZSB8fCAnJwogICAgICAgIH0pOwogICAgICAgIG1hcmtlci5vbignY2xpY2snLCAoKSA9PiB7CiAgICAgICAgICBpbmZvV2luZG93LnNldENvbnRlbnQoJzxkaXYgY2xhc3M9Iml3Ij4nICsgKHAuaHRtbCB8fCAnPGI+JyArIChwLnRpdGxlIHx8ICcnKSArICc8L2I+JykgKyAnPC9kaXY+Jyk7CiAgICAgICAgICBpbmZvV2luZG93Lm9wZW4obWFwLCBbcC5sbmcsIHAubGF0XSk7CiAgICAgICAgfSk7CiAgICAgICAgbWFwLmFkZChtYXJrZXIpOwogICAgICB9IGVsc2UgewogICAgICAgIGNvbnN0IGljb24gPSBnbG9iYWwuTC5kaXZJY29uKHsKICAgICAgICAgIGNsYXNzTmFtZTogJycsIGh0bWw6IHBpbkh0bWwocCksIGljb25TaXplOiBbMzAsIDMwXSwgaWNvbkFuY2hvcjogWzE1LCAxNV0KICAgICAgICB9KTsKICAgICAgICBnbG9iYWwuTC5tYXJrZXIoW3AubGF0LCBwLmxuZ10sIHsgaWNvbiB9KQogICAgICAgICAgLmFkZFRvKGxheWVyR3JvdXApCiAgICAgICAgICAuYmluZFBvcHVwKCc8ZGl2IGNsYXNzPSJpdyI+JyArIChwLmh0bWwgfHwgJzxiPicgKyAocC50aXRsZSB8fCAnJykgKyAnPC9iPicpICsgJzwvZGl2PicpOwogICAgICB9CiAgICB9LAoKICAgIHJlbmRlcihsaXN0KSB7IFpaTWFwLmNsZWFyKCk7IChsaXN0IHx8IFtdKS5mb3JFYWNoKChwKSA9PiBaWk1hcC5hZGQocCkpOyBaWk1hcC5maXQoKTsgfSwKCiAgICBmaXQoKSB7CiAgICAgIGlmICghbWFwIHx8ICFwb2ludHMubGVuZ3RoKSByZXR1cm47CiAgICAgIGlmIChlbmdpbmUgPT09ICdhbWFwJykgewogICAgICAgIG1hcC5zZXRGaXRWaWV3KG51bGwsIGZhbHNlLCBbNDAsIDQwLCA0MCwgNDBdKTsKICAgICAgfSBlbHNlIHsKICAgICAgICBjb25zdCBiID0gZ2xvYmFsLkwubGF0TG5nQm91bmRzKHBvaW50cy5tYXAoKHApID0+IFtwLmxhdCwgcC5sbmddKSk7CiAgICAgICAgbWFwLmZpdEJvdW5kcyhiLnBhZCgwLjE1KSk7CiAgICAgIH0KICAgIH0sCgogICAgZm9jdXMobG5nLCBsYXQsIHpvb20pIHsKICAgICAgaWYgKCFtYXApIHJldHVybjsKICAgICAgaWYgKGVuZ2luZSA9PT0gJ2FtYXAnKSBtYXAuc2V0Wm9vbUFuZENlbnRlcih6b29tIHx8IDE1LCBbbG5nLCBsYXRdKTsKICAgICAgZWxzZSBtYXAuc2V0VmlldyhbbGF0LCBsbmddLCB6b29tIHx8IDE1KTsKICAgIH0sCgogICAgLyoqIOS4gOmUruWvvOiIqu+8iOmrmOW+tyBVUkkgQVBJ77yM5YWNIEtlee+8iSAqLwogICAgbmF2VXJsKGxuZywgbGF0LCBuYW1lLCBtb2RlKSB7CiAgICAgIHJldHVybiAnaHR0cHM6Ly91cmkuYW1hcC5jb20vbmF2aWdhdGlvbj90bz0nICsgbG5nICsgJywnICsgbGF0ICsgJywnICsgZW5jb2RlVVJJQ29tcG9uZW50KG5hbWUgfHwgJ+ebrueahOWcsCcpICsKICAgICAgICAnJm1vZGU9JyArIChtb2RlIHx8ICdjYXInKSArICcmcG9saWN5PTEmc3JjPXp6LXJlc2N1ZSZjb29yZGluYXRlPWdhb2RlJmNhbGxuYXRpdmU9MSc7CiAgICB9LAoKICAgIG1hcmtlclVybChsbmcsIGxhdCwgbmFtZSkgewogICAgICByZXR1cm4gJ2h0dHBzOi8vdXJpLmFtYXAuY29tL21hcmtlcj9wb3NpdGlvbj0nICsgbG5nICsgJywnICsgbGF0ICsgJyZuYW1lPScgKyBlbmNvZGVVUklDb21wb25lbnQobmFtZSB8fCAnJykgKwogICAgICAgICcmc3JjPXp6LXJlc2N1ZSZjb29yZGluYXRlPWdhb2RlJmNhbGxuYXRpdmU9MSc7CiAgICB9LAoKICAgIC8qKiDpgIblnLDnkIbvvJrpq5jlvrfpnIDopoEgS2V577yM6ZmN57qn55u05o6l6L+U5Zue5Z2Q5qCHICovCiAgICBhc3luYyByZWdlbyhsbmcsIGxhdCkgewogICAgICBpZiAoQ0ZHLkFNQVBfS0VZICYmIGdsb2JhbC5BTWFwKSB7CiAgICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlKSA9PiB7CiAgICAgICAgICBnbG9iYWwuQU1hcC5wbHVnaW4oJ0FNYXAuR2VvY29kZXInLCAoKSA9PiB7CiAgICAgICAgICAgIGNvbnN0IGdlbyA9IG5ldyBnbG9iYWwuQU1hcC5HZW9jb2RlcigpOwogICAgICAgICAgICBnZW8uZ2V0QWRkcmVzcyhbbG5nLCBsYXRdLCAoc3RhdHVzLCByZXN1bHQpID0+IHsKICAgICAgICAgICAgICByZXNvbHZlKHN0YXR1cyA9PT0gJ2NvbXBsZXRlJyAmJiByZXN1bHQucmVnZW9jb2RlID8gcmVzdWx0LnJlZ2VvY29kZS5mb3JtYXR0ZWRBZGRyZXNzIDogJycpOwogICAgICAgICAgICB9KTsKICAgICAgICAgIH0pOwogICAgICAgIH0pOwogICAgICB9CiAgICAgIHJldHVybiAn6YOR5bee5biCICgnICsgbG5nLnRvRml4ZWQoNikgKyAnLCAnICsgbGF0LnRvRml4ZWQoNikgKyAnKSc7CiAgICB9CiAgfTsKCiAgZ2xvYmFsLlpaTWFwID0gWlpNYXA7Cn0pKHdpbmRvdyk7Cg==
+/**
+ * map.js —— 地图引擎封装
+ * 有高德 Key  → 使用高德 JS API 2.0
+ * 无 Key      → 自动降级为 Leaflet + 高德公开瓦片（底图风格一致，无需 Key）
+ * 一键导航始终使用高德 URI API（uri.amap.com），不需要 Key。
+ */
+(function (global) {
+  'use strict';
+
+  const CFG = global.ZZ_CONFIG;
+  let engine = null;   // 'amap' | 'leaflet'
+  let map = null, infoWindow = null, layerGroup = null;
+  let points = [];
+  let clickHandler = null;
+
+  function loadScript(src) {
+    return new Promise((resolve, reject) => {
+      const s = document.createElement('script');
+      s.src = src; s.async = true;
+      s.onload = resolve;
+      s.onerror = () => reject(new Error('加载失败: ' + src));
+      document.head.appendChild(s);
+    });
+  }
+  function loadCss(href) {
+    if (document.querySelector('link[data-zz="' + href + '"]')) return;
+    const l = document.createElement('link');
+    l.rel = 'stylesheet'; l.href = href; l.setAttribute('data-zz', href);
+    document.head.appendChild(l);
+  }
+
+  function pinHtml(p) {
+    const color = p.color || '#2f855a';
+    return '<div class="map-pin" style="background:' + color + '">' + (p.icon || '') + '</div>';
+  }
+
+  async function initAmap(elId, opts) {
+    if (CFG.AMAP_SECURITY_CODE) {
+      global._AMapSecurityConfig = { securityJsCode: CFG.AMAP_SECURITY_CODE };
+    }
+    await loadScript('https://webapi.amap.com/maps?v=2.0&key=' + encodeURIComponent(CFG.AMAP_KEY));
+    map = new global.AMap.Map(elId, {
+      zoom: opts.zoom || CFG.city.zoom,
+      center: opts.center || CFG.city.center,
+      viewMode: '2D'
+    });
+    map.on('click', (e) => { if (clickHandler) clickHandler(e.lnglat.getLng(), e.lnglat.getLat()); });
+    infoWindow = new global.AMap.InfoWindow({ offset: new global.AMap.Pixel(0, -30), isCustom: false });
+    engine = 'amap';
+  }
+
+  async function initLeaflet(elId, opts) {
+    loadCss('https://unpkg.com/leaflet@1.9.4/dist/leaflet.css');
+    await loadScript('https://unpkg.com/leaflet@1.9.4/dist/leaflet.js');
+    map = global.L.map(elId, { zoomControl: true }).setView(opts.center || CFG.city.center, opts.zoom || CFG.city.zoom);
+    global.L.tileLayer(
+      'https://webrd0{s}.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}',
+      { subdomains: ['1', '2', '3', '4'], maxZoom: 18, attribution: '&copy; 高德地图' }
+    ).addTo(map);
+    map.on('click', (e) => { if (clickHandler) clickHandler(e.lnglat.lng, e.latlng.lat); });
+    layerGroup = global.L.layerGroup().addTo(map);
+    engine = 'leaflet';
+  }
+
+  const ZZMap = {
+    get engine() { return engine; },
+
+    async init(elId, opts) {
+      opts = opts || {};
+      if (CFG.AMAP_KEY) {
+        try { await initAmap(elId, opts); }
+        catch (e) {
+          console.warn('[map] 高德加载失败，降级 Leaflet：', e.message);
+          await initLeaflet(elId, opts);
+        }
+      } else {
+        await initLeaflet(elId, opts);
+      }
+      return engine;
+    },
+
+    onClick(cb) { clickHandler = cb; },
+
+    clear() {
+      points = [];
+      if (!map) return;
+      if (engine === 'amap') map.clearMap();
+      else if (layerGroup) layerGroup.clearLayers();
+    },
+
+    add(p) {
+      points.push(p);
+      if (!map) return;
+      if (engine === 'amap') {
+        const marker = new global.AMap.Marker({
+          position: [p.lng, p.lat],
+          content: pinHtml(p),
+          offset: new global.AMap.Pixel(-15, -15),
+          title: p.title || ''
+        });
+        marker.on('click', () => {
+          infoWindow.setContent('<div class="iw">' + (p.html || '<b>' + (p.title || '') + '</b>') + '</div>');
+          infoWindow.open(map, [p.lng, p.lat]);
+        });
+        map.add(marker);
+      } else {
+        const icon = global.L.divIcon({
+          className: '', html: pinHtml(p), iconSize: [30, 30], iconAnchor: [15, 15]
+        });
+        global.L.marker([p.lat, p.lng], { icon })
+          .addTo(layerGroup)
+          .bindPopup('<div class="iw">' + (p.html || '<b>' + (p.title || '') + '</b>') + '</div>');
+      }
+    },
+
+    render(list) { ZZMap.clear(); (list || []).forEach((p) => ZZMap.add(p)); ZZMap.fit(); },
+
+    fit() {
+      if (!map || !points.length) return;
+      if (engine === 'amap') {
+        map.setFitView(null, false, [40, 40, 40, 40]);
+      } else {
+        const b = global.L.latLngBounds(points.map((p) => [p.lat, p.lng]));
+        map.fitBounds(b.pad(0.15));
+      }
+    },
+
+    focus(lng, lat, zoom) {
+      if (!map) return;
+      if (engine === 'amap') map.setZoomAndCenter(zoom || 15, [lng, lat]);
+      else map.setView([lat, lng], zoom || 15);
+    },
+
+    /** 一键导航（高德 URI API，免 Key） */
+    navUrl(lng, lat, name, mode) {
+      return 'https://uri.amap.com/navigation?to=' + lng + ',' + lat + ',' + encodeURIComponent(name || '目的地') +
+        '&mode=' + (mode || 'car') + '&policy=1&src=zz-rescue&coordinate=gaode&callnative=1';
+    },
+
+    markerUrl(lng, lat, name) {
+      return 'https://uri.amap.com/marker?position=' + lng + ',' + lat + '&name=' + encodeURIComponent(name || '') +
+        '&src=zz-rescue&coordinate=gaode&callnative=1';
+    },
+
+    /** 逆地理：高德需要 Key，降级直接返回坐标 */
+    async regeo(lng, lat) {
+      if (CFG.AMAP_KEY && global.AMap) {
+        return new Promise((resolve) => {
+          global.AMap.plugin('AMap.Geocoder', () => {
+            const geo = new global.AMap.Geocoder();
+            geo.getAddress([lng, lat], (status, result) => {
+              resolve(status === 'complete' && result.regeocode ? result.regeocode.formattedAddress : '');
+            });
+          });
+        });
+      }
+      return '郑州市 (' + lng.toFixed(6) + ', ' + lat.toFixed(6) + ')';
+    }
+  };
+
+  global.ZZMap = ZZMap;
+})(window);

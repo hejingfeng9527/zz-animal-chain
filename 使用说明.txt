@@ -1,1 +1,125 @@
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQogIOmDkeW3nua1gea1quWKqOeJqeaVkeWKqemTvuS4iuWvvOiIqiBEQXBwCiAg5Z+65LqO5Yy65Z2X6ZO+55qE5rWB5rWq5Yqo54mp5pWR5YqpIMK3IOmihuWFu+WFqOa1geeoi+WtmOivgeWvvOiIquW5s+WPsAo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgrjgJDkuIDjgIHov5nkuKrmlofku7blpLnph4zpg73mnInku4DkuYjjgJEKCiAg6YOR5bee5rWB5rWq5Yqo54mp5pWR5Yqp5a+86IiqREFwcC8KICDilJzilIAgaW5kZXguaHRtbCAgICAgICAgICAgICAg5Zyw5Zu+5a+86Iiq6aaW6aG177yI54K55L2N5qCH6K6wIC8g562b6YCJIC8g5LiA6ZSu5a+86Iiq77yJCiAg4pSc4pSAIHBhZ2VzLyAgICAgICAgICAgICAgICAgIOWFtuS9mSA3IOS4quWKn+iDvemhtQogIOKUgiAgIOKUnOKUgCByZXBvcnQuaHRtbCAgICAgICAgIOS4iuaKpee6v+e0ou+8iOWQqyBTSEEtMjU2IOWunuaXtuWtmOivgemihOiniO+8iQogIOKUgiAgIOKUnOKUgCBhbmltYWxzLmh0bWwgICAgICAgIOWKqOeJqeaho+ahiO+8iOWtmOivgeagoemqjCArIOa1gei9rOaXtumXtOe6v++8iQogIOKUgiAgIOKUnOKUgCBhZG9wdGlvbi5odG1sICAgICAgIOmihuWFu+S4reW/g++8iOeUs+ivt+ihqCAvIOWbnuiuv+iusOW9le+8iQogIOKUgiAgIOKUnOKUgCBhZG1pbi5odG1sICAgICAgICAgIOeuoeeQhuWQjuWPsO+8iOWuoeaguCAvIOe0p+aApeaxguWKqSAvIOenr+WIhuWPkeaUvu+8iQogIOKUgiAgIOKUnOKUgCBtZXNzYWdlcy5odG1sICAgICAgIOermeWGhea2iOaBr+mAmuefpQogIOKUgiAgIOKUnOKUgCBwb2ludHMuaHRtbCAgICAgICAgIOWFrOebiuenr+WIhuaOkuihjOamnAogIOKUgiAgIOKUlOKUgCBleHBsb3Jlci5odG1sICAgICAgIOWMuuWdl+a1j+iniOWZqCArIOWtmOivgeagoemqjAogIOKUnOKUgCBhc3NldHMvICAgICAgICAgICAgICAgICDliY3nq6/ku6PnoIHvvIhqcyAvIGNzc++8iQogIOKUgiAgIOKUlOKUgCBqcy9jb25maWcuanMgICAgICAgIOKYhSDpq5jlvrcgS2V544CB5Z+O5biC44CB6ZO+6YWN572u6YO95Zyo6L+Z6YeM5pS5CiAg4pSc4pSAIGNvbnRyYWN0cy8gICAgICAgICAgICAgIDMg5Lu9IFNvbGlkaXR5IOWQiOe6piArIOe8luivkeS6p+eJqe+8iGFiaSAvIGJpbu+8iQogIOKUnOKUgCBzY3JpcHRzLyAgICAgICAgICAgICAgICDnvJbor5EgLyDlhpLng5/mtYvor5UgLyDpg6jnvbIgLyDnrb7lkI3nvZHlhbMKICDilJzilIAgZG9jcy9ERVBMT1kubWQgICAgICAgICAgV1NMMiArIEZJU0NPIEJDT1Mg55yf6ZO+5o6l5YWl5omL5YaMCiAg4pSc4pSAIHN0YXJ0LXByZXZpZXcuYmF0ICAgICAgIOKYhSDlj4zlh7vljbPlj6/mnKzlnLDpooTop4gKICDilJzilIAgZGVwbG95LWdpdGh1Yi5iYXQgICAgICAg4piFIOWPjOWHu+WNs+WPr+WPkeW4g+WIsCBHaXRIdWIgUGFnZXMKICDilJTilIAgUkVBRE1FLm1kICAgICAgICAgICAgICAg5a6M5pW05paH5qGj77yI5Yqf6IO95a+554Wn44CB5ryU56S65Ymn5pys44CB5pWw5o2u5qih5Z6L77yJCgogIOKAuyDov5nmmK/kuIDkuKogR2l0IOS7k+W6k++8jOW3suWIneWni+WMluW5tuaPkOS6pO+8jOmaj+aXtuWPr+S7peaOqOmAgeWIsCBHaXRIdWLjgIIKCgrjgJDkuozjgIHmnKzlnLDov5DooYzvvIjmnIDph43opoHnmoTkuIDmraXvvInjgJEKCiAg5pa55byPQe+8muWPjOWHuyAgc3RhcnQtcHJldmlldy5iYXQKICDmlrnlvI9C77ya5Zyo5pys5paH5Lu25aS56YeM5omT5byAIEdpdCBCYXNo77yM5omn6KGMIGJhc2ggc3RhcnQtcHJldmlldy5zaAoKICDkuYvlkI7mtY/op4jlmajkvJroh6rliqjmiZPlvIAgaHR0cDovLzEyNy4wLjAuMTo4OTAyLwoKICAhISDms6jmhI8gISEgIOe7neWvueS4jeimgeebtOaOpeWPjOWHuyBpbmRleC5odG1s44CCCiAgICAgZmlsZTovLyDljY/orq7kuIvmtY/op4jlmajkvJrnpoHnlKggY3J5cHRvLnN1YnRsZe+8jAogICAgIOe6v+e0ouWtmOivgeeahCBTSEEtMjU2IOWFqOmDqOWkseaViO+8jOW/hemhu+i1sCBodHRwOi8vMTI3LjAuMC4x44CCCgoK44CQ5LiJ44CBOCDliIbpkp/mvJTnpLrliafmnKzvvIjlj7PkuIrop5LliIfmjaLouqvku73vvInjgJEKCiAg5YaF572uIDUg5Liq6Lqr5Lu977ya5bmz5Y+w566h55CG5ZGYIC8gMiDkuKrmlZHliqnnq5kgLyAyIOS9jeW4guawkQoKICAxLiDluILmsJHCt+Wwj+aelyDihpIg44CM5LiK5oql57q/57Si44CN77ya5aGr6KGoICsg5Zyw5Zu+6YCJ54K5ICsg5LiK5Lyg54Wn54mHCiAgICAg5Y+z5L6n5a6e5pe25pi+56S6566X5aW955qEIFNIQS0yNTbvvIzmj5DkuqTkuIrpk74g4oaSIOaLv+WIsOS6pOaYk+WTiOW4jOS4juWMuuWdl+mrmOW6pgogIDIuIOWIh+OAjOW5s+WPsOeuoeeQhuWRmOOAjeKGkiDjgIznrqHnkIblkI7lj7Ag4oaSIOe6v+e0ouWuoeaguOOAjQogICAgIOmHjeS8pC/nl4XljbHnmoTnur/ntKLmoIfnuqLnva7pobYg4oaSIOWPr+mAmui/h+aIlumps+Wbnu+8iOWhq+eQhueUse+8iQogIDMuIOeuoeeQhuWRmCDihpIg44CM5Yqo54mp5qGj5qGI44CN4oaSIOeCueOAjOagoemqjOOAjeaMiemSrgogICAgIOS8mueUqOmTvuS4iuaVsOaNruWPjeWQkemHjeW7uuWOn+aWh+WGjeeul+S4gOasoeWTiOW4jOWBmuavlOWvuSDigJTigJQg6L+Z5piv5pyA5YC85b6X6K6y55qE54K5CiAgNC4g5biC5rCRIOKGkiDjgIzpooblhbvkuK3lv4PjgI3ihpIg5a+55LiA5Y+q5b6F6aKG5YW75Yqo54mp5o+Q5Lqk6aKG5YW755Sz6K+377yI6KGo5Y2V5ZOI5biM5LiK6ZO+77yJCiAgNS4g566h55CG5ZGYIOKGkiDjgIznrqHnkIblkI7lj7Ag4oaSIOmihuWFu+WuoeaguOOAjeWujOaVtOi1sOS4gOmBje+8mgogICAgIOiDjOaZr+aguOmqjCDihpIg5a6h5qC46YCa6L+H77yI5aGr5Zue6K6/6K6h5YiS77yJ4oaSIOetvue6piDihpIgMyDmrKHlm57orr8g4oaSIOWujOaIkAogIDYuIOOAjOeuoeeQhuWQjuWPsCDihpIg6aKG5YW75a6h5qC444CN4oaSIOWvueW3suetvue6pueUs+ivt+eCueOAjOagh+iusOW8g+WFu+i/nee6puOAjQogICAgIOenr+WIhuaJoyAzMO+8jOWKqOeJqeiHquWKqOWbnuWIsOOAjOW+hemihuWFu+OAjeKAlOKAlCDpmLLkuozmrKHmtYHmtarpl63njq8KICA3LiDjgIzlhaznm4rnp6/liIbjgI3nnIvmjpLooYzmppzkuI7mtYHmsLTvvJvnrqHnkIblkZjlj6/lnKjlkI7lj7Dlj5HmlL7np6/liIYKICA4LiDjgIzpk77kuIrlrZjor4HjgI3mn6XnnIvljLrlnZcgLyDkuqTmmJMgLyDkuovku7bml6Xlv5fvvIzmiJbkuIrkvKDnhafniYfpqozor4Hlk4jluIwKCgrjgJDlm5vjgIHlj5HluIPliLAgR2l0SHViIFBhZ2Vz77yI5ou/5Yiw5YWs572R6ZO+5o6l77yJ44CRCgogIOWPjOWHuyAgZGVwbG95LWdpdGh1Yi5iYXQKCiAg5oyJ5o+Q56S66L6T5YWl77yaCiAgICDCtyBHaXRIdWIg55So5oi35ZCNCiAgICDCtyBQZXJzb25hbCBBY2Nlc3MgVG9rZW4KICAgICAg55Sz6K+377yaaHR0cHM6Ly9naXRodWIuY29tL3NldHRpbmdzL3Rva2VucwogICAgICAgICAgICDihpIgR2VuZXJhdGUgbmV3IHRva2VuIChjbGFzc2ljKQogICAgICAgICAgICDihpIg5Yu+6YCJIHJlcG/jgIF3b3JrZmxvdwoKICDohJrmnKzkvJroh6rliqjvvJoKICAgIOagoemqjCBUb2tlbiDihpIg5bu65YWs5byA5LuT5bqTIOKGkiDmj5DkuqQg4oaSIOaOqOmAgSBtYWluCiAgICDihpIg5byA5ZCvIFBhZ2VzKEFjdGlvbnMpIOKGkiDnrYnlvoXmnoTlu7og4oaSIOaJk+WNsOmTvuaOpQoKICDnuqYgMSDliIbpkp/lkI7lvpfliLDvvJoKICAgIGh0dHBzOi8vPOS9oOeahOeUqOaIt+WQjT4uZ2l0aHViLmlvL3p6LWFuaW1hbC1jaGFpbi8KCiAg77yI5o6o6YCB5ZCO5Lya6Ieq5Yqo5pOm6Zmk5pys5ZywIHJlbW90ZSDph4zmrovnlZnnmoTmmI7mlocgVG9rZW7vvIkKCgrjgJDkupTjgIHmjqXnnJ/lrp7ljLrlnZfpk74gRklTQ08gQkNPU++8iOWPr+mAieWKoOWIhumhue+8ieOAkQoKICDor6bop4EgZG9jcy9ERVBMT1kubWQg55qEIEIg6YOo5YiG77yM5a6M5pW05rWB56iL77yaCgogICAgd3NsIC0taW5zdGFsbCAtZCBVYnVudHUtMjIuMDQKICAgICMgV1NMIOWGhQogICAgYmFzaCA8KGN1cmwgLXMgaHR0cHM6Ly9naXRlZS5jb20vRklTQ08tQkNPUy9GSVNDTy1CQ09TL3Jhdy9tYXN0ZXIvdG9vbHMvYnVpbGRfY2hhaW4uc2gpIFwKICAgICAgICAgLWwgMTI3LjAuMC4xOjQgLW8gbm9kZXMgLXAgMzAzMDAsMjAyMDAsODU0NQogICAgYmFzaCBub2Rlcy8xMjcuMC4wLjEvc3RhcnRfYWxsLnNoCiAgICAjIFdpbmRvd3MgUG93ZXJTaGVsbO+8iOWbnuWIsOacrOaWh+S7tuWkue+8iQogICAgbnBtIGluc3RhbGwgJiYgbnBtIHJ1biBjb21waWxlCiAgICBjZCBzY3JpcHRzL3JlbGF5ZXIgJiYgbnBtIGluc3RhbGwgJiYgbnBtIHJ1biByZWxheQogICAgIyDlj6blvIDkuIDkuKrnu4jnq68KICAgIG5vZGUgc2NyaXB0cy9kZXBsb3ktY2hhaW4uanMKCiAg6YOo572y6ISa5pys5Lya6Ieq5Yqo5oqK5ZCI57qm5Zyw5Z2A5Zue5aGr5YiwIGFzc2V0cy9qcy9jb25maWcuanPvvIwKICDlubbmioogY2hhaW4uZHJpdmVyIOS7jiAnbW9jaycg5pS55oiQICdmaXNjbyfjgIIKCgrjgJDlha3jgIHov5jlt67kvaDkuKTku7bkuovjgJEKCiAgMSkg6auY5b635Zyw5Zu+IEtleQogICAgIOeUs+ivt+WcsOWdgO+8mmh0dHBzOi8vY29uc29sZS5hbWFwLmNvbQogICAgIOW6lOeUqC9LZXkg5ZCN56ew5aGr77yaemhlbmd6X2FuaW1hbAogICAgIOacjeWKoeW5s+WPsOS4gOWumumAie+8mldlYuerryhKUyBBUEkpCiAgICAg5ou/5Yiw5ZCO5omT5byAIGFzc2V0cy9qcy9jb25maWcuanPvvIzloavlhaXvvJoKICAgICAgICAgQU1BUF9LRVk6ICfkvaDnmoRLZXknLAogICAgICAgICBBTUFQX1NFQ1VSSVRZX0NPREU6ICfkvaDnmoTlronlhajlr4bpkqVqc2NvZGUnLAogICAgIOS4jeWhq+S5n+iDveato+W4uOi3ke+8jOS8muiHquWKqOmZjee6p+S4uiBMZWFmbGV0ICsg6auY5b635YWs5byA55Om54mH5bqV5Zu+77yMCiAgICAg5LiA6ZSu5a+86Iiq6LWwIHVyaS5hbWFwLmNvbSDlhY0gS2V5IOmAmumBk++8jOWKn+iDveS4gOS4quS4jeWwkeOAggoKICAyKSBHaXRIdWIgVG9rZW7vvIjop4HnrKzlm5voioLvvIkKCgrjgJDkuIPjgIHlhbPkuo4i5Yy65Z2X6ZO+IueahOivtOaYjuOAkQoKICDCtyDlkIjnuqbmmK/nnJ/lkIjnuqbvvJpTb2xpZGl0eSAwLjguMTEg57yW5YaZ77yMc29sYyDnvJbor5HpgJrov4fvvIzlj6/nm7TmjqXpg6jnvbLliLAKICAgIEZJU0NPIEJDT1MgMy5477yM5LiN5piv5YGH55qE44CCCiAgwrcg6buY6K6k6LeR55qE5piv44CM5YaF572u5qih5ouf6ZO+44CN77ya5a6M5pW05aSN5Yi75LqG5LiJ5Lu95ZCI57qm55qE5YWo6YOo6YC76L6R77yMCiAgICDmnInljLrlnZfpq5jluqbjgIHmnInkuqTmmJPlk4jluIzjgIHmnInniLblk4jluIzpk77lvI/nu5PmnoTjgIHmnInkuovku7bml6Xlv5fvvIwKICAgIOWtmOivgeeUqOeahOaYr+a1j+iniOWZqOWOn+eUn+ecnyBTSEEtMjU277yM5pWw5o2u5a2Y5ZyoIGxvY2FsU3RvcmFnZeOAggogIMK3IOaYjuehruS4jeWBmuS7o+W4geOAgeS4jeWBmui1hOmHkei9rOi0pu+8jOWFrOebiuenr+WIhuWPquaYr+iusOi0puaVsOWtl+OAggoKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQo=
+================================================================
+  郑州流浪动物救助链上导航 DApp
+  基于区块链的流浪动物救助 · 领养全流程存证导航平台
+================================================================
+
+【一、这个文件夹里都有什么】
+
+  郑州流浪动物救助导航DApp/
+  ├─ index.html              地图导航首页（点位标记 / 筛选 / 一键导航）
+  ├─ pages/                  其余 7 个功能页
+  │   ├─ report.html         上报线索（含 SHA-256 实时存证预览）
+  │   ├─ animals.html        动物档案（存证校验 + 流转时间线）
+  │   ├─ adoption.html       领养中心（申请表 / 回访记录）
+  │   ├─ admin.html          管理后台（审核 / 紧急求助 / 积分发放）
+  │   ├─ messages.html       站内消息通知
+  │   ├─ points.html         公益积分排行榜
+  │   └─ explorer.html       区块浏览器 + 存证校验
+  ├─ assets/                 前端代码（js / css）
+  │   └─ js/config.js        ★ 高德 Key、城市、链配置都在这里改
+  ├─ contracts/              3 份 Solidity 合约 + 编译产物（abi / bin）
+  ├─ scripts/                编译 / 冒烟测试 / 部署 / 签名网关
+  ├─ docs/DEPLOY.md          WSL2 + FISCO BCOS 真链接入手册
+  ├─ start-preview.bat       ★ 双击即可本地预览
+  ├─ deploy-github.bat       ★ 双击即可发布到 GitHub Pages
+  └─ README.md               完整文档（功能对照、演示剧本、数据模型）
+
+  ※ 这是一个 Git 仓库，已初始化并提交，随时可以推送到 GitHub。
+
+
+【二、本地运行（最重要的一步）】
+
+  方式A：双击  start-preview.bat
+  方式B：在本文件夹里打开 Git Bash，执行 bash start-preview.sh
+
+  之后浏览器会自动打开 http://127.0.0.1:8902/
+
+  !! 注意 !!  绝对不要直接双击 index.html。
+     file:// 协议下浏览器会禁用 crypto.subtle，
+     线索存证的 SHA-256 全部失效，必须走 http://127.0.0.1。
+
+
+【三、8 分钟演示剧本（右上角切换身份）】
+
+  内置 5 个身份：平台管理员 / 2 个救助站 / 2 位市民
+
+  1. 市民·小林 → 「上报线索」：填表 + 地图选点 + 上传照片
+     右侧实时显示算好的 SHA-256，提交上链 → 拿到交易哈希与区块高度
+  2. 切「平台管理员」→ 「管理后台 → 线索审核」
+     重伤/病危的线索标红置顶 → 可通过或驳回（填理由）
+  3. 管理员 → 「动物档案」→ 点「校验」按钮
+     会用链上数据反向重建原文再算一次哈希做比对 —— 这是最值得讲的点
+  4. 市民 → 「领养中心」→ 对一只待领养动物提交领养申请（表单哈希上链）
+  5. 管理员 → 「管理后台 → 领养审核」完整走一遍：
+     背景核验 → 审核通过（填回访计划）→ 签约 → 3 次回访 → 完成
+  6. 「管理后台 → 领养审核」→ 对已签约申请点「标记弃养违约」
+     积分扣 30，动物自动回到「待领养」—— 防二次流浪闭环
+  7. 「公益积分」看排行榜与流水；管理员可在后台发放积分
+  8. 「链上存证」查看区块 / 交易 / 事件日志，或上传照片验证哈希
+
+
+【四、发布到 GitHub Pages（拿到公网链接）】
+
+  双击  deploy-github.bat
+
+  按提示输入：
+    · GitHub 用户名
+    · Personal Access Token
+      申请：https://github.com/settings/tokens
+            → Generate new token (classic)
+            → 勾选 repo、workflow
+
+  脚本会自动：
+    校验 Token → 建公开仓库 → 提交 → 推送 main
+    → 开启 Pages(Actions) → 等待构建 → 打印链接
+
+  约 1 分钟后得到：
+    https://<你的用户名>.github.io/zz-animal-chain/
+
+  （推送后会自动擦除本地 remote 里残留的明文 Token）
+
+
+【五、接真实区块链 FISCO BCOS（可选加分项）】
+
+  详见 docs/DEPLOY.md 的 B 部分，完整流程：
+
+    wsl --install -d Ubuntu-22.04
+    # WSL 内
+    bash <(curl -s https://gitee.com/FISCO-BCOS/FISCO-BCOS/raw/master/tools/build_chain.sh) \
+         -l 127.0.0.1:4 -o nodes -p 30300,20200,8545
+    bash nodes/127.0.0.1/start_all.sh
+    # Windows PowerShell（回到本文件夹）
+    npm install && npm run compile
+    cd scripts/relayer && npm install && npm run relay
+    # 另开一个终端
+    node scripts/deploy-chain.js
+
+  部署脚本会自动把合约地址回填到 assets/js/config.js，
+  并把 chain.driver 从 'mock' 改成 'fisco'。
+
+
+【六、还差你两件事】
+
+  1) 高德地图 Key
+     申请地址：https://console.amap.com
+     应用/Key 名称填：zhengz_animal
+     服务平台一定选：Web端(JS API)
+     拿到后打开 assets/js/config.js，填入：
+         AMAP_KEY: '你的Key',
+         AMAP_SECURITY_CODE: '你的安全密钥jscode',
+     不填也能正常跑，会自动降级为 Leaflet + 高德公开瓦片底图，
+     一键导航走 uri.amap.com 免 Key 通道，功能一个不少。
+
+  2) GitHub Token（见第四节）
+
+
+【七、关于"区块链"的说明】
+
+  · 合约是真合约：Solidity 0.8.11 编写，solc 编译通过，可直接部署到
+    FISCO BCOS 3.x，不是假的。
+  · 默认跑的是「内置模拟链」：完整复刻了三份合约的全部逻辑，
+    有区块高度、有交易哈希、有父哈希链式结构、有事件日志，
+    存证用的是浏览器原生真 SHA-256，数据存在 localStorage。
+  · 明确不做代币、不做资金转账，公益积分只是记账数字。
+
+================================================================

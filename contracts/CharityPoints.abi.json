@@ -1,1 +1,378 @@
-WwogIHsKICAgICJpbnB1dHMiOiBbXSwKICAgICJzdGF0ZU11dGFiaWxpdHkiOiAibm9ucGF5YWJsZSIsCiAgICAidHlwZSI6ICJjb25zdHJ1Y3RvciIKICB9LAogIHsKICAgICJhbm9ueW1vdXMiOiBmYWxzZSwKICAgICJpbnB1dHMiOiBbCiAgICAgIHsKICAgICAgICAiaW5kZXhlZCI6IHRydWUsCiAgICAgICAgImludGVybmFsVHlwZSI6ICJhZGRyZXNzIiwKICAgICAgICAibmFtZSI6ICJhY2NvdW50IiwKICAgICAgICAidHlwZSI6ICJhZGRyZXNzIgogICAgICB9LAogICAgICB7CiAgICAgICAgImluZGV4ZWQiOiBmYWxzZSwKICAgICAgICAiaW50ZXJuYWxUeXBlIjogImJvb2wiLAogICAgICAgICJuYW1lIjogImVuYWJsZWQiLAogICAgICAgICJ0eXBlIjogImJvb2wiCiAgICAgIH0KICAgIF0sCiAgICAibmFtZSI6ICJNaW50ZXJVcGRhdGVkIiwKICAgICJ0eXBlIjogImV2ZW50IgogIH0sCiAgewogICAgImFub255bW91cyI6IGZhbHNlLAogICAgImlucHV0cyI6IFsKICAgICAgewogICAgICAgICJpbmRleGVkIjogdHJ1ZSwKICAgICAgICAiaW50ZXJuYWxUeXBlIjogImFkZHJlc3MiLAogICAgICAgICJuYW1lIjogInRvIiwKICAgICAgICAidHlwZSI6ICJhZGRyZXNzIgogICAgICB9LAogICAgICB7CiAgICAgICAgImluZGV4ZWQiOiBmYWxzZSwKICAgICAgICAiaW50ZXJuYWxUeXBlIjogInVpbnQyNTYiLAogICAgICAgICJuYW1lIjogImFtb3VudCIsCiAgICAgICAgInR5cGUiOiAidWludDI1NiIKICAgICAgfSwKICAgICAgewogICAgICAgICJpbmRleGVkIjogZmFsc2UsCiAgICAgICAgImludGVybmFsVHlwZSI6ICJzdHJpbmciLAogICAgICAgICJuYW1lIjogInJlYXNvbiIsCiAgICAgICAgInR5cGUiOiAic3RyaW5nIgogICAgICB9LAogICAgICB7CiAgICAgICAgImluZGV4ZWQiOiB0cnVlLAogICAgICAgICJpbnRlcm5hbFR5cGUiOiAiYWRkcmVzcyIsCiAgICAgICAgIm5hbWUiOiAib3BlcmF0b3IiLAogICAgICAgICJ0eXBlIjogImFkZHJlc3MiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiaW5kZXhlZCI6IGZhbHNlLAogICAgICAgICJpbnRlcm5hbFR5cGUiOiAidWludDY0IiwKICAgICAgICAibmFtZSI6ICJ0cyIsCiAgICAgICAgInR5cGUiOiAidWludDY0IgogICAgICB9CiAgICBdLAogICAgIm5hbWUiOiAiUG9pbnRzQXdhcmRlZCIsCiAgICAidHlwZSI6ICJldmVudCIKICB9LAogIHsKICAgICJhbm9ueW1vdXMiOiBmYWxzZSwKICAgICJpbnB1dHMiOiBbCiAgICAgIHsKICAgICAgICAiaW5kZXhlZCI6IHRydWUsCiAgICAgICAgImludGVybmFsVHlwZSI6ICJhZGRyZXNzIiwKICAgICAgICAibmFtZSI6ICJmcm9tIiwKICAgICAgICAidHlwZSI6ICJhZGRyZXNzIgogICAgICB9LAogICAgICB7CiAgICAgICAgImluZGV4ZWQiOiBmYWxzZSwKICAgICAgICAiaW50ZXJuYWxUeXBlIjogInVpbnQyNTYiLAogICAgICAgICJuYW1lIjogImFtb3VudCIsCiAgICAgICAgInR5cGUiOiAidWludDI1NiIKICAgICAgfSwKICAgICAgewogICAgICAgICJpbmRleGVkIjogZmFsc2UsCiAgICAgICAgImludGVybmFsVHlwZSI6ICJzdHJpbmciLAogICAgICAgICJuYW1lIjogInJlYXNvbiIsCiAgICAgICAgInR5cGUiOiAic3RyaW5nIgogICAgICB9LAogICAgICB7CiAgICAgICAgImluZGV4ZWQiOiB0cnVlLAogICAgICAgICJpbnRlcm5hbFR5cGUiOiAiYWRkcmVzcyIsCiAgICAgICAgIm5hbWUiOiAib3BlcmF0b3IiLAogICAgICAgICJ0eXBlIjogImFkZHJlc3MiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiaW5kZXhlZCI6IGZhbHNlLAogICAgICAgICJpbnRlcm5hbFR5cGUiOiAidWludDY0IiwKICAgICAgICAibmFtZSI6ICJ0cyIsCiAgICAgICAgInR5cGUiOiAidWludDY0IgogICAgICB9CiAgICBdLAogICAgIm5hbWUiOiAiUG9pbnRzRGVkdWN0ZWQiLAogICAgInR5cGUiOiAiZXZlbnQiCiAgfSwKICB7CiAgICAiaW5wdXRzIjogWwogICAgICB7CiAgICAgICAgImludGVybmFsVHlwZSI6ICJhZGRyZXNzIiwKICAgICAgICAibmFtZSI6ICJ0byIsCiAgICAgICAgInR5cGUiOiAiYWRkcmVzcyIKICAgICAgfSwKICAgICAgewogICAgICAgICJpbnRlcm5hbFR5cGUiOiAidWludDI1NiIsCiAgICAgICAgIm5hbWUiOiAiYW1vdW50IiwKICAgICAgICAidHlwZSI6ICJ1aW50MjU2IgogICAgICB9LAogICAgICB7CiAgICAgICAgImludGVybmFsVHlwZSI6ICJzdHJpbmciLAogICAgICAgICJuYW1lIjogInJlYXNvbiIsCiAgICAgICAgInR5cGUiOiAic3RyaW5nIgogICAgICB9CiAgICBdLAogICAgIm5hbWUiOiAiYXdhcmQiLAogICAgIm91dHB1dHMiOiBbXSwKICAgICJzdGF0ZU11dGFiaWxpdHkiOiAibm9ucGF5YWJsZSIsCiAgICAidHlwZSI6ICJmdW5jdGlvbiIKICB9LAogIHsKICAgICJpbnB1dHMiOiBbCiAgICAgIHsKICAgICAgICAiaW50ZXJuYWxUeXBlIjogInVpbnQyNTYiLAogICAgICAgICJuYW1lIjogImluZGV4IiwKICAgICAgICAidHlwZSI6ICJ1aW50MjU2IgogICAgICB9CiAgICBdLAogICAgIm5hbWUiOiAiYXdhcmRBdCIsCiAgICAib3V0cHV0cyI6IFsKICAgICAgewogICAgICAgICJjb21wb25lbnRzIjogWwogICAgICAgICAgewogICAgICAgICAgICAiaW50ZXJuYWxUeXBlIjogInVpbnQyNTYiLAogICAgICAgICAgICAibmFtZSI6ICJhbW91bnQiLAogICAgICAgICAgICAidHlwZSI6ICJ1aW50MjU2IgogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgImludGVybmFsVHlwZSI6ICJzdHJpbmciLAogICAgICAgICAgICAibmFtZSI6ICJyZWFzb24iLAogICAgICAgICAgICAidHlwZSI6ICJzdHJpbmciCiAgICAgICAgICB9LAogICAgICAgICAgewogICAgICAgICAgICAiaW50ZXJuYWxUeXBlIjogImFkZHJlc3MiLAogICAgICAgICAgICAibmFtZSI6ICJvcGVyYXRvciIsCiAgICAgICAgICAgICJ0eXBlIjogImFkZHJlc3MiCiAgICAgICAgICB9LAogICAgICAgICAgewogICAgICAgICAgICAiaW50ZXJuYWxUeXBlIjogInVpbnQ2NCIsCiAgICAgICAgICAgICJuYW1lIjogInRzIiwKICAgICAgICAgICAgInR5cGUiOiAidWludDY0IgogICAgICAgICAgfQogICAgICAgIF0sCiAgICAgICAgImludGVybmFsVHlwZSI6ICJzdHJ1Y3QgQ2hhcml0eVBvaW50cy5Bd2FyZCIsCiAgICAgICAgIm5hbWUiOiAiIiwKICAgICAgICAidHlwZSI6ICJ0dXBsZSIKICAgICAgfQogICAgXSwKICAgICJzdGF0ZU11dGFiaWxpdHkiOiAidmlldyIsCiAgICAidHlwZSI6ICJmdW5jdGlvbiIKICB9LAogIHsKICAgICJpbnB1dHMiOiBbCiAgICAgIHsKICAgICAgICAiaW50ZXJuYWxUeXBlIjogImFkZHJlc3NbXSIsCiAgICAgICAgIm5hbWUiOiAiYWNjb3VudHMiLAogICAgICAgICJ0eXBlIjogImFkZHJlc3NbXSIKICAgICAgfSwKICAgICAgewogICAgICAgICJpbnRlcm5hbFR5cGUiOiAidWludDI1NltdIiwKICAgICAgICAibmFtZSI6ICJhbW91bnRzIiwKICAgICAgICAidHlwZSI6ICJ1aW50MjU2W10iCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiaW50ZXJuYWxUeXBlIjogInN0cmluZyIsCiAgICAgICAgIm5hbWUiOiAicmVhc29uIiwKICAgICAgICAidHlwZSI6ICJzdHJpbmciCiAgICAgIH0KICAgIF0sCiAgICAibmFtZSI6ICJhd2FyZEJhdGNoIiwKICAgICJvdXRwdXRzIjogW10sCiAgICAic3RhdGVNdXRhYmlsaXR5IjogIm5vbnBheWFibGUiLAogICAgInR5cGUiOiAiZnVuY3Rpb24iCiAgfSwKICB7CiAgICAiaW5wdXRzIjogW10sCiAgICAibmFtZSI6ICJhd2FyZENvdW50IiwKICAgICJvdXRwdXRzIjogWwogICAgICB7CiAgICAgICAgImludGVybmFsVHlwZSI6ICJ1aW50MjU2IiwKICAgICAgICAibmFtZSI6ICIiLAogICAgICAgICJ0eXBlIjogInVpbnQyNTYiCiAgICAgIH0KICAgIF0sCiAgICAic3RhdGVNdXRhYmlsaXR5IjogInZpZXciLAogICAgInR5cGUiOiAiZnVuY3Rpb24iCiAgfSwKICB7CiAgICAiaW5wdXRzIjogWwogICAgICB7CiAgICAgICAgImludGVybmFsVHlwZSI6ICJhZGRyZXNzIiwKICAgICAgICAibmFtZSI6ICJhY2NvdW50IiwKICAgICAgICAidHlwZSI6ICJhZGRyZXNzIgogICAgICB9CiAgICBdLAogICAgIm5hbWUiOiAiYXdhcmRzT2YiLAogICAgIm91dHB1dHMiOiBbCiAgICAgIHsKICAgICAgICAiY29tcG9uZW50cyI6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgImludGVybmFsVHlwZSI6ICJ1aW50MjU2IiwKICAgICAgICAgICAgIm5hbWUiOiAiYW1vdW50IiwKICAgICAgICAgICAgInR5cGUiOiAidWludDI1NiIKICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgICJpbnRlcm5hbFR5cGUiOiAic3RyaW5nIiwKICAgICAgICAgICAgIm5hbWUiOiAicmVhc29uIiwKICAgICAgICAgICAgInR5cGUiOiAic3RyaW5nIgogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgImludGVybmFsVHlwZSI6ICJhZGRyZXNzIiwKICAgICAgICAgICAgIm5hbWUiOiAib3BlcmF0b3IiLAogICAgICAgICAgICAidHlwZSI6ICJhZGRyZXNzIgogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgImludGVybmFsVHlwZSI6ICJ1aW50NjQiLAogICAgICAgICAgICAibmFtZSI6ICJ0cyIsCiAgICAgICAgICAgICJ0eXBlIjogInVpbnQ2NCIKICAgICAgICAgIH0KICAgICAgICBdLAogICAgICAgICJpbnRlcm5hbFR5cGUiOiAic3RydWN0IENoYXJpdHlQb2ludHMuQXdhcmRbXSIsCiAgICAgICAgIm5hbWUiOiAibGlzdCIsCiAgICAgICAgInR5cGUiOiAidHVwbGVbXSIKICAgICAgfQogICAgXSwKICAgICJzdGF0ZU11dGFiaWxpdHkiOiAidmlldyIsCiAgICAidHlwZSI6ICJmdW5jdGlvbiIKICB9LAogIHsKICAgICJpbnB1dHMiOiBbCiAgICAgIHsKICAgICAgICAiaW50ZXJuYWxUeXBlIjogImFkZHJlc3MiLAogICAgICAgICJuYW1lIjogIiIsCiAgICAgICAgInR5cGUiOiAiYWRkcmVzcyIKICAgICAgfQogICAgXSwKICAgICJuYW1lIjogImJhbGFuY2VPZiIsCiAgICAib3V0cHV0cyI6IFsKICAgICAgewogICAgICAgICJpbnRlcm5hbFR5cGUiOiAidWludDI1NiIsCiAgICAgICAgIm5hbWUiOiAiIiwKICAgICAgICAidHlwZSI6ICJ1aW50MjU2IgogICAgICB9CiAgICBdLAogICAgInN0YXRlTXV0YWJpbGl0eSI6ICJ2aWV3IiwKICAgICJ0eXBlIjogImZ1bmN0aW9uIgogIH0sCiAgewogICAgImlucHV0cyI6IFsKICAgICAgewogICAgICAgICJpbnRlcm5hbFR5cGUiOiAiYWRkcmVzcyIsCiAgICAgICAgIm5hbWUiOiAiZnJvbSIsCiAgICAgICAgInR5cGUiOiAiYWRkcmVzcyIKICAgICAgfSwKICAgICAgewogICAgICAgICJpbnRlcm5hbFR5cGUiOiAidWludDI1NiIsCiAgICAgICAgIm5hbWUiOiAiYW1vdW50IiwKICAgICAgICAidHlwZSI6ICJ1aW50MjU2IgogICAgICB9LAogICAgICB7CiAgICAgICAgImludGVybmFsVHlwZSI6ICJzdHJpbmciLAogICAgICAgICJuYW1lIjogInJlYXNvbiIsCiAgICAgICAgInR5cGUiOiAic3RyaW5nIgogICAgICB9CiAgICBdLAogICAgIm5hbWUiOiAiZGVkdWN0IiwKICAgICJvdXRwdXRzIjogW10sCiAgICAic3RhdGVNdXRhYmlsaXR5IjogIm5vbnBheWFibGUiLAogICAgInR5cGUiOiAiZnVuY3Rpb24iCiAgfSwKICB7CiAgICAiaW5wdXRzIjogWwogICAgICB7CiAgICAgICAgImludGVybmFsVHlwZSI6ICJhZGRyZXNzIiwKICAgICAgICAibmFtZSI6ICIiLAogICAgICAgICJ0eXBlIjogImFkZHJlc3MiCiAgICAgIH0KICAgIF0sCiAgICAibmFtZSI6ICJtaW50ZXJzIiwKICAgICJvdXRwdXRzIjogWwogICAgICB7CiAgICAgICAgImludGVybmFsVHlwZSI6ICJib29sIiwKICAgICAgICAibmFtZSI6ICIiLAogICAgICAgICJ0eXBlIjogImJvb2wiCiAgICAgIH0KICAgIF0sCiAgICAic3RhdGVNdXRhYmlsaXR5IjogInZpZXciLAogICAgInR5cGUiOiAiZnVuY3Rpb24iCiAgfSwKICB7CiAgICAiaW5wdXRzIjogW10sCiAgICAibmFtZSI6ICJvd25lciIsCiAgICAib3V0cHV0cyI6IFsKICAgICAgewogICAgICAgICJpbnRlcm5hbFR5cGUiOiAiYWRkcmVzcyIsCiAgICAgICAgIm5hbWUiOiAiIiwKICAgICAgICAidHlwZSI6ICJhZGRyZXNzIgogICAgICB9CiAgICBdLAogICAgInN0YXRlTXV0YWJpbGl0eSI6ICJ2aWV3IiwKICAgICJ0eXBlIjogImZ1bmN0aW9uIgogIH0sCiAgewogICAgImlucHV0cyI6IFsKICAgICAgewogICAgICAgICJpbnRlcm5hbFR5cGUiOiAiYWRkcmVzcyIsCiAgICAgICAgIm5hbWUiOiAiYWNjb3VudCIsCiAgICAgICAgInR5cGUiOiAiYWRkcmVzcyIKICAgICAgfSwKICAgICAgewogICAgICAgICJpbnRlcm5hbFR5cGUiOiAiYm9vbCIsCiAgICAgICAgIm5hbWUiOiAiZW5hYmxlZCIsCiAgICAgICAgInR5cGUiOiAiYm9vbCIKICAgICAgfQogICAgXSwKICAgICJuYW1lIjogInNldE1pbnRlciIsCiAgICAib3V0cHV0cyI6IFtdLAogICAgInN0YXRlTXV0YWJpbGl0eSI6ICJub25wYXlhYmxlIiwKICAgICJ0eXBlIjogImZ1bmN0aW9uIgogIH0sCiAgewogICAgImlucHV0cyI6IFsKICAgICAgewogICAgICAgICJpbnRlcm5hbFR5cGUiOiAiYWRkcmVzcyIsCiAgICAgICAgIm5hbWUiOiAiIiwKICAgICAgICAidHlwZSI6ICJhZGRyZXNzIgogICAgICB9CiAgICBdLAogICAgIm5hbWUiOiAidG90YWxFYXJuZWQiLAogICAgIm91dHB1dHMiOiBbCiAgICAgIHsKICAgICAgICAiaW50ZXJuYWxUeXBlIjogInVpbnQyNTYiLAogICAgICAgICJuYW1lIjogIiIsCiAgICAgICAgInR5cGUiOiAidWludDI1NiIKICAgICAgfQogICAgXSwKICAgICJzdGF0ZU11dGFiaWxpdHkiOiAidmlldyIsCiAgICAidHlwZSI6ICJmdW5jdGlvbiIKICB9LAogIHsKICAgICJpbnB1dHMiOiBbXSwKICAgICJuYW1lIjogInRvdGFsU3VwcGx5IiwKICAgICJvdXRwdXRzIjogWwogICAgICB7CiAgICAgICAgImludGVybmFsVHlwZSI6ICJ1aW50MjU2IiwKICAgICAgICAibmFtZSI6ICIiLAogICAgICAgICJ0eXBlIjogInVpbnQyNTYiCiAgICAgIH0KICAgIF0sCiAgICAic3RhdGVNdXRhYmlsaXR5IjogInZpZXciLAogICAgInR5cGUiOiAiZnVuY3Rpb24iCiAgfSwKICB7CiAgICAiaW5wdXRzIjogWwogICAgICB7CiAgICAgICAgImludGVybmFsVHlwZSI6ICJhZGRyZXNzIiwKICAgICAgICAibmFtZSI6ICJuZXdPd25lciIsCiAgICAgICAgInR5cGUiOiAiYWRkcmVzcyIKICAgICAgfQogICAgXSwKICAgICJuYW1lIjogInRyYW5zZmVyT3duZXJzaGlwIiwKICAgICJvdXRwdXRzIjogW10sCiAgICAic3RhdGVNdXRhYmlsaXR5IjogIm5vbnBheWFibGUiLAogICAgInR5cGUiOiAiZnVuY3Rpb24iCiAgfQpd
+[
+  {
+    "inputs": [],
+    "stateMutability": "nonpayable",
+    "type": "constructor"
+  },
+  {
+    "anonymous": false,
+    "inputs": [
+      {
+        "indexed": true,
+        "internalType": "address",
+        "name": "account",
+        "type": "address"
+      },
+      {
+        "indexed": false,
+        "internalType": "bool",
+        "name": "enabled",
+        "type": "bool"
+      }
+    ],
+    "name": "MinterUpdated",
+    "type": "event"
+  },
+  {
+    "anonymous": false,
+    "inputs": [
+      {
+        "indexed": true,
+        "internalType": "address",
+        "name": "to",
+        "type": "address"
+      },
+      {
+        "indexed": false,
+        "internalType": "uint256",
+        "name": "amount",
+        "type": "uint256"
+      },
+      {
+        "indexed": false,
+        "internalType": "string",
+        "name": "reason",
+        "type": "string"
+      },
+      {
+        "indexed": true,
+        "internalType": "address",
+        "name": "operator",
+        "type": "address"
+      },
+      {
+        "indexed": false,
+        "internalType": "uint64",
+        "name": "ts",
+        "type": "uint64"
+      }
+    ],
+    "name": "PointsAwarded",
+    "type": "event"
+  },
+  {
+    "anonymous": false,
+    "inputs": [
+      {
+        "indexed": true,
+        "internalType": "address",
+        "name": "from",
+        "type": "address"
+      },
+      {
+        "indexed": false,
+        "internalType": "uint256",
+        "name": "amount",
+        "type": "uint256"
+      },
+      {
+        "indexed": false,
+        "internalType": "string",
+        "name": "reason",
+        "type": "string"
+      },
+      {
+        "indexed": true,
+        "internalType": "address",
+        "name": "operator",
+        "type": "address"
+      },
+      {
+        "indexed": false,
+        "internalType": "uint64",
+        "name": "ts",
+        "type": "uint64"
+      }
+    ],
+    "name": "PointsDeducted",
+    "type": "event"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "address",
+        "name": "to",
+        "type": "address"
+      },
+      {
+        "internalType": "uint256",
+        "name": "amount",
+        "type": "uint256"
+      },
+      {
+        "internalType": "string",
+        "name": "reason",
+        "type": "string"
+      }
+    ],
+    "name": "award",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "uint256",
+        "name": "index",
+        "type": "uint256"
+      }
+    ],
+    "name": "awardAt",
+    "outputs": [
+      {
+        "components": [
+          {
+            "internalType": "uint256",
+            "name": "amount",
+            "type": "uint256"
+          },
+          {
+            "internalType": "string",
+            "name": "reason",
+            "type": "string"
+          },
+          {
+            "internalType": "address",
+            "name": "operator",
+            "type": "address"
+          },
+          {
+            "internalType": "uint64",
+            "name": "ts",
+            "type": "uint64"
+          }
+        ],
+        "internalType": "struct CharityPoints.Award",
+        "name": "",
+        "type": "tuple"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "address[]",
+        "name": "accounts",
+        "type": "address[]"
+      },
+      {
+        "internalType": "uint256[]",
+        "name": "amounts",
+        "type": "uint256[]"
+      },
+      {
+        "internalType": "string",
+        "name": "reason",
+        "type": "string"
+      }
+    ],
+    "name": "awardBatch",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [],
+    "name": "awardCount",
+    "outputs": [
+      {
+        "internalType": "uint256",
+        "name": "",
+        "type": "uint256"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "address",
+        "name": "account",
+        "type": "address"
+      }
+    ],
+    "name": "awardsOf",
+    "outputs": [
+      {
+        "components": [
+          {
+            "internalType": "uint256",
+            "name": "amount",
+            "type": "uint256"
+          },
+          {
+            "internalType": "string",
+            "name": "reason",
+            "type": "string"
+          },
+          {
+            "internalType": "address",
+            "name": "operator",
+            "type": "address"
+          },
+          {
+            "internalType": "uint64",
+            "name": "ts",
+            "type": "uint64"
+          }
+        ],
+        "internalType": "struct CharityPoints.Award[]",
+        "name": "list",
+        "type": "tuple[]"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "address",
+        "name": "",
+        "type": "address"
+      }
+    ],
+    "name": "balanceOf",
+    "outputs": [
+      {
+        "internalType": "uint256",
+        "name": "",
+        "type": "uint256"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "address",
+        "name": "from",
+        "type": "address"
+      },
+      {
+        "internalType": "uint256",
+        "name": "amount",
+        "type": "uint256"
+      },
+      {
+        "internalType": "string",
+        "name": "reason",
+        "type": "string"
+      }
+    ],
+    "name": "deduct",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "address",
+        "name": "",
+        "type": "address"
+      }
+    ],
+    "name": "minters",
+    "outputs": [
+      {
+        "internalType": "bool",
+        "name": "",
+        "type": "bool"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [],
+    "name": "owner",
+    "outputs": [
+      {
+        "internalType": "address",
+        "name": "",
+        "type": "address"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "address",
+        "name": "account",
+        "type": "address"
+      },
+      {
+        "internalType": "bool",
+        "name": "enabled",
+        "type": "bool"
+      }
+    ],
+    "name": "setMinter",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "address",
+        "name": "",
+        "type": "address"
+      }
+    ],
+    "name": "totalEarned",
+    "outputs": [
+      {
+        "internalType": "uint256",
+        "name": "",
+        "type": "uint256"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [],
+    "name": "totalSupply",
+    "outputs": [
+      {
+        "internalType": "uint256",
+        "name": "",
+        "type": "uint256"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "address",
+        "name": "newOwner",
+        "type": "address"
+      }
+    ],
+    "name": "transferOwnership",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  }
+]

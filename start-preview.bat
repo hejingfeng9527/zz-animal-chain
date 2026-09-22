@@ -1,1 +1,37 @@
-QGVjaG8gb2ZmCmNoY3AgNjUwMDEgPm51bCAyPiYxCnNldGxvY2FsCgpSRU0gIHp6LWFuaW1hbC1jaGFpbiAgbG9jYWwgcHJldmlldyBzZXJ2ZXIKUkVNICBEb3VibGUtY2xpY2sgdG8gc3RhcnQsIHRoZW4gb3BlbiBodHRwOi8vMTI3LjAuMC4xOjg5MDIvCgpwdXNoZCAiJX5kcDAiCgpzZXQgIkJBU0hfRVhFPSIKZm9yICUlUCBpbiAoCiAgIiVQcm9ncmFtRmlsZXMlXEdpdFxiaW5cYmFzaC5leGUiCiAgIiVQcm9ncmFtRmlsZXMoeDg2KSVcR2l0XGJpblxiYXNoLmV4ZSIKICAiJUxvY2FsUHJvZ3JhbXMlXEdpdFxiaW5cYmFzaC5leGUiCiAgIiVQcm9ncmFtRmlsZXMlXEdpdFx1c3JcYmluXGJhc2guZXhlIgopIGRvICgKICBpZiBub3QgZGVmaW5lZCBCQVNIX0VYRSBpZiBleGlzdCAlJVAgc2V0ICJCQVNIX0VYRT0lJX5QIgopCgppZiBub3QgZGVmaW5lZCBCQVNIX0VYRSAoCiAgd2hlcmUgYmFzaCA+bnVsIDI+JjEKICBpZiAlZXJyb3JsZXZlbCU9PTAgc2V0ICJCQVNIX0VYRT1iYXNoIgopCgppZiBub3QgZGVmaW5lZCBCQVNIX0VYRSAoCiAgZWNoby4KICBlY2hvIFtFUlJPUl0gR2l0IEJhc2ggbm90IGZvdW5kLiBQbGVhc2UgaW5zdGFsbDogaHR0cHM6Ly9naXQtc2NtLmNvbS9kb3dubG9hZC93aW4KICBlY2hvLgogIHBhdXNlCiAgcG9wZAogIGV4aXQgL2IgMQopCgoiJUJBU0hfRVhFJSIgIiV+ZHAwc3RhcnQtcHJldmlldy5zaCIgJSoKCnBvcGQKZW5kbG9jYWwK
+@echo off
+chcp 65001 >nul 2>&1
+setlocal
+
+REM  zz-animal-chain  local preview server
+REM  Double-click to start, then open http://127.0.0.1:8902/
+
+pushd "%~dp0"
+
+set "BASH_EXE="
+for %%P in (
+  "%ProgramFiles%\Git\bin\bash.exe"
+  "%ProgramFiles(x86)%\Git\bin\bash.exe"
+  "%LocalPrograms%\Git\bin\bash.exe"
+  "%ProgramFiles%\Git\usr\bin\bash.exe"
+) do (
+  if not defined BASH_EXE if exist %%P set "BASH_EXE=%%~P"
+)
+
+if not defined BASH_EXE (
+  where bash >nul 2>&1
+  if %errorlevel%==0 set "BASH_EXE=bash"
+)
+
+if not defined BASH_EXE (
+  echo.
+  echo [ERROR] Git Bash not found. Please install: https://git-scm.com/download/win
+  echo.
+  pause
+  popd
+  exit /b 1
+)
+
+"%BASH_EXE%" "%~dp0start-preview.sh" %*
+
+popd
+endlocal

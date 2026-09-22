@@ -1,1 +1,39 @@
-LyoqCiAqIGNvbXBpbGUuanMg4oCU4oCUIOeUqCBzb2xjIOe8luivkeWQiOe6pu+8jOS6p+WHuiBBQkkg5LiOIGJ5dGVjb2RlIOWIsCBjb250cmFjdHMvIOebruW9lQogKiDnlKjms5XvvJogbnBtIGkgJiYgbnBtIHJ1biBjb21waWxlCiAqLwpjb25zdCBmcyA9IHJlcXVpcmUoJ2ZzJyk7CmNvbnN0IHBhdGggPSByZXF1aXJlKCdwYXRoJyk7CmNvbnN0IHNvbGMgPSByZXF1aXJlKCdzb2xjJyk7Cgpjb25zdCBESVIgPSBwYXRoLmpvaW4oX19kaXJuYW1lLCAnLi4nLCAnY29udHJhY3RzJyk7CmNvbnN0IGZpbGVzID0gZnMucmVhZGRpclN5bmMoRElSKS5maWx0ZXIoKGYpID0+IGYuZW5kc1dpdGgoJy5zb2wnKSk7CmNvbnN0IHNvdXJjZXMgPSB7fTsKZm9yIChjb25zdCBmIG9mIGZpbGVzKSBzb3VyY2VzW2ZdID0geyBjb250ZW50OiBmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKERJUiwgZiksICd1dGY4JykgfTsKCmNvbnNvbGUubG9nKCdzb2xjJywgc29sYy52ZXJzaW9uKCksICd8IOWQiOe6pjonLCBmaWxlcy5qb2luKCcsICcpKTsKY29uc3Qgb3V0ID0gSlNPTi5wYXJzZShzb2xjLmNvbXBpbGUoSlNPTi5zdHJpbmdpZnkoewogIGxhbmd1YWdlOiAnU29saWRpdHknLAogIHNvdXJjZXMsCiAgc2V0dGluZ3M6IHsKICAgIG9wdGltaXplcjogeyBlbmFibGVkOiB0cnVlLCBydW5zOiAyMDAgfSwKICAgIG91dHB1dFNlbGVjdGlvbjogeyAnKic6IHsgJyonOiBbJ2FiaScsICdldm0uYnl0ZWNvZGUub2JqZWN0J10gfSB9CiAgfQp9KSkpOwoKbGV0IGZhaWxlZCA9IGZhbHNlOwpmb3IgKGNvbnN0IGUgb2Ygb3V0LmVycm9ycyB8fCBbXSkgewogIGlmIChlLnNldmVyaXR5ID09PSAnZXJyb3InKSB7IGZhaWxlZCA9IHRydWU7IGNvbnNvbGUuZXJyb3IoZS5mb3JtYXR0ZWRNZXNzYWdlKTsgfQp9CmlmIChmYWlsZWQpIHByb2Nlc3MuZXhpdCgxKTsKCmZvciAoY29uc3QgZiBpbiBvdXQuY29udHJhY3RzKSB7CiAgZm9yIChjb25zdCBuYW1lIGluIG91dC5jb250cmFjdHNbZl0pIHsKICAgIGNvbnN0IGJjID0gb3V0LmNvbnRyYWN0c1tmXVtuYW1lXS5ldm0uYnl0ZWNvZGUub2JqZWN0OwogICAgaWYgKCFiYykgY29udGludWU7IC8vIOi3s+i/hyBpbnRlcmZhY2UKICAgIGZzLndyaXRlRmlsZVN5bmMocGF0aC5qb2luKERJUiwgbmFtZSArICcuYWJpLmpzb24nKSwgSlNPTi5zdHJpbmdpZnkob3V0LmNvbnRyYWN0c1tmXVtuYW1lXS5hYmksIG51bGwsIDIpKTsKICAgIGZzLndyaXRlRmlsZVN5bmMocGF0aC5qb2luKERJUiwgbmFtZSArICcuYmluJyksIGJjKTsKICAgIGNvbnNvbGUubG9nKCcgIOKchScsIG5hbWUsICd8IGJ5dGVjb2RlJywgYmMubGVuZ3RoIC8gMiwgJ2J5dGVzJyk7CiAgfQp9CmNvbnNvbGUubG9nKCfnvJbor5HlrozmiJDvvIxBQkkgLyBieXRlY29kZSDlt7LlhpnlhaUgY29udHJhY3RzLycpOwo=
+/**
+ * compile.js —— 用 solc 编译合约，产出 ABI 与 bytecode 到 contracts/ 目录
+ * 用法： npm i && npm run compile
+ */
+const fs = require('fs');
+const path = require('path');
+const solc = require('solc');
+
+const DIR = path.join(__dirname, '..', 'contracts');
+const files = fs.readdirSync(DIR).filter((f) => f.endsWith('.sol'));
+const sources = {};
+for (const f of files) sources[f] = { content: fs.readFileSync(path.join(DIR, f), 'utf8') };
+
+console.log('solc', solc.version(), '| 合约:', files.join(', '));
+const out = JSON.parse(solc.compile(JSON.stringify({
+  language: 'Solidity',
+  sources,
+  settings: {
+    optimizer: { enabled: true, runs: 200 },
+    outputSelection: { '*': { '*': ['abi', 'evm.bytecode.object'] } }
+  }
+})));
+
+let failed = false;
+for (const e of out.errors || []) {
+  if (e.severity === 'error') { failed = true; console.error(e.formattedMessage); }
+}
+if (failed) process.exit(1);
+
+for (const f in out.contracts) {
+  for (const name in out.contracts[f]) {
+    const bc = out.contracts[f][name].evm.bytecode.object;
+    if (!bc) continue; // 跳过 interface
+    fs.writeFileSync(path.join(DIR, name + '.abi.json'), JSON.stringify(out.contracts[f][name].abi, null, 2));
+    fs.writeFileSync(path.join(DIR, name + '.bin'), bc);
+    console.log('  ✅', name, '| bytecode', bc.length / 2, 'bytes');
+  }
+}
+console.log('编译完成，ABI / bytecode 已写入 contracts/');

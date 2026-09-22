@@ -1,1 +1,97 @@
-LyoqCiAqIGRlcGxveS1jaGFpbi5qcyDigJTigJQg6YCa6L+H5pys5ZywIHJlbGF5ZXIg5oqK5LiJ5Lu95ZCI57qm6YOo572y5YiwIEZJU0NPIEJDT1PvvIzlubblm57loavliY3nq6/phY3nva4KICog5YmN572u77yaCiAqICAgMSkgV1NMMiDkuK3lkK/liqggRklTQ08gQkNPUyDpk77vvIxSUEMg56uv5Y+j5Y+v6K6/6Zeu77yI6buY6K6kIGh0dHA6Ly8xMjcuMC4wLjE6ODU0Ne+8iQogKiAgIDIpIG5wbSBydW4gY29tcGlsZSDvvIjnlJ/miJAgQUJJIC8gYnl0ZWNvZGXvvIkKICogICAzKSBjZCBzY3JpcHRzL3JlbGF5ZXIgJiYgbnBtIGkgJiYgUFJJVkFURV9LRVk9MHguLi4gbm9kZSBzZXJ2ZXIuanMKICog55So5rOV77yaIG5vZGUgc2NyaXB0cy9kZXBsb3ktY2hhaW4uanMgWy0tcnBjIGh0dHA6Ly8xMjcuMC4wLjE6ODU0NV0gWy0tcmVsYXllciBodHRwOi8vMTI3LjAuMC4xOjg3ODddCiAqLwpjb25zdCBmcyA9IHJlcXVpcmUoJ2ZzJyk7CmNvbnN0IHBhdGggPSByZXF1aXJlKCdwYXRoJyk7Cgpjb25zdCBhcmd2ID0gcHJvY2Vzcy5hcmd2LnNsaWNlKDIpOwpjb25zdCBhcmdPZiA9IChrLCBkKSA9PiB7CiAgY29uc3QgaSA9IGFyZ3YuaW5kZXhPZignLS0nICsgayk7CiAgcmV0dXJuIGkgPj0gMCA/IGFyZ3ZbaSArIDFdIDogZDsKfTsKY29uc3QgUkVMQVlFUiA9IGFyZ09mKCdyZWxheWVyJywgJ2h0dHA6Ly8xMjcuMC4wLjE6ODc4NycpOwpjb25zdCBSUEMgPSBhcmdPZigncnBjJywgJ2h0dHA6Ly8xMjcuMC4wLjE6ODU0NScpOwpjb25zdCBST09UID0gcGF0aC5qb2luKF9fZGlybmFtZSwgJy4uJyk7CgovLyDovb3lhaXliY3nq6/nmoQgaGFzaC5qcyDku6XlpI3nlKjmvJTnpLrlnLDlnYDnlJ/miJDop4TliJkKY29uc3QgaGFzaFNyYyA9IGZzLnJlYWRGaWxlU3luYyhwYXRoLmpvaW4oUk9PVCwgJ2Fzc2V0cycsICdqcycsICdoYXNoLmpzJyksICd1dGY4Jyk7Cmdsb2JhbC53aW5kb3cgPSBnbG9iYWw7Cm5ldyBGdW5jdGlvbihoYXNoU3JjKSgpOwpjb25zdCBhZGRyZXNzT2YgPSBnbG9iYWwuWlpIYXNoLmFkZHJlc3NPZjsKCmFzeW5jIGZ1bmN0aW9uIHBvc3QocCwgZGF0YSkgewogIGNvbnN0IHIgPSBhd2FpdCBmZXRjaChSRUxBWUVSICsgcCwgewogICAgbWV0aG9kOiAnUE9TVCcsIGhlYWRlcnM6IHsgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9LAogICAgYm9keTogSlNPTi5zdHJpbmdpZnkoZGF0YSB8fCB7fSkKICB9KTsKICBjb25zdCBqID0gYXdhaXQgci5qc29uKCk7CiAgaWYgKGouZXJyb3IpIHRocm93IG5ldyBFcnJvcihwICsgJyDihpIgJyArIGouZXJyb3IpOwogIHJldHVybiBqOwp9CmFzeW5jIGZ1bmN0aW9uIGdldChwKSB7CiAgY29uc3QgciA9IGF3YWl0IGZldGNoKFJFTEFZRVIgKyBwKTsKICByZXR1cm4gci5qc29uKCk7Cn0KCihhc3luYyAoKSA9PiB7CiAgY29uc29sZS5sb2coJ1sxLzVdIOajgOafpee9keWFs+S4jumTvueKtuaAgeKApicpOwogIGNvbnN0IGhlYWx0aCA9IGF3YWl0IGdldCgnL2hlYWx0aCcpOwogIGNvbnNvbGUubG9nKCcgIOetvuWQjei0puaItzonLCBoZWFsdGguc2lnbmVyLCAnfCDljLrlnZfpq5jluqY6JywgaGVhbHRoLmJsb2NrTnVtYmVyLCAnfCBSUEM6JywgaGVhbHRoLnJwYyB8fCBSUEMpOwogIGlmIChoZWFsdGguYmxvY2tOdW1iZXIgPCAwKSBjb25zb2xlLndhcm4oJyAg4pqg77iPIOmTvuS4jeWPr+i+vu+8jOivt+ehruiupCBGSVNDTyBCQ09TIFJQQyDlt7LlkK/liqjvvJonICsgUlBDKTsKCiAgY29uc29sZS5sb2coJ1syLzVdIOmDqOe9siBDaGFyaXR5UG9pbnRz4oCmJyk7CiAgY29uc3QgY2hhcml0eSA9IChhd2FpdCBwb3N0KCcvZGVwbG95JywgeyBjb250cmFjdDogJ0NoYXJpdHlQb2ludHMnIH0pKS5hZGRyZXNzOwogIGNvbnNvbGUubG9nKCcgIOKGkicsIGNoYXJpdHkpOwoKICBjb25zb2xlLmxvZygnWzMvNV0g6YOo572yIEFuaW1hbFJlc2N1ZUxlZGdlcuKApicpOwogIGNvbnN0IHJlc2N1ZSA9IChhd2FpdCBwb3N0KCcvZGVwbG95JywgeyBjb250cmFjdDogJ0FuaW1hbFJlc2N1ZUxlZGdlcicgfSkpLmFkZHJlc3M7CiAgY29uc29sZS5sb2coJyAg4oaSJywgcmVzY3VlKTsKCiAgY29uc29sZS5sb2coJ1s0LzVdIOmDqOe9siBBZG9wdGlvbkxlZGdlciDlubblu7rnq4vlkIjnuqbpl7TlvJXnlKjigKYnKTsKICBjb25zdCBhZG9wdGlvbiA9IChhd2FpdCBwb3N0KCcvZGVwbG95JywgeyBjb250cmFjdDogJ0Fkb3B0aW9uTGVkZ2VyJyB9KSkuYWRkcmVzczsKICBjb25zb2xlLmxvZygnICDihpInLCBhZG9wdGlvbik7CgogIGNvbnN0IGFkbWluID0gYWRkcmVzc09mKCdhZG1pbicpOwogIGNvbnN0IHNoZWx0ZXIxID0gYWRkcmVzc09mKCdzaGVsdGVyMScpOwogIGNvbnN0IHNoZWx0ZXIyID0gYWRkcmVzc09mKCdzaGVsdGVyMicpOwoKICBjb25zdCBpbml0cyA9IFsKICAgIFsnQW5pbWFsUmVzY3VlTGVkZ2VyJywgJ3NldFBvaW50c0NvbnRyYWN0JywgW2NoYXJpdHldLCByZXNjdWVdLAogICAgWydBZG9wdGlvbkxlZGdlcicsICdzZXRQb2ludHNDb250cmFjdCcsIFtjaGFyaXR5XSwgYWRvcHRpb25dLAogICAgWydBZG9wdGlvbkxlZGdlcicsICdzZXRSZXNjdWVMZWRnZXInLCBbcmVzY3VlXSwgYWRvcHRpb25dLAogICAgWydBbmltYWxSZXNjdWVMZWRnZXInLCAnc2V0U2hlbHRlcicsIFtzaGVsdGVyMSwgdHJ1ZV0sIHJlc2N1ZV0sCiAgICBbJ0FuaW1hbFJlc2N1ZUxlZGdlcicsICdzZXRTaGVsdGVyJywgW3NoZWx0ZXIyLCB0cnVlXSwgcmVzY3VlXSwKICAgIFsnQW5pbWFsUmVzY3VlTGVkZ2VyJywgJ3NldEFkbWluJywgW2Fkb3B0aW9uLCB0cnVlXSwgcmVzY3VlXSwgLy8g5YWB6K646aKG5YW75ZCI57qm5Zue6LCDIG1hcmtBZG9wdGVkCiAgICBbJ0Fkb3B0aW9uTGVkZ2VyJywgJ3NldFNoZWx0ZXInLCBbc2hlbHRlcjEsIHRydWVdLCBhZG9wdGlvbl0sCiAgICBbJ0Fkb3B0aW9uTGVkZ2VyJywgJ3NldFNoZWx0ZXInLCBbc2hlbHRlcjIsIHRydWVdLCBhZG9wdGlvbl0sCiAgICBbJ0Fkb3B0aW9uTGVkZ2VyJywgJ3NldEFkbWluJywgW3NoZWx0ZXIxLCB0cnVlXSwgYWRvcHRpb25dCiAgXTsKICBmb3IgKGNvbnN0IFtuYW1lLCBtZXRob2QsIGFyZ3MsIGFkZHJdIG9mIGluaXRzKSB7CiAgICBjb25zdCByID0gYXdhaXQgcG9zdCgnL3NlbmQnLCB7IGNvbnRyYWN0OiBuYW1lLCBtZXRob2QsIGFyZ3MsIGFkZHJlc3M6IGFkZHIgfSk7CiAgICBjb25zb2xlLmxvZygnICDim5PvuI8gJyArIG1ldGhvZCArICcg4oaSIOWMuuWdlyAjJyArIHIucmVzdWx0LmJsb2NrTnVtYmVyKTsKICB9CgogIGNvbnNvbGUubG9nKCdbNS81XSDlm57loavliY3nq6/phY3nva4gYXNzZXRzL2pzL2NvbmZpZy5qc+KApicpOwogIGNvbnN0IGNmZ1BhdGggPSBwYXRoLmpvaW4oUk9PVCwgJ2Fzc2V0cycsICdqcycsICdjb25maWcuanMnKTsKICBsZXQgY2ZnID0gZnMucmVhZEZpbGVTeW5jKGNmZ1BhdGgsICd1dGY4Jyk7CiAgY2ZnID0gY2ZnCiAgICAucmVwbGFjZSgvZHJpdmVyOiAnbW9jaycvLCAiZHJpdmVyOiAnZmlzY28nIikKICAgIC5yZXBsYWNlKC9ycGNVcmw6ICdbXiddKicvLCAicnBjVXJsOiAnIiArIFJQQyArICInIikKICAgIC5yZXBsYWNlKC9yZWxheWVyVXJsOiAnW14nXSonLywgInJlbGF5ZXJVcmw6ICciICsgUkVMQVlFUiArICInIikKICAgIC5yZXBsYWNlKC9jaGFyaXR5UG9pbnRzOiAnW14nXSonLywgImNoYXJpdHlQb2ludHM6ICciICsgY2hhcml0eSArICInIikKICAgIC5yZXBsYWNlKC9yZXNjdWVMZWRnZXI6ICdbXiddKicvLCAicmVzY3VlTGVkZ2VyOiAnIiArIHJlc2N1ZSArICInIikKICAgIC5yZXBsYWNlKC9hZG9wdGlvbkxlZGdlcjogJ1teJ10qJy8sICJhZG9wdGlvbkxlZGdlcjogJyIgKyBhZG9wdGlvbiArICInIik7CiAgZnMud3JpdGVGaWxlU3luYyhjZmdQYXRoLCBjZmcpOwoKICBjb25zb2xlLmxvZygnXG7wn46JIOmDqOe9suWujOaIkCcpOwogIGNvbnNvbGUubG9nKCcgIENoYXJpdHlQb2ludHMgICAgICAgJywgY2hhcml0eSk7CiAgY29uc29sZS5sb2coJyAgQW5pbWFsUmVzY3VlTGVkZ2VyICAnLCByZXNjdWUpOwogIGNvbnNvbGUubG9nKCcgIEFkb3B0aW9uTGVkZ2VyICAgICAgJywgYWRvcHRpb24pOwogIGNvbnNvbGUubG9nKCdcbuWJjeerr+W3suWIh+aNouS4uiBGSVNDTyBCQ09TIOaooeW8j++8iGNvbmZpZy5qczogZHJpdmVyPWZpc2Nv77yJ44CCJyk7CiAgY29uc29sZS5sb2coJ+iLpemTvuS4jeWPr+i+vu+8jOmhtemdouS8muiHquWKqOWbnumAgOWIsOWGhee9ruaooeaLn+mTvuOAgicpOwp9KSgpLmNhdGNoKChlKSA9PiB7IGNvbnNvbGUuZXJyb3IoJ+mDqOe9suWksei0pe+8micsIGUubWVzc2FnZSk7IHByb2Nlc3MuZXhpdCgxKTsgfSk7Cg==
+/**
+ * deploy-chain.js —— 通过本地 relayer 把三份合约部署到 FISCO BCOS，并回填前端配置
+ * 前置：
+ *   1) WSL2 中启动 FISCO BCOS 链，RPC 端口可访问（默认 http://127.0.0.1:8545）
+ *   2) npm run compile （生成 ABI / bytecode）
+ *   3) cd scripts/relayer && npm i && PRIVATE_KEY=0x... node server.js
+ * 用法： node scripts/deploy-chain.js [--rpc http://127.0.0.1:8545] [--relayer http://127.0.0.1:8787]
+ */
+const fs = require('fs');
+const path = require('path');
+
+const argv = process.argv.slice(2);
+const argOf = (k, d) => {
+  const i = argv.indexOf('--' + k);
+  return i >= 0 ? argv[i + 1] : d;
+};
+const RELAYER = argOf('relayer', 'http://127.0.0.1:8787');
+const RPC = argOf('rpc', 'http://127.0.0.1:8545');
+const ROOT = path.join(__dirname, '..');
+
+// 载入前端的 hash.js 以复用演示地址生成规则
+const hashSrc = fs.readFileSync(path.join(ROOT, 'assets', 'js', 'hash.js'), 'utf8');
+global.window = global;
+new Function(hashSrc)();
+const addressOf = global.ZZHash.addressOf;
+
+async function post(p, data) {
+  const r = await fetch(RELAYER + p, {
+    method: 'POST', headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(data || {})
+  });
+  const j = await r.json();
+  if (j.error) throw new Error(p + ' → ' + j.error);
+  return j;
+}
+async function get(p) {
+  const r = await fetch(RELAYER + p);
+  return r.json();
+}
+
+(async () => {
+  console.log('[1/5] 检查网关与链状态…');
+  const health = await get('/health');
+  console.log('  签名账户:', health.signer, '| 区块高度:', health.blockNumber, '| RPC:', health.rpc || RPC);
+  if (health.blockNumber < 0) console.warn('  ⚠️ 链不可达，请确认 FISCO BCOS RPC 已启动：' + RPC);
+
+  console.log('[2/5] 部署 CharityPoints…');
+  const charity = (await post('/deploy', { contract: 'CharityPoints' })).address;
+  console.log('  →', charity);
+
+  console.log('[3/5] 部署 AnimalRescueLedger…');
+  const rescue = (await post('/deploy', { contract: 'AnimalRescueLedger' })).address;
+  console.log('  →', rescue);
+
+  console.log('[4/5] 部署 AdoptionLedger 并建立合约间引用…');
+  const adoption = (await post('/deploy', { contract: 'AdoptionLedger' })).address;
+  console.log('  →', adoption);
+
+  const admin = addressOf('admin');
+  const shelter1 = addressOf('shelter1');
+  const shelter2 = addressOf('shelter2');
+
+  const inits = [
+    ['AnimalRescueLedger', 'setPointsContract', [charity], rescue],
+    ['AdoptionLedger', 'setPointsContract', [charity], adoption],
+    ['AdoptionLedger', 'setRescueLedger', [rescue], adoption],
+    ['AnimalRescueLedger', 'setShelter', [shelter1, true], rescue],
+    ['AnimalRescueLedger', 'setShelter', [shelter2, true], rescue],
+    ['AnimalRescueLedger', 'setAdmin', [adoption, true], rescue], // 允许领养合约回调 markAdopted
+    ['AdoptionLedger', 'setShelter', [shelter1, true], adoption],
+    ['AdoptionLedger', 'setShelter', [shelter2, true], adoption],
+    ['AdoptionLedger', 'setAdmin', [shelter1, true], adoption]
+  ];
+  for (const [name, method, args, addr] of inits) {
+    const r = await post('/send', { contract: name, method, args, address: addr });
+    console.log('  ⛓️ ' + method + ' → 区块 #' + r.result.blockNumber);
+  }
+
+  console.log('[5/5] 回填前端配置 assets/js/config.js…');
+  const cfgPath = path.join(ROOT, 'assets', 'js', 'config.js');
+  let cfg = fs.readFileSync(cfgPath, 'utf8');
+  cfg = cfg
+    .replace(/driver: 'mock'/, "driver: 'fisco'")
+    .replace(/rpcUrl: '[^']*'/, "rpcUrl: '" + RPC + "'")
+    .replace(/relayerUrl: '[^']*'/, "relayerUrl: '" + RELAYER + "'")
+    .replace(/charityPoints: '[^']*'/, "charityPoints: '" + charity + "'")
+    .replace(/rescueLedger: '[^']*'/, "rescueLedger: '" + rescue + "'")
+    .replace(/adoptionLedger: '[^']*'/, "adoptionLedger: '" + adoption + "'");
+  fs.writeFileSync(cfgPath, cfg);
+
+  console.log('\n🎉 部署完成');
+  console.log('  CharityPoints       ', charity);
+  console.log('  AnimalRescueLedger  ', rescue);
+  console.log('  AdoptionLedger      ', adoption);
+  console.log('\n前端已切换为 FISCO BCOS 模式（config.js: driver=fisco）。');
+  console.log('若链不可达，页面会自动回退到内置模拟链。');
+})().catch((e) => { console.error('部署失败：', e.message); process.exit(1); });

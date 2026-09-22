@@ -1,1 +1,152 @@
-LyoqCiAqIHNlcnZlci5qcyDigJTigJQg5pys5Zyw562+5ZCN572R5YWzCiAqIOmdmeaAgemhtemdou+8iEdpdEh1YiBQYWdlc++8ieaXoOazleebtOaOpeaMgeacieengemSpe+8jOivu+WGmSBGSVNDTyBCQ09TIOeUseacrOWcsOe9keWFs+S7o+eQhu+8mgogKiAgIEdFVCAgL2hlYWx0aCAgICAgICAgICAgIOWBpeW6t+ajgOafpQogKiAgIFBPU1QgL2RlcGxveSAgICAgICAgICAgIOmDqOe9suWQiOe6pu+8iOi/lOWbnuWQiOe6puWcsOWdgO+8jOWGmeWFpSBkZXBsb3kubG9jYWwuanNvbu+8iQogKiAgIFBPU1QgL2NhbGwgICAgICAgICAgICAgIOWPquivu+iwg+eUqO+8iGV0aF9jYWxs77yJCiAqICAgUE9TVCAvc2VuZCAgICAgICAgICAgICAg5YaZ5Lqk5piT77yIZXRoX3NlbmRSYXdUcmFuc2FjdGlvbu+8jOacrOWcsOengemSpeetvuWQje+8iQogKgogKiDlkK/liqjvvJoKICogICBjZCBzY3JpcHRzL3JlbGF5ZXIgJiYgbnBtIGkgJiYgUFJJVkFURV9LRVk9MHguLi4gUlBDX1VSTD1odHRwOi8vMTI3LjAuMC4xOjg1NDUgbm9kZSBzZXJ2ZXIuanMKICovCmNvbnN0IGh0dHAgPSByZXF1aXJlKCdodHRwJyk7CmNvbnN0IGZzID0gcmVxdWlyZSgnZnMnKTsKY29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsKY29uc3QgeyBldGhlcnMgfSA9IHJlcXVpcmUoJ2V0aGVycycpOwoKY29uc3QgUE9SVCA9IHByb2Nlc3MuZW52LlBPUlQgfHwgODc4NzsKY29uc3QgUlBDX1VSTCA9IHByb2Nlc3MuZW52LlJQQ19VUkwgfHwgJ2h0dHA6Ly8xMjcuMC4wLjE6ODU0NSc7CmNvbnN0IENIQUlOX0lEID0gTnVtYmVyKHByb2Nlc3MuZW52LkNIQUlOX0lEIHx8IDApOwovLyDpu5jorqTotKbmiLfnp4HpkqXvvIhGSVNDTyBCQ09TIOW8gOWPkee9keW4uOingea1i+ivleengemSpe+8jOeUn+S6p+eOr+Wig+WKoeW/heabv+aNou+8iQpjb25zdCBQUklWQVRFX0tFWSA9IHByb2Nlc3MuZW52LlBSSVZBVEVfS0VZIHx8CiAgJzB4M2M2YThlOWUzYjFlMmEzZjZkMWM5YjhhN2Y2ZTVkNGMzYjJhMTkwOGY3ZTZkNWM0YjNhMjkxODA3MDYwNTA0MCc7Cgpjb25zdCBST09UID0gcGF0aC5qb2luKF9fZGlybmFtZSwgJy4uJywgJy4uJyk7CmNvbnN0IEFCSV9ESVIgPSBwYXRoLmpvaW4oUk9PVCwgJ2NvbnRyYWN0cycpOwpjb25zdCBERVBMT1lfRklMRSA9IHBhdGguam9pbihST09ULCAnc2NyaXB0cycsICdkZXBsb3kubG9jYWwuanNvbicpOwoKY29uc3QgcHJvdmlkZXIgPSBuZXcgZXRoZXJzLkpzb25ScGNQcm92aWRlcihSUENfVVJMLCBDSEFJTl9JRCA9PT0gMCA/IHVuZGVmaW5lZCA6IENIQUlOX0lEKTsKY29uc3Qgd2FsbGV0ID0gbmV3IGV0aGVycy5XYWxsZXQoUFJJVkFURV9LRVksIHByb3ZpZGVyKTsKCmNvbnN0IEFCSV9DQUNIRSA9IHt9OwpmdW5jdGlvbiBhYmlPZihuYW1lKSB7CiAgaWYgKEFCSV9DQUNIRVtuYW1lXSkgcmV0dXJuIEFCSV9DQUNIRVtuYW1lXTsKICBjb25zdCBmaWxlID0gcGF0aC5qb2luKEFCSV9ESVIsIG5hbWUgKyAnLmFiaS5qc29uJyk7CiAgaWYgKCFmcy5leGlzdHNTeW5jKGZpbGUpKSB0aHJvdyBuZXcgRXJyb3IoJ+e8uuWwkSBBQkkg5paH5Lu2OiAnICsgZmlsZSArICfvvIzor7flhYjmiafooYwgbnBtIHJ1biBjb21waWxlJyk7CiAgQUJJX0NBQ0hFW25hbWVdID0gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMoZmlsZSwgJ3V0ZjgnKSk7CiAgcmV0dXJuIEFCSV9DQUNIRVtuYW1lXTsKfQoKZnVuY3Rpb24gYmluT2YobmFtZSkgewogIGNvbnN0IGZpbGUgPSBwYXRoLmpvaW4oQUJJX0RJUiwgbmFtZSArICcuYmluJyk7CiAgaWYgKCFmcy5leGlzdHNTeW5jKGZpbGUpKSB0aHJvdyBuZXcgRXJyb3IoJ+e8uuWwkSBieXRlY29kZSDmlofku7Y6ICcgKyBmaWxlKTsKICByZXR1cm4gJzB4JyArIGZzLnJlYWRGaWxlU3luYyhmaWxlLCAndXRmOCcpLnRyaW0oKTsKfQoKbGV0IEFERFJFU1NFUyA9IHsgY2hhcml0eVBvaW50czogJycsIHJlc2N1ZUxlZGdlcjogJycsIGFkb3B0aW9uTGVkZ2VyOiAnJyB9OwppZiAoZnMuZXhpc3RzU3luYyhERVBMT1lfRklMRSkpIHsKICB0cnkgeyBBRERSRVNTRVMgPSBPYmplY3QuYXNzaWduKEFERFJFU1NFUywgSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMoREVQTE9ZX0ZJTEUsICd1dGY4JykpKTsgfSBjYXRjaCAoZSkgeyAvKiBpZ25vcmUgKi8gfQp9CmZ1bmN0aW9uIHNhdmVBZGRyZXNzZXMoKSB7CiAgZnMud3JpdGVGaWxlU3luYyhERVBMT1lfRklMRSwgSlNPTi5zdHJpbmdpZnkoQUREUkVTU0VTLCBudWxsLCAyKSk7Cn0KCmZ1bmN0aW9uIGNvbnRyYWN0KG5hbWUsIGFkZHJlc3MpIHsKICByZXR1cm4gbmV3IGV0aGVycy5Db250cmFjdChhZGRyZXNzIHx8IEFERFJFU1NFU1tuYW1lXSwgYWJpT2YobmFtZSksIHdhbGxldCk7Cn0KCmZ1bmN0aW9uIGJvZHkocmVxKSB7CiAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgIGxldCBkID0gJyc7CiAgICByZXEub24oJ2RhdGEnLCAoYykgPT4geyBkICs9IGM7IGlmIChkLmxlbmd0aCA+IDFlNykgcmVqZWN0KG5ldyBFcnJvcigndG9vIGxhcmdlJykpOyB9KTsKICAgIHJlcS5vbignZW5kJywgKCkgPT4geyB0cnkgeyByZXNvbHZlKGQgPyBKU09OLnBhcnNlKGQpIDoge30pOyB9IGNhdGNoIChlKSB7IHJlamVjdChlKTsgfSB9KTsKICB9KTsKfQoKY29uc3Qgc2VydmVyID0gaHR0cC5jcmVhdGVTZXJ2ZXIoYXN5bmMgKHJlcSwgcmVzKSA9PiB7CiAgcmVzLnNldEhlYWRlcignQWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2luJywgJyonKTsKICByZXMuc2V0SGVhZGVyKCdBY2Nlc3MtQ29udHJvbC1BbGxvdy1IZWFkZXJzJywgJ0NvbnRlbnQtVHlwZScpOwogIHJlcy5zZXRIZWFkZXIoJ0FjY2Vzcy1Db250cm9sLUFsbG93LU1ldGhvZHMnLCAnR0VULFBPU1QsT1BUSU9OUycpOwogIGlmIChyZXEubWV0aG9kID09PSAnT1BUSU9OUycpIHsgcmVzLndyaXRlSGVhZCgyMDQpOyByZXR1cm4gcmVzLmVuZCgpOyB9CgogIGNvbnN0IHNlbmQgPSAoY29kZSwgb2JqKSA9PiB7CiAgICByZXMud3JpdGVIZWFkKGNvZGUsIHsgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uOyBjaGFyc2V0PXV0Zi04JyB9KTsKICAgIHJlcy5lbmQoSlNPTi5zdHJpbmdpZnkob2JqKSk7CiAgfTsKCiAgdHJ5IHsKICAgIGNvbnN0IHVybCA9IHJlcS51cmwuc3BsaXQoJz8nKVswXTsKCiAgICBpZiAodXJsID09PSAnL2hlYWx0aCcpIHsKICAgICAgbGV0IG51bWJlciA9IC0xLCBjaGFpbklkID0gLTE7CiAgICAgIHRyeSB7CiAgICAgICAgbnVtYmVyID0gYXdhaXQgcHJvdmlkZXIuZ2V0QmxvY2tOdW1iZXIoKTsKICAgICAgICBjaGFpbklkID0gTnVtYmVyKChhd2FpdCBwcm92aWRlci5nZXROZXR3b3JrKCkpLmNoYWluSWQpOwogICAgICB9IGNhdGNoIChlKSB7IC8qIOmTvuS4jeWPr+eUqOaXtuS7jei/lOWbnue9keWFs+eKtuaAgSAqLyB9CiAgICAgIHJldHVybiBzZW5kKDIwMCwgewogICAgICAgIG9rOiB0cnVlLCBycGM6IFJQQ19VUkwsIGJsb2NrTnVtYmVyOiBudW1iZXIsIGNoYWluSWQsCiAgICAgICAgc2lnbmVyOiB3YWxsZXQuYWRkcmVzcywgY29udHJhY3RzOiBBRERSRVNTRVMKICAgICAgfSk7CiAgICB9CgogICAgaWYgKHJlcS5tZXRob2QgIT09ICdQT1NUJykgcmV0dXJuIHNlbmQoNDA0LCB7IGVycm9yOiAnbm90IGZvdW5kJyB9KTsKICAgIGNvbnN0IGRhdGEgPSBhd2FpdCBib2R5KHJlcSk7CgogICAgaWYgKHVybCA9PT0gJy9kZXBsb3knKSB7CiAgICAgIGNvbnN0IG5hbWUgPSBkYXRhLmNvbnRyYWN0OwogICAgICBjb25zdCBmYWN0b3J5ID0gbmV3IGV0aGVycy5Db250cmFjdEZhY3RvcnkoYWJpT2YobmFtZSksIGJpbk9mKG5hbWUpLCB3YWxsZXQpOwogICAgICBjb25zdCBjID0gYXdhaXQgZmFjdG9yeS5kZXBsb3koLi4uKGRhdGEuYXJncyB8fCBbXSkpOwogICAgICBhd2FpdCBjLndhaXRGb3JEZXBsb3ltZW50KCk7CiAgICAgIGNvbnN0IGFkZHIgPSBhd2FpdCBjLmdldEFkZHJlc3MoKTsKICAgICAgQUREUkVTU0VTW25hbWVdID0gYWRkcjsKICAgICAgc2F2ZUFkZHJlc3NlcygpOwogICAgICByZXR1cm4gc2VuZCgyMDAsIHsgYWRkcmVzczogYWRkciwgdHhIYXNoOiBjLmRlcGxveW1lbnRUcmFuc2FjdGlvbigpLmhhc2ggfSk7CiAgICB9CgogICAgaWYgKHVybCA9PT0gJy9jYWxsJykgewogICAgICBjb25zdCBjID0gY29udHJhY3QoZGF0YS5jb250cmFjdCwgZGF0YS5hZGRyZXNzKTsKICAgICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgY1tkYXRhLm1ldGhvZF0oLi4uKGRhdGEuYXJncyB8fCBbXSkpOwogICAgICByZXR1cm4gc2VuZCgyMDAsIHsgcmVzdWx0OiBub3JtYWxpemUocmVzdWx0KSB9KTsKICAgIH0KCiAgICBpZiAodXJsID09PSAnL3NlbmQnKSB7CiAgICAgIGNvbnN0IGMgPSBjb250cmFjdChkYXRhLmNvbnRyYWN0LCBkYXRhLmFkZHJlc3MpOwogICAgICBjb25zdCB0eCA9IGF3YWl0IGNbZGF0YS5tZXRob2RdKC4uLihkYXRhLmFyZ3MgfHwgW10pKTsKICAgICAgY29uc3QgcmMgPSBhd2FpdCB0eC53YWl0KCk7CiAgICAgIHJldHVybiBzZW5kKDIwMCwgewogICAgICAgIHJlc3VsdDogewogICAgICAgICAgdHhIYXNoOiByYy5oYXNoLCBibG9ja051bWJlcjogcmMuYmxvY2tOdW1iZXIsIHN0YXR1czogcmMuc3RhdHVzID09PSAxID8gMSA6IDAsCiAgICAgICAgICBnYXNVc2VkOiBOdW1iZXIocmMuZ2FzVXNlZCksIGxvZ3M6IChyYy5sb2dzIHx8IFtdKS5tYXAoKGwpID0+ICh7CiAgICAgICAgICAgIGNvbnRyYWN0OiBkYXRhLmNvbnRyYWN0LAogICAgICAgICAgICBldmVudDogbC5mcmFnbWVudCA/IGwuZnJhZ21lbnQubmFtZSA6ICdVbmtub3duJywKICAgICAgICAgICAgYXJnczogbC5hcmdzID8gbC5hcmdzLnNsaWNlKCkgOiBbXQogICAgICAgICAgfSkpCiAgICAgICAgfQogICAgICB9KTsKICAgIH0KCiAgICByZXR1cm4gc2VuZCg0MDQsIHsgZXJyb3I6ICd1bmtub3duIGVuZHBvaW50JyB9KTsKICB9IGNhdGNoIChlKSB7CiAgICByZXR1cm4gc2VuZCg1MDAsIHsgZXJyb3I6IGUubWVzc2FnZSB8fCBTdHJpbmcoZSkgfSk7CiAgfQp9KTsKCmZ1bmN0aW9uIG5vcm1hbGl6ZSh2KSB7CiAgaWYgKHR5cGVvZiB2ID09PSAnYmlnaW50JykgcmV0dXJuIHYudG9TdHJpbmcoKTsKICBpZiAoQXJyYXkuaXNBcnJheSh2KSkgcmV0dXJuIHYubWFwKG5vcm1hbGl6ZSk7CiAgaWYgKHYgJiYgdHlwZW9mIHYgPT09ICdvYmplY3QnKSB7CiAgICBjb25zdCBvdXQgPSB7fTsKICAgIGZvciAoY29uc3QgayBvZiBPYmplY3Qua2V5cyh2KSkgewogICAgICBpZiAoL15cZCskLy50ZXN0KGspIHx8IGsgPT09ICdsZW5ndGgnIHx8IGsgPT09ICdfJyApIGNvbnRpbnVlOwogICAgICBvdXRba10gPSBub3JtYWxpemUodltrXSk7CiAgICB9CiAgICByZXR1cm4gb3V0OwogIH0KICByZXR1cm4gdjsKfQoKc2VydmVyLmxpc3RlbihQT1JULCAoKSA9PiB7CiAgY29uc29sZS5sb2coJ1tyZWxheWVyXSDnm5HlkKwgaHR0cDovLzEyNy4wLjAuMTonICsgUE9SVCk7CiAgY29uc29sZS5sb2coJ1tyZWxheWVyXSBSUEM6JywgUlBDX1VSTCk7CiAgY29uc29sZS5sb2coJ1tyZWxheWVyXSDnrb7lkI3otKbmiLc6Jywgd2FsbGV0LmFkZHJlc3MpOwp9KTsK
+/**
+ * server.js —— 本地签名网关
+ * 静态页面（GitHub Pages）无法直接持有私钥，读写 FISCO BCOS 由本地网关代理：
+ *   GET  /health            健康检查
+ *   POST /deploy            部署合约（返回合约地址，写入 deploy.local.json）
+ *   POST /call              只读调用（eth_call）
+ *   POST /send              写交易（eth_sendRawTransaction，本地私钥签名）
+ *
+ * 启动：
+ *   cd scripts/relayer && npm i && PRIVATE_KEY=0x... RPC_URL=http://127.0.0.1:8545 node server.js
+ */
+const http = require('http');
+const fs = require('fs');
+const path = require('path');
+const { ethers } = require('ethers');
+
+const PORT = process.env.PORT || 8787;
+const RPC_URL = process.env.RPC_URL || 'http://127.0.0.1:8545';
+const CHAIN_ID = Number(process.env.CHAIN_ID || 0);
+// 默认账户私钥（FISCO BCOS 开发网常见测试私钥，生产环境务必替换）
+const PRIVATE_KEY = process.env.PRIVATE_KEY ||
+  '0x3c6a8e9e3b1e2a3f6d1c9b8a7f6e5d4c3b2a1908f7e6d5c4b3a2918070605040';
+
+const ROOT = path.join(__dirname, '..', '..');
+const ABI_DIR = path.join(ROOT, 'contracts');
+const DEPLOY_FILE = path.join(ROOT, 'scripts', 'deploy.local.json');
+
+const provider = new ethers.JsonRpcProvider(RPC_URL, CHAIN_ID === 0 ? undefined : CHAIN_ID);
+const wallet = new ethers.Wallet(PRIVATE_KEY, provider);
+
+const ABI_CACHE = {};
+function abiOf(name) {
+  if (ABI_CACHE[name]) return ABI_CACHE[name];
+  const file = path.join(ABI_DIR, name + '.abi.json');
+  if (!fs.existsSync(file)) throw new Error('缺少 ABI 文件: ' + file + '，请先执行 npm run compile');
+  ABI_CACHE[name] = JSON.parse(fs.readFileSync(file, 'utf8'));
+  return ABI_CACHE[name];
+}
+
+function binOf(name) {
+  const file = path.join(ABI_DIR, name + '.bin');
+  if (!fs.existsSync(file)) throw new Error('缺少 bytecode 文件: ' + file);
+  return '0x' + fs.readFileSync(file, 'utf8').trim();
+}
+
+let ADDRESSES = { charityPoints: '', rescueLedger: '', adoptionLedger: '' };
+if (fs.existsSync(DEPLOY_FILE)) {
+  try { ADDRESSES = Object.assign(ADDRESSES, JSON.parse(fs.readFileSync(DEPLOY_FILE, 'utf8'))); } catch (e) { /* ignore */ }
+}
+function saveAddresses() {
+  fs.writeFileSync(DEPLOY_FILE, JSON.stringify(ADDRESSES, null, 2));
+}
+
+function contract(name, address) {
+  return new ethers.Contract(address || ADDRESSES[name], abiOf(name), wallet);
+}
+
+function body(req) {
+  return new Promise((resolve, reject) => {
+    let d = '';
+    req.on('data', (c) => { d += c; if (d.length > 1e7) reject(new Error('too large')); });
+    req.on('end', () => { try { resolve(d ? JSON.parse(d) : {}); } catch (e) { reject(e); } });
+  });
+}
+
+const server = http.createServer(async (req, res) => {
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+  res.setHeader('Access-Control-Allow-Methods', 'GET,POST,OPTIONS');
+  if (req.method === 'OPTIONS') { res.writeHead(204); return res.end(); }
+
+  const send = (code, obj) => {
+    res.writeHead(code, { 'Content-Type': 'application/json; charset=utf-8' });
+    res.end(JSON.stringify(obj));
+  };
+
+  try {
+    const url = req.url.split('?')[0];
+
+    if (url === '/health') {
+      let number = -1, chainId = -1;
+      try {
+        number = await provider.getBlockNumber();
+        chainId = Number((await provider.getNetwork()).chainId);
+      } catch (e) { /* 链不可用时仍返回网关状态 */ }
+      return send(200, {
+        ok: true, rpc: RPC_URL, blockNumber: number, chainId,
+        signer: wallet.address, contracts: ADDRESSES
+      });
+    }
+
+    if (req.method !== 'POST') return send(404, { error: 'not found' });
+    const data = await body(req);
+
+    if (url === '/deploy') {
+      const name = data.contract;
+      const factory = new ethers.ContractFactory(abiOf(name), binOf(name), wallet);
+      const c = await factory.deploy(...(data.args || []));
+      await c.waitForDeployment();
+      const addr = await c.getAddress();
+      ADDRESSES[name] = addr;
+      saveAddresses();
+      return send(200, { address: addr, txHash: c.deploymentTransaction().hash });
+    }
+
+    if (url === '/call') {
+      const c = contract(data.contract, data.address);
+      const result = await c[data.method](...(data.args || []));
+      return send(200, { result: normalize(result) });
+    }
+
+    if (url === '/send') {
+      const c = contract(data.contract, data.address);
+      const tx = await c[data.method](...(data.args || []));
+      const rc = await tx.wait();
+      return send(200, {
+        result: {
+          txHash: rc.hash, blockNumber: rc.blockNumber, status: rc.status === 1 ? 1 : 0,
+          gasUsed: Number(rc.gasUsed), logs: (rc.logs || []).map((l) => ({
+            contract: data.contract,
+            event: l.fragment ? l.fragment.name : 'Unknown',
+            args: l.args ? l.args.slice() : []
+          }))
+        }
+      });
+    }
+
+    return send(404, { error: 'unknown endpoint' });
+  } catch (e) {
+    return send(500, { error: e.message || String(e) });
+  }
+});
+
+function normalize(v) {
+  if (typeof v === 'bigint') return v.toString();
+  if (Array.isArray(v)) return v.map(normalize);
+  if (v && typeof v === 'object') {
+    const out = {};
+    for (const k of Object.keys(v)) {
+      if (/^\d+$/.test(k) || k === 'length' || k === '_' ) continue;
+      out[k] = normalize(v[k]);
+    }
+    return out;
+  }
+  return v;
+}
+
+server.listen(PORT, () => {
+  console.log('[relayer] 监听 http://127.0.0.1:' + PORT);
+  console.log('[relayer] RPC:', RPC_URL);
+  console.log('[relayer] 签名账户:', wallet.address);
+});

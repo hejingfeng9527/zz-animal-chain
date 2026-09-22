@@ -1,1 +1,128 @@
-Ly8gU1BEWC1MaWNlbnNlLUlkZW50aWZpZXI6IE1JVApwcmFnbWEgc29saWRpdHkgXjAuOC4xMTsKCi8qKgogKiBAdGl0bGUgQ2hhcml0eVBvaW50cwogKiBAbm90aWNlIOmDkeW3nua1gea1quWKqOeJqeaVkeWKqSDCtyDlhaznm4rnp6/liIblkIjnuqYKICogQGRldiDlj6rorrDlvZXlhaznm4rotKHnjK7np6/liIbvvIzkuI3mtonlj4rku7vkvZXku6PluIHlj5HooYzkuI7otYTph5HovazotKbjgIIKICogICAgICDnp6/liIbnlLHnrqHnkIblkZgv5pWR5Yqp56uZ77yIbWludGVy77yJ5qC55o2u6ZO+5LiK6KGM5Li65Y+R5pS+77yaCiAqICAgICAgLSDkuIrmiqXmnInmlYjnur/ntKIgICAgKzEwCiAqICAgICAgLSDlj4LkuI7mlZHliqkv6YCB5Yy7ICAgKzIwCiAqICAgICAgLSDlrozmiJDpooblhbsgICAgICAgICs1MAogKiAgICAgIC0g5a6M5oiQ5Zue6K6/ICAgICAgICArNQogKiAgICAgIC0g5oG25oSP5LiK5oqlICAgICAgICAtMzDvvIjku6UgcmVhc29uIOiusOW9le+8jGJhbGFuY2VPZiDkuI3kuLrotJ/vvIkKICoKICog6YCC6YWN77yaRklTQ08gQkNPUyAzLnggKHNvbGlkaXR5IDAuOC4xMSnvvJsKICogICAgICAg6Iul5L2/55SoIEZJU0NPIEJDT1MgMi5477yM6K+35bCGIHByYWdtYSDmlLnkuLogXjAuNi4xMCDlubboh6rooYzooaXlhYUgU2FmZU1hdGjjgIIKICovCmNvbnRyYWN0IENoYXJpdHlQb2ludHMgewogICAgc3RydWN0IEF3YXJkIHsKICAgICAgICB1aW50MjU2IGFtb3VudDsgICAgIC8vIOato+aVsOWPkeaUviAvIOi0n+aVsOaJo+WHj+eUqCBEZWR1Y3Qg5LqL5Lu25Y2V54us6K6w5b2VCiAgICAgICAgc3RyaW5nIHJlYXNvbjsgICAgICAvLyDkuovnlLHvvIjlkKvlhbPogZTkuJrliqEgSUTvvIkKICAgICAgICBhZGRyZXNzIG9wZXJhdG9yOyAgIC8vIOaTjeS9nOiAhQogICAgICAgIHVpbnQ2NCB0czsgICAgICAgICAgLy8g5pe26Ze05oizCiAgICB9CgogICAgYWRkcmVzcyBwdWJsaWMgb3duZXI7CiAgICB1aW50MjU2IHB1YmxpYyB0b3RhbFN1cHBseTsKICAgIHVpbnQyNTYgcHVibGljIGF3YXJkQ291bnQ7CgogICAgbWFwcGluZyhhZGRyZXNzID0+IGJvb2wpIHB1YmxpYyBtaW50ZXJzOwogICAgbWFwcGluZyhhZGRyZXNzID0+IHVpbnQyNTYpIHB1YmxpYyBiYWxhbmNlT2Y7CiAgICBtYXBwaW5nKGFkZHJlc3MgPT4gdWludDI1NikgcHVibGljIHRvdGFsRWFybmVkOwogICAgbWFwcGluZyhhZGRyZXNzID0+IHVpbnQyNTZbXSkgcHJpdmF0ZSBhd2FyZEluZGV4OwoKICAgIEF3YXJkW10gcHJpdmF0ZSBhd2FyZHM7CgogICAgZXZlbnQgUG9pbnRzQXdhcmRlZChhZGRyZXNzIGluZGV4ZWQgdG8sIHVpbnQyNTYgYW1vdW50LCBzdHJpbmcgcmVhc29uLCBhZGRyZXNzIGluZGV4ZWQgb3BlcmF0b3IsIHVpbnQ2NCB0cyk7CiAgICBldmVudCBQb2ludHNEZWR1Y3RlZChhZGRyZXNzIGluZGV4ZWQgZnJvbSwgdWludDI1NiBhbW91bnQsIHN0cmluZyByZWFzb24sIGFkZHJlc3MgaW5kZXhlZCBvcGVyYXRvciwgdWludDY0IHRzKTsKICAgIGV2ZW50IE1pbnRlclVwZGF0ZWQoYWRkcmVzcyBpbmRleGVkIGFjY291bnQsIGJvb2wgZW5hYmxlZCk7CgogICAgbW9kaWZpZXIgb25seU93bmVyKCkgewogICAgICAgIHJlcXVpcmUobXNnLnNlbmRlciA9PSBvd25lciwgIkNoYXJpdHlQb2ludHM6IG5vdCBvd25lciIpOwogICAgICAgIF87CiAgICB9CgogICAgbW9kaWZpZXIgb25seU1pbnRlcigpIHsKICAgICAgICByZXF1aXJlKG1pbnRlcnNbbXNnLnNlbmRlcl0gfHwgbXNnLnNlbmRlciA9PSBvd25lciwgIkNoYXJpdHlQb2ludHM6IG5vdCBtaW50ZXIiKTsKICAgICAgICBfOwogICAgfQoKICAgIGNvbnN0cnVjdG9yKCkgewogICAgICAgIG93bmVyID0gbXNnLnNlbmRlcjsKICAgICAgICBtaW50ZXJzW21zZy5zZW5kZXJdID0gdHJ1ZTsKICAgICAgICBlbWl0IE1pbnRlclVwZGF0ZWQobXNnLnNlbmRlciwgdHJ1ZSk7CiAgICB9CgogICAgZnVuY3Rpb24gc2V0TWludGVyKGFkZHJlc3MgYWNjb3VudCwgYm9vbCBlbmFibGVkKSBleHRlcm5hbCBvbmx5T3duZXIgewogICAgICAgIG1pbnRlcnNbYWNjb3VudF0gPSBlbmFibGVkOwogICAgICAgIGVtaXQgTWludGVyVXBkYXRlZChhY2NvdW50LCBlbmFibGVkKTsKICAgIH0KCiAgICBmdW5jdGlvbiB0cmFuc2Zlck93bmVyc2hpcChhZGRyZXNzIG5ld093bmVyKSBleHRlcm5hbCBvbmx5T3duZXIgewogICAgICAgIHJlcXVpcmUobmV3T3duZXIgIT0gYWRkcmVzcygwKSwgIkNoYXJpdHlQb2ludHM6IHplcm8gYWRkcmVzcyIpOwogICAgICAgIG93bmVyID0gbmV3T3duZXI7CiAgICAgICAgbWludGVyc1tuZXdPd25lcl0gPSB0cnVlOwogICAgICAgIGVtaXQgTWludGVyVXBkYXRlZChuZXdPd25lciwgdHJ1ZSk7CiAgICB9CgogICAgLy8vIEBub3RpY2Ug5Y+R5pS+56ev5YiGCiAgICBmdW5jdGlvbiBhd2FyZChhZGRyZXNzIHRvLCB1aW50MjU2IGFtb3VudCwgc3RyaW5nIGNhbGxkYXRhIHJlYXNvbikgZXh0ZXJuYWwgb25seU1pbnRlciB7CiAgICAgICAgcmVxdWlyZSh0byAhPSBhZGRyZXNzKDApLCAiQ2hhcml0eVBvaW50czogemVybyBhZGRyZXNzIik7CiAgICAgICAgcmVxdWlyZShhbW91bnQgPiAwLCAiQ2hhcml0eVBvaW50czogYW1vdW50IHplcm8iKTsKICAgICAgICBiYWxhbmNlT2ZbdG9dICs9IGFtb3VudDsKICAgICAgICB0b3RhbEVhcm5lZFt0b10gKz0gYW1vdW50OwogICAgICAgIHRvdGFsU3VwcGx5ICs9IGFtb3VudDsKICAgICAgICBfYXBwZW5kKHRvLCBhbW91bnQsIHJlYXNvbik7CiAgICAgICAgZW1pdCBQb2ludHNBd2FyZGVkKHRvLCBhbW91bnQsIHJlYXNvbiwgbXNnLnNlbmRlciwgdWludDY0KGJsb2NrLnRpbWVzdGFtcCkpOwogICAgfQoKICAgIC8vLyBAbm90aWNlIOaJuemHj+WPkeaUvu+8iOS4gOasoeaVkeWKqeihjOWKqOWkmuS6uuWPguS4ju+8iQogICAgZnVuY3Rpb24gYXdhcmRCYXRjaCgKICAgICAgICBhZGRyZXNzW10gY2FsbGRhdGEgYWNjb3VudHMsCiAgICAgICAgdWludDI1NltdIGNhbGxkYXRhIGFtb3VudHMsCiAgICAgICAgc3RyaW5nIGNhbGxkYXRhIHJlYXNvbgogICAgKSBleHRlcm5hbCBvbmx5TWludGVyIHsKICAgICAgICByZXF1aXJlKGFjY291bnRzLmxlbmd0aCA9PSBhbW91bnRzLmxlbmd0aCwgIkNoYXJpdHlQb2ludHM6IGxlbmd0aCBtaXNtYXRjaCIpOwogICAgICAgIGZvciAodWludDI1NiBpID0gMDsgaSA8IGFjY291bnRzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgIGlmIChhY2NvdW50c1tpXSA9PSBhZGRyZXNzKDApIHx8IGFtb3VudHNbaV0gPT0gMCkgY29udGludWU7CiAgICAgICAgICAgIGJhbGFuY2VPZlthY2NvdW50c1tpXV0gKz0gYW1vdW50c1tpXTsKICAgICAgICAgICAgdG90YWxFYXJuZWRbYWNjb3VudHNbaV1dICs9IGFtb3VudHNbaV07CiAgICAgICAgICAgIHRvdGFsU3VwcGx5ICs9IGFtb3VudHNbaV07CiAgICAgICAgICAgIF9hcHBlbmQoYWNjb3VudHNbaV0sIGFtb3VudHNbaV0sIHJlYXNvbik7CiAgICAgICAgICAgIGVtaXQgUG9pbnRzQXdhcmRlZChhY2NvdW50c1tpXSwgYW1vdW50c1tpXSwgcmVhc29uLCBtc2cuc2VuZGVyLCB1aW50NjQoYmxvY2sudGltZXN0YW1wKSk7CiAgICAgICAgfQogICAgfQoKICAgIC8vLyBAbm90aWNlIOaJo+WHj+enr+WIhu+8iOaBtuaEj+S4iuaKpSAvIOW8g+WFu+i/nee6pu+8ie+8jOS9memineS4jeS4uui0nwogICAgZnVuY3Rpb24gZGVkdWN0KGFkZHJlc3MgZnJvbSwgdWludDI1NiBhbW91bnQsIHN0cmluZyBjYWxsZGF0YSByZWFzb24pIGV4dGVybmFsIG9ubHlNaW50ZXIgewogICAgICAgIHVpbnQyNTYgYmFsID0gYmFsYW5jZU9mW2Zyb21dOwogICAgICAgIHVpbnQyNTYgcmVhbCA9IGFtb3VudCA+IGJhbCA/IGJhbCA6IGFtb3VudDsKICAgICAgICBpZiAocmVhbCA9PSAwKSByZXR1cm47CiAgICAgICAgYmFsYW5jZU9mW2Zyb21dID0gYmFsIC0gcmVhbDsKICAgICAgICB0b3RhbFN1cHBseSAtPSByZWFsOwogICAgICAgIGF3YXJkSW5kZXhbZnJvbV0ucHVzaChhd2FyZHMubGVuZ3RoKTsKICAgICAgICBhd2FyZHMucHVzaChBd2FyZCh7YW1vdW50OiByZWFsLCByZWFzb246IHJlYXNvbiwgb3BlcmF0b3I6IG1zZy5zZW5kZXIsIHRzOiB1aW50NjQoYmxvY2sudGltZXN0YW1wKX0pKTsKICAgICAgICBhd2FyZENvdW50ICs9IDE7CiAgICAgICAgZW1pdCBQb2ludHNEZWR1Y3RlZChmcm9tLCByZWFsLCByZWFzb24sIG1zZy5zZW5kZXIsIHVpbnQ2NChibG9jay50aW1lc3RhbXApKTsKICAgIH0KCiAgICBmdW5jdGlvbiBfYXBwZW5kKGFkZHJlc3MgdG8sIHVpbnQyNTYgYW1vdW50LCBzdHJpbmcgbWVtb3J5IHJlYXNvbikgaW50ZXJuYWwgewogICAgICAgIGF3YXJkSW5kZXhbdG9dLnB1c2goYXdhcmRzLmxlbmd0aCk7CiAgICAgICAgYXdhcmRzLnB1c2goQXdhcmQoe2Ftb3VudDogYW1vdW50LCByZWFzb246IHJlYXNvbiwgb3BlcmF0b3I6IG1zZy5zZW5kZXIsIHRzOiB1aW50NjQoYmxvY2sudGltZXN0YW1wKX0pKTsKICAgICAgICBhd2FyZENvdW50ICs9IDE7CiAgICB9CgogICAgLy8vIEBub3RpY2Ug5p+l6K+i5p+Q6LSm5oi355qE56ev5YiG5rWB5rC0CiAgICBmdW5jdGlvbiBhd2FyZHNPZihhZGRyZXNzIGFjY291bnQpIGV4dGVybmFsIHZpZXcgcmV0dXJucyAoQXdhcmRbXSBtZW1vcnkgbGlzdCkgewogICAgICAgIHVpbnQyNTZbXSBzdG9yYWdlIGlkeCA9IGF3YXJkSW5kZXhbYWNjb3VudF07CiAgICAgICAgbGlzdCA9IG5ldyBBd2FyZFtdKGlkeC5sZW5ndGgpOwogICAgICAgIGZvciAodWludDI1NiBpID0gMDsgaSA8IGlkeC5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBsaXN0W2ldID0gYXdhcmRzW2lkeFtpXV07CiAgICAgICAgfQogICAgfQoKICAgIGZ1bmN0aW9uIGF3YXJkQXQodWludDI1NiBpbmRleCkgZXh0ZXJuYWwgdmlldyByZXR1cm5zIChBd2FyZCBtZW1vcnkpIHsKICAgICAgICByZXR1cm4gYXdhcmRzW2luZGV4XTsKICAgIH0KfQo=
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.11;
+
+/**
+ * @title CharityPoints
+ * @notice 郑州流浪动物救助 · 公益积分合约
+ * @dev 只记录公益贡献积分，不涉及任何代币发行与资金转账。
+ *      积分由管理员/救助站（minter）根据链上行为发放：
+ *      - 上报有效线索    +10
+ *      - 参与救助/送医   +20
+ *      - 完成领养        +50
+ *      - 完成回访        +5
+ *      - 恶意上报        -30（以 reason 记录，balanceOf 不为负）
+ *
+ * 适配：FISCO BCOS 3.x (solidity 0.8.11)；
+ *       若使用 FISCO BCOS 2.x，请将 pragma 改为 ^0.6.10 并自行补充 SafeMath。
+ */
+contract CharityPoints {
+    struct Award {
+        uint256 amount;     // 正数发放 / 负数扣减用 Deduct 事件单独记录
+        string reason;      // 事由（含关联业务 ID）
+        address operator;   // 操作者
+        uint64 ts;          // 时间戳
+    }
+
+    address public owner;
+    uint256 public totalSupply;
+    uint256 public awardCount;
+
+    mapping(address => bool) public minters;
+    mapping(address => uint256) public balanceOf;
+    mapping(address => uint256) public totalEarned;
+    mapping(address => uint256[]) private awardIndex;
+
+    Award[] private awards;
+
+    event PointsAwarded(address indexed to, uint256 amount, string reason, address indexed operator, uint64 ts);
+    event PointsDeducted(address indexed from, uint256 amount, string reason, address indexed operator, uint64 ts);
+    event MinterUpdated(address indexed account, bool enabled);
+
+    modifier onlyOwner() {
+        require(msg.sender == owner, "CharityPoints: not owner");
+        _;
+    }
+
+    modifier onlyMinter() {
+        require(minters[msg.sender] || msg.sender == owner, "CharityPoints: not minter");
+        _;
+    }
+
+    constructor() {
+        owner = msg.sender;
+        minters[msg.sender] = true;
+        emit MinterUpdated(msg.sender, true);
+    }
+
+    function setMinter(address account, bool enabled) external onlyOwner {
+        minters[account] = enabled;
+        emit MinterUpdated(account, enabled);
+    }
+
+    function transferOwnership(address newOwner) external onlyOwner {
+        require(newOwner != address(0), "CharityPoints: zero address");
+        owner = newOwner;
+        minters[newOwner] = true;
+        emit MinterUpdated(newOwner, true);
+    }
+
+    /// @notice 发放积分
+    function award(address to, uint256 amount, string calldata reason) external onlyMinter {
+        require(to != address(0), "CharityPoints: zero address");
+        require(amount > 0, "CharityPoints: amount zero");
+        balanceOf[to] += amount;
+        totalEarned[to] += amount;
+        totalSupply += amount;
+        _append(to, amount, reason);
+        emit PointsAwarded(to, amount, reason, msg.sender, uint64(block.timestamp));
+    }
+
+    /// @notice 批量发放（一次救助行动多人参与）
+    function awardBatch(
+        address[] calldata accounts,
+        uint256[] calldata amounts,
+        string calldata reason
+    ) external onlyMinter {
+        require(accounts.length == amounts.length, "CharityPoints: length mismatch");
+        for (uint256 i = 0; i < accounts.length; i++) {
+            if (accounts[i] == address(0) || amounts[i] == 0) continue;
+            balanceOf[accounts[i]] += amounts[i];
+            totalEarned[accounts[i]] += amounts[i];
+            totalSupply += amounts[i];
+            _append(accounts[i], amounts[i], reason);
+            emit PointsAwarded(accounts[i], amounts[i], reason, msg.sender, uint64(block.timestamp));
+        }
+    }
+
+    /// @notice 扣减积分（恶意上报 / 弃养违约），余额不为负
+    function deduct(address from, uint256 amount, string calldata reason) external onlyMinter {
+        uint256 bal = balanceOf[from];
+        uint256 real = amount > bal ? bal : amount;
+        if (real == 0) return;
+        balanceOf[from] = bal - real;
+        totalSupply -= real;
+        awardIndex[from].push(awards.length);
+        awards.push(Award({amount: real, reason: reason, operator: msg.sender, ts: uint64(block.timestamp)}));
+        awardCount += 1;
+        emit PointsDeducted(from, real, reason, msg.sender, uint64(block.timestamp));
+    }
+
+    function _append(address to, uint256 amount, string memory reason) internal {
+        awardIndex[to].push(awards.length);
+        awards.push(Award({amount: amount, reason: reason, operator: msg.sender, ts: uint64(block.timestamp)}));
+        awardCount += 1;
+    }
+
+    /// @notice 查询某账户的积分流水
+    function awardsOf(address account) external view returns (Award[] memory list) {
+        uint256[] storage idx = awardIndex[account];
+        list = new Award[](idx.length);
+        for (uint256 i = 0; i < idx.length; i++) {
+            list[i] = awards[idx[i]];
+        }
+    }
+
+    function awardAt(uint256 index) external view returns (Award memory) {
+        return awards[index];
+    }
+}

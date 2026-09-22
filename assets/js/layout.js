@@ -1,1 +1,151 @@
-LyoqCiAqIGxheW91dC5qcyDigJTigJQg6aG16Z2i5qGG5p6277ya6aG25qCPIC8g5a+86IiqIC8g6LSm5oi35YiH5o2iIC8g5o+Q56S65p2hIC8g57uf5LiA5ZCv5Yqo5rWB56iLCiAqLwooZnVuY3Rpb24gKGdsb2JhbCkgewogICd1c2Ugc3RyaWN0JzsKCiAgZnVuY3Rpb24gYmFzZSgpIHsKICAgIHJldHVybiAvXC9wYWdlc1wvLy50ZXN0KGxvY2F0aW9uLnBhdGhuYW1lKSA/ICcuLi8nIDogJyc7CiAgfQoKICBjb25zdCBOQVYgPSBbCiAgICB7IGs6ICdpbmRleCcsIGhyZWY6ICdpbmRleC5odG1sJywgdGV4dDogJ+WcsOWbvuWvvOiIqicgfSwKICAgIHsgazogJ3JlcG9ydCcsIGhyZWY6ICdwYWdlcy9yZXBvcnQuaHRtbCcsIHRleHQ6ICfkuIrmiqXnur/ntKInIH0sCiAgICB7IGs6ICdhbmltYWxzJywgaHJlZjogJ3BhZ2VzL2FuaW1hbHMuaHRtbCcsIHRleHQ6ICfliqjnianmoaPmoYgnIH0sCiAgICB7IGs6ICdhZG9wdGlvbicsIGhyZWY6ICdwYWdlcy9hZG9wdGlvbi5odG1sJywgdGV4dDogJ+mihuWFu+S4reW/gycgfSwKICAgIHsgazogJ2FkbWluJywgaHJlZjogJ3BhZ2VzL2FkbWluLmh0bWwnLCB0ZXh0OiAn566h55CG5ZCO5Y+wJyB9LAogICAgeyBrOiAncG9pbnRzJywgaHJlZjogJ3BhZ2VzL3BvaW50cy5odG1sJywgdGV4dDogJ+WFrOebiuenr+WIhicgfSwKICAgIHsgazogJ2V4cGxvcmVyJywgaHJlZjogJ3BhZ2VzL2V4cGxvcmVyLmh0bWwnLCB0ZXh0OiAn6ZO+5LiK5a2Y6K+BJyB9CiAgXTsKCiAgZnVuY3Rpb24gZXNjKHMpIHsKICAgIHJldHVybiBTdHJpbmcocyA9PT0gdW5kZWZpbmVkIHx8IHMgPT09IG51bGwgPyAnJyA6IHMpCiAgICAgIC5yZXBsYWNlKC8mL2csICcmYW1wOycpLnJlcGxhY2UoLzwvZywgJyZsdDsnKS5yZXBsYWNlKC8+L2csICcmZ3Q7JykucmVwbGFjZSgvIi9nLCAnJnF1b3Q7Jyk7CiAgfQoKICBmdW5jdGlvbiByZW5kZXJIZWFkZXIoYWN0aXZlKSB7CiAgICBjb25zdCBiID0gYmFzZSgpOwogICAgY29uc3QgbWUgPSBnbG9iYWwuWlpBdXRoLmN1cnJlbnQoKTsKICAgIGNvbnN0IG9wdHMgPSBnbG9iYWwuWlpBdXRoLmFjY291bnRzLm1hcCgoYSkgPT4KICAgICAgJzxvcHRpb24gdmFsdWU9IicgKyBhLmlkICsgJyInICsgKGEuaWQgPT09IG1lLmlkID8gJyBzZWxlY3RlZCcgOiAnJykgKyAnPicgKyBlc2MoYS5uYW1lKSArICfvvIgnICsKICAgICAgKGEucm9sZSA9PT0gJ2FkbWluJyA/ICfnrqHnkIblkZgnIDogYS5yb2xlID09PSAnc2hlbHRlcicgPyAn5pWR5Yqp56uZJyA6ICfnlKjmiLcnKSArICfvvIk8L29wdGlvbj4nKS5qb2luKCcnKTsKICAgIGNvbnN0IG5hdkh0bWwgPSBOQVYubWFwKChuKSA9PiB7CiAgICAgIGNvbnN0IGhyZWYgPSBuLmsgPT09ICdpbmRleCcgPyBiICsgbi5ocmVmIDogYiArIG4uaHJlZjsKICAgICAgcmV0dXJuICc8YSBjbGFzcz0ibmF2LWxpbmsnICsgKG4uayA9PT0gYWN0aXZlID8gJyBhY3RpdmUnIDogJycpICsgJyIgaHJlZj0iJyArIGhyZWYgKyAnIj4nICsgbi50ZXh0ICsgJzwvYT4nOwogICAgfSkuam9pbignJyk7CgogICAgY29uc3QgaGVhZGVyID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnaGVhZGVyJyk7CiAgICBoZWFkZXIuY2xhc3NOYW1lID0gJ3RvcGJhcic7CiAgICBoZWFkZXIuaW5uZXJIVE1MID0KICAgICAgJzxkaXYgY2xhc3M9InRvcGJhci1pbm5lciI+JyArCiAgICAgICAgJzxhIGNsYXNzPSJicmFuZCIgaHJlZj0iJyArIGIgKyAnaW5kZXguaHRtbCI+PHNwYW4gY2xhc3M9ImxvZ28iPvCfkL48L3NwYW4+JyArCiAgICAgICAgICAnPHNwYW4gY2xhc3M9ImJyYW5kLXRleHQiPjxiPumDkeW3nua1gea1quWKqOeJqeaVkeWKqemTvjwvYj48ZW0+QmxvY2tjaGFpbiBSZXNjdWUgTmF2aWdhdG9yIMK3IFpoZW5nemhvdTwvZW0+PC9zcGFuPjwvYT4nICsKICAgICAgICAnPG5hdiBjbGFzcz0ibmF2Ij4nICsgbmF2SHRtbCArCiAgICAgICAgICAnPGEgY2xhc3M9Im5hdi1saW5rIiBocmVmPSInICsgYiArICdwYWdlcy9tZXNzYWdlcy5odG1sIj7mtojmga88c3BhbiBjbGFzcz0iYmFkZ2UiIGlkPSJtc2dCYWRnZSI+MDwvc3Bhbj48L2E+JyArCiAgICAgICAgJzwvbmF2PicgKwogICAgICAgICc8ZGl2IGNsYXNzPSJhY2NvdW50Ij4nICsKICAgICAgICAgICc8c3BhbiBjbGFzcz0iY2hhaW4tY2hpcCIgaWQ9ImNoYWluQ2hpcCI+6ZO+5pyq6L+e5o6lPC9zcGFuPicgKwogICAgICAgICAgJzxzZWxlY3QgaWQ9ImFjY291bnRTZWwiIHRpdGxlPSLliIfmjaLmvJTnpLrouqvku70iPicgKyBvcHRzICsgJzwvc2VsZWN0PicgKwogICAgICAgICc8L2Rpdj4nICsKICAgICAgJzwvZGl2Pic7CiAgICBkb2N1bWVudC5ib2R5Lmluc2VydEJlZm9yZShoZWFkZXIsIGRvY3VtZW50LmJvZHkuZmlyc3RDaGlsZCk7CgogICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2FjY291bnRTZWwnKS5hZGRFdmVudExpc3RlbmVyKCdjaGFuZ2UnLCAoZSkgPT4gewogICAgICBnbG9iYWwuWlpBdXRoLnNldChlLnRhcmdldC52YWx1ZSk7CiAgICAgIGxvY2F0aW9uLnJlbG9hZCgpOwogICAgfSk7CiAgfQoKICBmdW5jdGlvbiByZW5kZXJGb290ZXIoKSB7CiAgICBjb25zdCBmID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZm9vdGVyJyk7CiAgICBmLmNsYXNzTmFtZSA9ICdmb290ZXInOwogICAgZi5pbm5lckhUTUwgPSAnPGRpdiBjbGFzcz0iZm9vdGVyLWlubmVyIj4nICsKICAgICAgJzxzcGFuPvCfkL4g6YOR5bee5rWB5rWq5Yqo54mp5pWR5Yqp5a+86IiqIMK3IOWfuuS6juWMuuWdl+mTvueahOWFrOebiuWtmOivgeezu+e7nzwvc3Bhbj4nICsKICAgICAgJzxzcGFuIGNsYXNzPSJmb290ZXItbGlua3MiPicgKwogICAgICAgICc8YSBocmVmPSInICsgYmFzZSgpICsgJ3BhZ2VzL2V4cGxvcmVyLmh0bWwiPumTvuS4iuWtmOivgTwvYT4nICsKICAgICAgICAnPGEgaHJlZj0iJyArIGJhc2UoKSArICdwYWdlcy9tZXNzYWdlcy5odG1sIj7mtojmga/kuK3lv4M8L2E+JyArCiAgICAgICAgJzxhIGhyZWY9IicgKyBiYXNlKCkgKyAnUkVBRE1FLm1kIj7pobnnm67or7TmmI48L2E+JyArCiAgICAgICc8L3NwYW4+PC9kaXY+JzsKICAgIGRvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoZik7CiAgfQoKICBmdW5jdGlvbiB0b2FzdChtc2csIHR5cGUpIHsKICAgIGxldCBib3ggPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgndG9hc3RCb3gnKTsKICAgIGlmICghYm94KSB7CiAgICAgIGJveCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2RpdicpOwogICAgICBib3guaWQgPSAndG9hc3RCb3gnOyBib3guY2xhc3NOYW1lID0gJ3RvYXN0LWJveCc7CiAgICAgIGRvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYm94KTsKICAgIH0KICAgIGNvbnN0IGVsID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZGl2Jyk7CiAgICBlbC5jbGFzc05hbWUgPSAndG9hc3QgJyArICh0eXBlIHx8ICdvaycpOwogICAgZWwudGV4dENvbnRlbnQgPSBtc2c7CiAgICBib3guYXBwZW5kQ2hpbGQoZWwpOwogICAgc2V0VGltZW91dCgoKSA9PiB7IGVsLmNsYXNzTGlzdC5hZGQoJ291dCcpOyB9LCAzMjAwKTsKICAgIHNldFRpbWVvdXQoKCkgPT4geyBlbC5yZW1vdmUoKTsgfSwgMzgwMCk7CiAgfQoKICBmdW5jdGlvbiBhbWFwVGlwKCkgewogICAgaWYgKGdsb2JhbC5aWl9DT05GSUcuQU1BUF9LRVkpIHJldHVybjsKICAgIGNvbnN0IGIgPSBiYXNlKCk7CiAgICBjb25zdCB0aXAgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdkaXYnKTsKICAgIHRpcC5jbGFzc05hbWUgPSAnbm90aWNlJzsKICAgIHRpcC5pbm5lckhUTUwgPSAn4pqg77iPIOacquajgOa1i+WIsOmrmOW+t+WcsOWbviBLZXnvvIzlvZPliY3kvb/nlKjpmY3nuqflupXlm77vvIjpq5jlvrflhazlvIDnk6bniYfvvIzlip/og73lrozmlbTvvInjgIInICsKICAgICAgJ+WcqCA8Y29kZT4nICsgYiArICdhc3NldHMvanMvY29uZmlnLmpzPC9jb2RlPiDkuK3loavlhaUgPGNvZGU+QU1BUF9LRVk8L2NvZGU+IOWQjuWIt+aWsOWNs+WPr+WIh+aNoumrmOW+tyBKUyBBUEnjgIInICsKICAgICAgJzxhIGhyZWY9Imh0dHBzOi8vY29uc29sZS5hbWFwLmNvbSIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiPuWOu+eUs+ivtyDihpI8L2E+JzsKICAgIGNvbnN0IG1haW4gPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCdtYWluJykgfHwgZG9jdW1lbnQuYm9keTsKICAgIG1haW4uaW5zZXJ0QmVmb3JlKHRpcCwgbWFpbi5maXJzdENoaWxkKTsKICB9CgogIGNvbnN0IExheW91dCA9IHsKICAgIGJhc2UsIGVzYywgdG9hc3QsIE5BViwKCiAgICBhc3luYyBib290KG9wdHMpIHsKICAgICAgb3B0cyA9IG9wdHMgfHwge307CiAgICAgIHJlbmRlckhlYWRlcihvcHRzLmFjdGl2ZSk7CiAgICAgIHJlbmRlckZvb3RlcigpOwogICAgICBsZXQgc3RhdHM7CiAgICAgIHRyeSB7CiAgICAgICAgc3RhdHMgPSBhd2FpdCBnbG9iYWwuWlpTdG9yZS5pbml0KCk7CiAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICBjb25zb2xlLmVycm9yKGUpOwogICAgICAgIHRvYXN0KCfpk77liJ3lp4vljJblpLHotKXvvJonICsgZS5tZXNzYWdlLCAnZXJyJyk7CiAgICAgIH0KICAgICAgY29uc3QgY2hpcCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjaGFpbkNoaXAnKTsKICAgICAgaWYgKGNoaXAgJiYgc3RhdHMpIHsKICAgICAgICBjaGlwLnRleHRDb250ZW50ID0gKHN0YXRzLmRyaXZlciA9PT0gJ2Zpc2NvJyA/ICdGSVNDTyBCQ09TJyA6ICflhoXnva7pk74nKSArICcgwrcg5Yy65Z2XICMnICsgc3RhdHMuaGVpZ2h0OwogICAgICAgIGNoaXAuY2xhc3NMaXN0LmFkZChzdGF0cy5kcml2ZXIgPT09ICdmaXNjbycgPyAnb24tcmVhbCcgOiAnb24tbW9jaycpOwogICAgICB9CiAgICAgIGdsb2JhbC5aWk5vdGlmeS5yZWZyZXNoQmFkZ2UoKTsKICAgICAgaWYgKG9wdHMubWFwKSBhbWFwVGlwKCk7CiAgICAgIGRvY3VtZW50LnRpdGxlID0gKG9wdHMudGl0bGUgPyBvcHRzLnRpdGxlICsgJyDCtyAnIDogJycpICsgJ+mDkeW3nua1gea1quWKqOeJqeaVkeWKqemTvic7CiAgICAgIGlmICh0eXBlb2YgZ2xvYmFsLlBBR0VfSU5JVCA9PT0gJ2Z1bmN0aW9uJykgewogICAgICAgIHRyeSB7IGF3YWl0IGdsb2JhbC5QQUdFX0lOSVQoKTsgfQogICAgICAgIGNhdGNoIChlKSB7IGNvbnNvbGUuZXJyb3IoZSk7IHRvYXN0KCfpobXpnaLliJ3lp4vljJblpLHotKXvvJonICsgZS5tZXNzYWdlLCAnZXJyJyk7IH0KICAgICAgfQogICAgfSwKCiAgICAvKiog55Sf5oiQ44CM5LiA6ZSu5a+86Iiq44CN5oyJ6ZKuIEhUTUwgKi8KICAgIG5hdkJ0bihsbmcsIGxhdCwgbmFtZSkgewogICAgICBjb25zdCB1cmwgPSBnbG9iYWwuWlpNYXAubmF2VXJsKGxuZywgbGF0LCBuYW1lKTsKICAgICAgcmV0dXJuICc8YSBjbGFzcz0iYnRuIGJ0bi1uYXYiIGhyZWY9IicgKyB1cmwgKyAnIiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciI+8J+nrSDkuIDplK7lr7zoiKo8L2E+JzsKICAgIH0sCgogICAgLyoqIOeUn+aIkOWTiOW4jOWxleekuu+8iOWPr+eCueWHu+WkjeWItu+8iSAqLwogICAgaGFzaFJvdyhsYWJlbCwgaGFzaCkgewogICAgICBpZiAoIWhhc2gpIHJldHVybiAnJzsKICAgICAgcmV0dXJuICc8ZGl2IGNsYXNzPSJoYXNoLXJvdyI+PHNwYW4gY2xhc3M9ImhrIj4nICsgbGFiZWwgKyAnPC9zcGFuPicgKwogICAgICAgICc8Y29kZSBjbGFzcz0iaHYiIHRpdGxlPSLngrnlh7vlpI3liLYiIG9uY2xpY2s9Im5hdmlnYXRvci5jbGlwYm9hcmQmJm5hdmlnYXRvci5jbGlwYm9hcmQud3JpdGVUZXh0KFwnJyArIGhhc2ggKyAnXCcpIj4nICsKICAgICAgICBlc2MoaGFzaCkgKyAnPC9jb2RlPjwvZGl2Pic7CiAgICB9LAoKICAgIGFzeW5jIGNvbmZpcm0obXNnKSB7CiAgICAgIHJldHVybiBjb25maXJtKG1zZyk7CiAgICB9LAoKICAgIGFzeW5jIHByb21wdChtc2csIGRlZikgewogICAgICByZXR1cm4gcHJvbXB0KG1zZywgZGVmIHx8ICcnKTsKICAgIH0KICB9OwoKICBnbG9iYWwuWlpMYXlvdXQgPSBMYXlvdXQ7Cn0pKHdpbmRvdyk7Cg==
+/**
+ * layout.js —— 页面框架：顶栏 / 导航 / 账户切换 / 提示条 / 统一启动流程
+ */
+(function (global) {
+  'use strict';
+
+  function base() {
+    return /\/pages\//.test(location.pathname) ? '../' : '';
+  }
+
+  const NAV = [
+    { k: 'index', href: 'index.html', text: '地图导航' },
+    { k: 'report', href: 'pages/report.html', text: '上报线索' },
+    { k: 'animals', href: 'pages/animals.html', text: '动物档案' },
+    { k: 'adoption', href: 'pages/adoption.html', text: '领养中心' },
+    { k: 'admin', href: 'pages/admin.html', text: '管理后台' },
+    { k: 'points', href: 'pages/points.html', text: '公益积分' },
+    { k: 'explorer', href: 'pages/explorer.html', text: '链上存证' }
+  ];
+
+  function esc(s) {
+    return String(s === undefined || s === null ? '' : s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  function renderHeader(active) {
+    const b = base();
+    const me = global.ZZAuth.current();
+    const opts = global.ZZAuth.accounts.map((a) =>
+      '<option value="' + a.id + '"' + (a.id === me.id ? ' selected' : '') + '>' + esc(a.name) + '（' +
+      (a.role === 'admin' ? '管理员' : a.role === 'shelter' ? '救助站' : '用户') + '）</option>').join('');
+    const navHtml = NAV.map((n) => {
+      const href = n.k === 'index' ? b + n.href : b + n.href;
+      return '<a class="nav-link' + (n.k === active ? ' active' : '') + '" href="' + href + '">' + n.text + '</a>';
+    }).join('');
+
+    const header = document.createElement('header');
+    header.className = 'topbar';
+    header.innerHTML =
+      '<div class="topbar-inner">' +
+        '<a class="brand" href="' + b + 'index.html"><span class="logo">🐾</span>' +
+          '<span class="brand-text"><b>郑州流浪动物救助链</b><em>Blockchain Rescue Navigator · Zhengzhou</em></span></a>' +
+        '<nav class="nav">' + navHtml +
+          '<a class="nav-link" href="' + b + 'pages/messages.html">消息<span class="badge" id="msgBadge">0</span></a>' +
+        '</nav>' +
+        '<div class="account">' +
+          '<span class="chain-chip" id="chainChip">链未连接</span>' +
+          '<select id="accountSel" title="切换演示身份">' + opts + '</select>' +
+        '</div>' +
+      '</div>';
+    document.body.insertBefore(header, document.body.firstChild);
+
+    document.getElementById('accountSel').addEventListener('change', (e) => {
+      global.ZZAuth.set(e.target.value);
+      location.reload();
+    });
+  }
+
+  function renderFooter() {
+    const f = document.createElement('footer');
+    f.className = 'footer';
+    f.innerHTML = '<div class="footer-inner">' +
+      '<span>🐾 郑州流浪动物救助导航 · 基于区块链的公益存证系统</span>' +
+      '<span class="footer-links">' +
+        '<a href="' + base() + 'pages/explorer.html">链上存证</a>' +
+        '<a href="' + base() + 'pages/messages.html">消息中心</a>' +
+        '<a href="' + base() + 'README.md">项目说明</a>' +
+      '</span></div>';
+    document.body.appendChild(f);
+  }
+
+  function toast(msg, type) {
+    let box = document.getElementById('toastBox');
+    if (!box) {
+      box = document.createElement('div');
+      box.id = 'toastBox'; box.className = 'toast-box';
+      document.body.appendChild(box);
+    }
+    const el = document.createElement('div');
+    el.className = 'toast ' + (type || 'ok');
+    el.textContent = msg;
+    box.appendChild(el);
+    setTimeout(() => { el.classList.add('out'); }, 3200);
+    setTimeout(() => { el.remove(); }, 3800);
+  }
+
+  function amapTip() {
+    if (global.ZZ_CONFIG.AMAP_KEY) return;
+    const b = base();
+    const tip = document.createElement('div');
+    tip.className = 'notice';
+    tip.innerHTML = '⚠️ 未检测到高德地图 Key，当前使用降级底图（高德公开瓦片，功能完整）。' +
+      '在 <code>' + b + 'assets/js/config.js</code> 中填入 <code>AMAP_KEY</code> 后刷新即可切换高德 JS API。' +
+      '<a href="https://console.amap.com" target="_blank" rel="noopener">去申请 →</a>';
+    const main = document.querySelector('main') || document.body;
+    main.insertBefore(tip, main.firstChild);
+  }
+
+  const Layout = {
+    base, esc, toast, NAV,
+
+    async boot(opts) {
+      opts = opts || {};
+      renderHeader(opts.active);
+      renderFooter();
+      let stats;
+      try {
+        stats = await global.ZZStore.init();
+      } catch (e) {
+        console.error(e);
+        toast('链初始化失败：' + e.message, 'err');
+      }
+      const chip = document.getElementById('chainChip');
+      if (chip && stats) {
+        chip.textContent = (stats.driver === 'fisco' ? 'FISCO BCOS' : '内置链') + ' · 区块 #' + stats.height;
+        chip.classList.add(stats.driver === 'fisco' ? 'on-real' : 'on-mock');
+      }
+      global.ZZNotify.refreshBadge();
+      if (opts.map) amapTip();
+      document.title = (opts.title ? opts.title + ' · ' : '') + '郑州流浪动物救助链';
+      if (typeof global.PAGE_INIT === 'function') {
+        try { await global.PAGE_INIT(); }
+        catch (e) { console.error(e); toast('页面初始化失败：' + e.message, 'err'); }
+      }
+    },
+
+    /** 生成「一键导航」按钮 HTML */
+    navBtn(lng, lat, name) {
+      const url = global.ZZMap.navUrl(lng, lat, name);
+      return '<a class="btn btn-nav" href="' + url + '" target="_blank" rel="noopener">🧭 一键导航</a>';
+    },
+
+    /** 生成哈希展示（可点击复制） */
+    hashRow(label, hash) {
+      if (!hash) return '';
+      return '<div class="hash-row"><span class="hk">' + label + '</span>' +
+        '<code class="hv" title="点击复制" onclick="navigator.clipboard&&navigator.clipboard.writeText(\'' + hash + '\')">' +
+        esc(hash) + '</code></div>';
+    },
+
+    async confirm(msg) {
+      return confirm(msg);
+    },
+
+    async prompt(msg, def) {
+      return prompt(msg, def || '');
+    }
+  };
+
+  global.ZZLayout = Layout;
+})(window);

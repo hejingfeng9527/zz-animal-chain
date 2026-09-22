@@ -1,1 +1,40 @@
-LyoqCiAqIGF1dGguanMg4oCU4oCUIOinkuiJsuS4jui0puaIt++8iOa8lOekuueUqOWGhee9rui0puaIt++8jOecn+WunueOr+Wig+abv+aNouS4uumSseWMheWcsOWdgO+8iQogKi8KKGZ1bmN0aW9uIChnbG9iYWwpIHsKICAndXNlIHN0cmljdCc7CiAgY29uc3QgSCA9IGdsb2JhbC5aWkhhc2g7CgogIGNvbnN0IEFDQ09VTlRTID0gWwogICAgeyBpZDogJ2FkbWluJywgICAgbmFtZTogJ+W5s+WPsOeuoeeQhuWRmCDCtyDpg5Hlt57mlZHliqnnrqHnkIbnq5knLCByb2xlOiAnYWRtaW4nLCAgIGFkZHI6IEguYWRkcmVzc09mKCdhZG1pbicpLCAgICB0YWc6ICflrqHmoLggLyDmtYHovawgLyDnp6/liIblj5HmlL4nIH0sCiAgICB7IGlkOiAnc2hlbHRlcjEnLCBuYW1lOiAn6YOR5bee5biC5bCP5Yqo54mp5L+d5oqk5Y2P5LyaJywgICAgICAgIHJvbGU6ICdzaGVsdGVyJywgYWRkcjogSC5hZGRyZXNzT2YoJ3NoZWx0ZXIxJyksIHRhZzogJ+aVkeWKqeermSDCtyDmg6DmtY7ljLonIH0sCiAgICB7IGlkOiAnc2hlbHRlcjInLCBuYW1lOiAn5LqM5LiD5Yy65q+b5q+b6Zuo5pWR5Yqp5bCP6ZmiJywgICAgICAgIHJvbGU6ICdzaGVsdGVyJywgYWRkcjogSC5hZGRyZXNzT2YoJ3NoZWx0ZXIyJyksIHRhZzogJ+aVkeWKqeermSDCtyDkuozkuIPljLonIH0sCiAgICB7IGlkOiAndXNlcjEnLCAgICBuYW1lOiAn5b+X5oS/6ICFIMK3IOWwj+aelycsICAgICAgICAgICAgICAgcm9sZTogJ3VzZXInLCAgICBhZGRyOiBILmFkZHJlc3NPZigndXNlcjEnKSwgICAgdGFnOiAn6YeR5rC05Yy6JyB9LAogICAgeyBpZDogJ3VzZXIyJywgICAgbmFtZTogJ+W4guawkSDCtyDlvKDlhYjnlJ8nLCAgICAgICAgICAgICAgIHJvbGU6ICd1c2VyJywgICAgYWRkcjogSC5hZGRyZXNzT2YoJ3VzZXIyJyksICAgIHRhZzogJ+S4reWOn+WMuicgfQogIF07CgogIGNvbnN0IEtFWSA9ICd6ei5hdXRoJzsKCiAgY29uc3QgQXV0aCA9IHsKICAgIGFjY291bnRzOiBBQ0NPVU5UUywKICAgIGN1cnJlbnQoKSB7CiAgICAgIGNvbnN0IGlkID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oS0VZKSB8fCAndXNlcjEnOwogICAgICByZXR1cm4gQUNDT1VOVFMuZmluZCgoYSkgPT4gYS5pZCA9PT0gaWQpIHx8IEFDQ09VTlRTWzNdOwogICAgfSwKICAgIHNldChpZCkgewogICAgICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbShLRVksIGlkKTsKICAgICAgaWYgKGdsb2JhbC5aWk5vdGlmeSkgZ2xvYmFsLlpaTm90aWZ5LnJlZnJlc2hCYWRnZSgpOwogICAgfSwKICAgIGJ5QWRkcihhZGRyKSB7IHJldHVybiBBQ0NPVU5UUy5maW5kKChhKSA9PiBhLmFkZHIgPT09IGFkZHIpIHx8IG51bGw7IH0sCiAgICBuYW1lT2YoYWRkcikgewogICAgICBjb25zdCBhID0gQXV0aC5ieUFkZHIoYWRkcik7CiAgICAgIHJldHVybiBhID8gYS5uYW1lIDogKGFkZHIgPyBhZGRyLnNsaWNlKDAsIDgpICsgJ+KApicgOiAn4oCUJyk7CiAgICB9LAogICAgaXNBZG1pbigpIHsgcmV0dXJuIEF1dGguY3VycmVudCgpLnJvbGUgPT09ICdhZG1pbic7IH0sCiAgICBpc1NoZWx0ZXIoKSB7IHJldHVybiBBdXRoLmN1cnJlbnQoKS5yb2xlID09PSAnc2hlbHRlcic7IH0sCiAgICBpc1VzZXIoKSB7IHJldHVybiBBdXRoLmN1cnJlbnQoKS5yb2xlID09PSAndXNlcic7IH0sCiAgICBjYW5SZXZpZXcoKSB7IHJldHVybiBbJ2FkbWluJywgJ3NoZWx0ZXInXS5pbmRleE9mKEF1dGguY3VycmVudCgpLnJvbGUpID49IDA7IH0KICB9OwoKICBnbG9iYWwuWlpBdXRoID0gQXV0aDsKfSkod2luZG93KTsK
+/**
+ * auth.js —— 角色与账户（演示用内置账户，真实环境替换为钱包地址）
+ */
+(function (global) {
+  'use strict';
+  const H = global.ZZHash;
+
+  const ACCOUNTS = [
+    { id: 'admin',    name: '平台管理员 · 郑州救助管理站', role: 'admin',   addr: H.addressOf('admin'),    tag: '审核 / 流转 / 积分发放' },
+    { id: 'shelter1', name: '郑州市小动物保护协会',        role: 'shelter', addr: H.addressOf('shelter1'), tag: '救助站 · 惠济区' },
+    { id: 'shelter2', name: '二七区毛毛雨救助小院',        role: 'shelter', addr: H.addressOf('shelter2'), tag: '救助站 · 二七区' },
+    { id: 'user1',    name: '志愿者 · 小林',               role: 'user',    addr: H.addressOf('user1'),    tag: '金水区' },
+    { id: 'user2',    name: '市民 · 张先生',               role: 'user',    addr: H.addressOf('user2'),    tag: '中原区' }
+  ];
+
+  const KEY = 'zz.auth';
+
+  const Auth = {
+    accounts: ACCOUNTS,
+    current() {
+      const id = localStorage.getItem(KEY) || 'user1';
+      return ACCOUNTS.find((a) => a.id === id) || ACCOUNTS[3];
+    },
+    set(id) {
+      localStorage.setItem(KEY, id);
+      if (global.ZZNotify) global.ZZNotify.refreshBadge();
+    },
+    byAddr(addr) { return ACCOUNTS.find((a) => a.addr === addr) || null; },
+    nameOf(addr) {
+      const a = Auth.byAddr(addr);
+      return a ? a.name : (addr ? addr.slice(0, 8) + '…' : '—');
+    },
+    isAdmin() { return Auth.current().role === 'admin'; },
+    isShelter() { return Auth.current().role === 'shelter'; },
+    isUser() { return Auth.current().role === 'user'; },
+    canReview() { return ['admin', 'shelter'].indexOf(Auth.current().role) >= 0; }
+  };
+
+  global.ZZAuth = Auth;
+})(window);

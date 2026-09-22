@@ -1,1 +1,352 @@
-Ly8gU1BEWC1MaWNlbnNlLUlkZW50aWZpZXI6IE1JVApwcmFnbWEgc29saWRpdHkgXjAuOC4xMTsKCmludGVyZmFjZSBJQ2hhcml0eVBvaW50cyB7CiAgICBmdW5jdGlvbiBhd2FyZChhZGRyZXNzIHRvLCB1aW50MjU2IGFtb3VudCwgc3RyaW5nIGNhbGxkYXRhIHJlYXNvbikgZXh0ZXJuYWw7CiAgICBmdW5jdGlvbiBkZWR1Y3QoYWRkcmVzcyBmcm9tLCB1aW50MjU2IGFtb3VudCwgc3RyaW5nIGNhbGxkYXRhIHJlYXNvbikgZXh0ZXJuYWw7Cn0KCmludGVyZmFjZSBJUmVzY3VlTGVkZ2VyIHsKICAgIGZ1bmN0aW9uIG1hcmtBZG9wdGVkKHVpbnQyNTYgaWQsIGFkZHJlc3MgZ3VhcmRpYW4sIGJ5dGVzMzIgY29udHJhY3RIYXNoKSBleHRlcm5hbDsKICAgIGZ1bmN0aW9uIGdldEFuaW1hbCh1aW50MjU2IGlkKQogICAgICAgIGV4dGVybmFsCiAgICAgICAgdmlldwogICAgICAgIHJldHVybnMgKAogICAgICAgICAgICB1aW50MjU2IGFpZCwKICAgICAgICAgICAgYnl0ZXMzMiBkYXRhSGFzaCwKICAgICAgICAgICAgc3RyaW5nIG1lbW9yeSBtZXRhVVJJLAogICAgICAgICAgICBzdHJpbmcgbWVtb3J5IHNwZWNpZXMsCiAgICAgICAgICAgIHN0cmluZyBtZW1vcnkgdGl0bGUsCiAgICAgICAgICAgIGludDI1NiBsYXQxZTYsCiAgICAgICAgICAgIGludDI1NiBsbmcxZTYsCiAgICAgICAgICAgIHN0cmluZyBtZW1vcnkgYWRkcmVzc1RleHQsCiAgICAgICAgICAgIHVpbnQ4IHNldmVyaXR5LAogICAgICAgICAgICBib29sIHVyZ2VudCwKICAgICAgICAgICAgdWludDggc3RhdHVzLAogICAgICAgICAgICBhZGRyZXNzIHJlcG9ydGVyLAogICAgICAgICAgICBhZGRyZXNzIHNoZWx0ZXIsCiAgICAgICAgICAgIGFkZHJlc3MgZ3VhcmRpYW4sCiAgICAgICAgICAgIGJvb2wgcmV2aWV3ZWQsCiAgICAgICAgICAgIHVpbnQ2NCBjcmVhdGVkQXQsCiAgICAgICAgICAgIHVpbnQ2NCB1cGRhdGVkQXQsCiAgICAgICAgICAgIGJvb2wgZXhpc3RzCiAgICAgICAgKTsKICAgIGZ1bmN0aW9uIHVwZGF0ZVN0YXR1cyh1aW50MjU2IGlkLCB1aW50OCBuZXdTdGF0dXMsIGJ5dGVzMzIgZXZpZGVuY2VIYXNoLCBzdHJpbmcgY2FsbGRhdGEgbm90ZSkgZXh0ZXJuYWw7Cn0KCi8qKgogKiBAdGl0bGUgQWRvcHRpb25MZWRnZXIKICogQG5vdGljZSDpg5Hlt57mtYHmtarliqjnianmlZHliqnlr7zoiKogwrcg6aKG5YW75YWo5rWB56iL5LiK6ZO+5Y+w6LSmCiAqIEBkZXYg6aKG5YW755Sz6K+35o+Q5LqkIOKGkiDog4zmma/moLjpqowg4oaSIOeuoeeQhuWRmOWuoeaguO+8iOWQq+Wbnuiuv+iuoeWIki/pqbPlm57nkIbnlLHvvInihpIg6aKG5YW7562+57qmIOKGkgogKiAgICAgIOWbnuiuv+iusOW9le+8jOWFqOmDqOWGmeWFpemTvuS4iuOAguS7u+aEj+S4gOasoea1gei9rOmDveWPr+a6r+a6kO+8jOmYsuatouW8g+WFu+S4juS6jOasoea1gea1quOAggogKgogKiDpgILphY3vvJpGSVNDTyBCQ09TIDMueCAoc29saWRpdHkgMC44LjExKQogKi8KY29udHJhY3QgQWRvcHRpb25MZWRnZXIgewogICAgZW51bSBTdGFnZSB7CiAgICAgICAgQXBwbGllZCwgICAgLy8gMCDlt7Lmj5DkuqTnlLPor7cKICAgICAgICBTY3JlZW5pbmcsICAvLyAxIOiDjOaZr+aguOmqjOS4rQogICAgICAgIEFwcHJvdmVkLCAgIC8vIDIg5a6h5qC46YCa6L+H77yM5b6F562+57qmCiAgICAgICAgUmVqZWN0ZWQsICAgLy8gMyDlt7LpqbPlm54KICAgICAgICBTaWduZWQsICAgICAvLyA0IOW3suetvue6pu+8jOaJmOeuoeadg+enu+S6pAogICAgICAgIENvbXBsZXRlZCwgIC8vIDUg5Zue6K6/6L6+5qCH77yM6aKG5YW75a6M5oiQCiAgICAgICAgQ2FuY2VsbGVkICAgLy8gNiDlj5bmtoggLyDov53nuqYKICAgIH0KCiAgICBzdHJ1Y3QgQXBwbGljYXRpb24gewogICAgICAgIHVpbnQyNTYgaWQ7CiAgICAgICAgdWludDI1NiBhbmltYWxJZDsKICAgICAgICBhZGRyZXNzIGFwcGxpY2FudDsKICAgICAgICBieXRlczMyIGZvcm1IYXNoOyAgICAgICAvLyDnlLPor7fooajlhoXlrrnlk4jluIwKICAgICAgICBzdHJpbmcgIGZvcm1VUkk7ICAgICAgICAvLyDnlLPor7fooajmmI7nu4YKICAgICAgICBieXRlczMyIGJnQ2hlY2tIYXNoOyAgICAvLyDog4zmma/moLjpqozmnZDmlpnlk4jluIwKICAgICAgICBib29sICAgIGJnUGFzc2VkOwogICAgICAgIHN0cmluZyAgYmdOb3RlOwogICAgICAgIHVpbnQ4ICAgc3RhZ2U7CiAgICAgICAgYWRkcmVzcyByZXZpZXdlcjsKICAgICAgICBzdHJpbmcgIHJlamVjdFJlYXNvbjsKICAgICAgICBzdHJpbmcgIHZpc2l0UGxhbjsgICAgICAvLyDlm57orr/orqHliJLvvIjlpoIi6aaW5pyI5q+P5ZGoIDEg5qyh77yM5LmL5ZCO5q+P5pyIIDEg5qyh77yM5YWxIDYg5qyhIu+8iQogICAgICAgIGJ5dGVzMzIgY29udHJhY3RIYXNoOyAgIC8vIOmihuWFu+WNj+iuruWTiOW4jAogICAgICAgIGFkZHJlc3Mgc2hlbHRlcjsgICAgICAgIC8vIOWHuuWAn+aWue+8iOaVkeWKqeerme+8iQogICAgICAgIHVpbnQ2NCAgY3JlYXRlZEF0OwogICAgICAgIHVpbnQ2NCAgdXBkYXRlZEF0OwogICAgICAgIHVpbnQ2NCAgc2lnbmVkQXQ7CiAgICAgICAgdWludDY0ICBjb21wbGV0ZWRBdDsKICAgICAgICBib29sICAgIGV4aXN0czsKICAgIH0KCiAgICBzdHJ1Y3QgVmlzaXRSZWNvcmQgewogICAgICAgIHVpbnQyNTYgYXBwSWQ7CiAgICAgICAgYWRkcmVzcyByZWNvcmRlcjsKICAgICAgICBieXRlczMyIGV2aWRlbmNlSGFzaDsgICAvLyDlm57orr/nhafniYcv6K6w5b2V5ZOI5biMCiAgICAgICAgc3RyaW5nICBub3RlOwogICAgICAgIGJvb2wgICAgcGFzc2VkOwogICAgICAgIHVpbnQ4ICAgcm91bmQ7ICAgICAgICAgIC8vIOesrOWHoOasoeWbnuiuvwogICAgICAgIHVpbnQ2NCAgdHM7CiAgICB9CgogICAgYWRkcmVzcyBwdWJsaWMgb3duZXI7CiAgICB1aW50MjU2IHB1YmxpYyBhcHBDb3VudDsKCiAgICBtYXBwaW5nKGFkZHJlc3MgPT4gYm9vbCkgcHVibGljIGFkbWluczsKICAgIG1hcHBpbmcoYWRkcmVzcyA9PiBib29sKSBwdWJsaWMgc2hlbHRlcnM7CiAgICBtYXBwaW5nKHVpbnQyNTYgPT4gQXBwbGljYXRpb24pIHByaXZhdGUgYXBwczsKICAgIG1hcHBpbmcodWludDI1NiA9PiBWaXNpdFJlY29yZFtdKSBwcml2YXRlIHZpc2l0czsKICAgIG1hcHBpbmcoYWRkcmVzcyA9PiB1aW50MjU2W10pIHByaXZhdGUgYXBwc09mQXBwbGljYW50OwogICAgbWFwcGluZyh1aW50MjU2ID0+IHVpbnQyNTZbXSkgcHJpdmF0ZSBhcHBzT2ZBbmltYWw7CgogICAgSUNoYXJpdHlQb2ludHMgcHVibGljIHBvaW50czsKICAgIElSZXNjdWVMZWRnZXIgcHVibGljIGxlZGdlcjsKCiAgICB1aW50MjU2IHB1YmxpYyBjb25zdGFudCBQT0lOVF9WSVNJVCA9IDU7CiAgICB1aW50MjU2IHB1YmxpYyBjb25zdGFudCBQT0lOVF9DT01QTEVURSA9IDMwOwogICAgdWludDI1NiBwdWJsaWMgY29uc3RhbnQgUEVOQUxUWV9BQkFORE9OID0gMzA7CiAgICB1aW50MjU2IHB1YmxpYyBjb25zdGFudCBSRVFVSVJFRF9WSVNJVFMgPSAzOwoKICAgIGV2ZW50IEFwcGxpY2F0aW9uU3VibWl0dGVkKHVpbnQyNTYgaW5kZXhlZCBpZCwgdWludDI1NiBpbmRleGVkIGFuaW1hbElkLCBhZGRyZXNzIGluZGV4ZWQgYXBwbGljYW50LCBieXRlczMyIGZvcm1IYXNoLCB1aW50NjQgdHMpOwogICAgZXZlbnQgQmFja2dyb3VuZENoZWNrZWQodWludDI1NiBpbmRleGVkIGlkLCBhZGRyZXNzIGluZGV4ZWQgb3BlcmF0b3IsIGJvb2wgcGFzc2VkLCBieXRlczMyIGJnQ2hlY2tIYXNoLCBzdHJpbmcgbm90ZSwgdWludDY0IHRzKTsKICAgIGV2ZW50IEFwcGxpY2F0aW9uUmV2aWV3ZWQodWludDI1NiBpbmRleGVkIGlkLCBhZGRyZXNzIGluZGV4ZWQgcmV2aWV3ZXIsIGJvb2wgYXBwcm92ZWQsIHN0cmluZyByZWFzb24sIHN0cmluZyB2aXNpdFBsYW4sIHVpbnQ2NCB0cyk7CiAgICBldmVudCBBZG9wdGlvblNpZ25lZCh1aW50MjU2IGluZGV4ZWQgaWQsIHVpbnQyNTYgaW5kZXhlZCBhbmltYWxJZCwgYWRkcmVzcyBpbmRleGVkIGFwcGxpY2FudCwgYnl0ZXMzMiBjb250cmFjdEhhc2gsIHVpbnQ2NCB0cyk7CiAgICBldmVudCBWaXNpdFJlY29yZGVkKHVpbnQyNTYgaW5kZXhlZCBpZCwgYWRkcmVzcyBpbmRleGVkIHJlY29yZGVyLCB1aW50OCByb3VuZCwgYnl0ZXMzMiBldmlkZW5jZUhhc2gsIGJvb2wgcGFzc2VkLCB1aW50NjQgdHMpOwogICAgZXZlbnQgQWRvcHRpb25Db21wbGV0ZWQodWludDI1NiBpbmRleGVkIGlkLCBhZGRyZXNzIGluZGV4ZWQgYXBwbGljYW50LCB1aW50NjQgdHMpOwogICAgZXZlbnQgQWRvcHRpb25DYW5jZWxsZWQodWludDI1NiBpbmRleGVkIGlkLCBhZGRyZXNzIGluZGV4ZWQgYXBwbGljYW50LCBzdHJpbmcgcmVhc29uLCB1aW50NjQgdHMpOwogICAgZXZlbnQgQWJhbmRvbkZsYWdnZWQodWludDI1NiBpbmRleGVkIGlkLCBhZGRyZXNzIGluZGV4ZWQgYXBwbGljYW50LCBzdHJpbmcgcmVhc29uLCB1aW50NjQgdHMpOwoKICAgIG1vZGlmaWVyIG9ubHlPd25lcigpIHsKICAgICAgICByZXF1aXJlKG1zZy5zZW5kZXIgPT0gb3duZXIsICJBZG9wdGlvbjogbm90IG93bmVyIik7CiAgICAgICAgXzsKICAgIH0KCiAgICBtb2RpZmllciBvbmx5QWRtaW4oKSB7CiAgICAgICAgcmVxdWlyZShhZG1pbnNbbXNnLnNlbmRlcl0gfHwgbXNnLnNlbmRlciA9PSBvd25lciwgIkFkb3B0aW9uOiBub3QgYWRtaW4iKTsKICAgICAgICBfOwogICAgfQoKICAgIG1vZGlmaWVyIG9ubHlBZG1pbk9yU2hlbHRlcigpIHsKICAgICAgICByZXF1aXJlKGFkbWluc1ttc2cuc2VuZGVyXSB8fCBzaGVsdGVyc1ttc2cuc2VuZGVyXSB8fCBtc2cuc2VuZGVyID09IG93bmVyLCAiQWRvcHRpb246IG5vdCBwcml2aWxlZ2VkIik7CiAgICAgICAgXzsKICAgIH0KCiAgICBjb25zdHJ1Y3RvcigpIHsKICAgICAgICBvd25lciA9IG1zZy5zZW5kZXI7CiAgICAgICAgYWRtaW5zW21zZy5zZW5kZXJdID0gdHJ1ZTsKICAgIH0KCiAgICBmdW5jdGlvbiBzZXRBZG1pbihhZGRyZXNzIGFjY291bnQsIGJvb2wgZW5hYmxlZCkgZXh0ZXJuYWwgb25seU93bmVyIHsKICAgICAgICBhZG1pbnNbYWNjb3VudF0gPSBlbmFibGVkOwogICAgfQoKICAgIGZ1bmN0aW9uIHNldFNoZWx0ZXIoYWRkcmVzcyBhY2NvdW50LCBib29sIGVuYWJsZWQpIGV4dGVybmFsIG9ubHlPd25lciB7CiAgICAgICAgc2hlbHRlcnNbYWNjb3VudF0gPSBlbmFibGVkOwogICAgfQoKICAgIGZ1bmN0aW9uIHNldFBvaW50c0NvbnRyYWN0KGFkZHJlc3MgYWRkcikgZXh0ZXJuYWwgb25seU93bmVyIHsKICAgICAgICBwb2ludHMgPSBJQ2hhcml0eVBvaW50cyhhZGRyKTsKICAgIH0KCiAgICBmdW5jdGlvbiBzZXRSZXNjdWVMZWRnZXIoYWRkcmVzcyBhZGRyKSBleHRlcm5hbCBvbmx5T3duZXIgewogICAgICAgIGxlZGdlciA9IElSZXNjdWVMZWRnZXIoYWRkcik7CiAgICB9CgogICAgLy8gLS0tLS0tLS0tLS0tLS0tLSDpooblhbvmtYHnqIsgLS0tLS0tLS0tLS0tLS0tLQoKICAgIC8vLyBAbm90aWNlIOeUqOaIt+aPkOS6pOmihuWFu+eUs+ivt++8jGZvcm1IYXNoIOS4uueUs+ivt+ihqOWGheWuuSBTSEEtMjU2CiAgICBmdW5jdGlvbiBhcHBseUZvcih1aW50MjU2IGFuaW1hbElkLCBieXRlczMyIGZvcm1IYXNoLCBzdHJpbmcgY2FsbGRhdGEgZm9ybVVSSSkKICAgICAgICBleHRlcm5hbAogICAgICAgIHJldHVybnMgKHVpbnQyNTYgaWQpCiAgICB7CiAgICAgICAgcmVxdWlyZShmb3JtSGFzaCAhPSBieXRlczMyKDApLCAiQWRvcHRpb246IGVtcHR5IGZvcm0gaGFzaCIpOwogICAgICAgIGlkID0gKythcHBDb3VudDsKICAgICAgICBhcHBzW2lkXSA9IEFwcGxpY2F0aW9uKHsKICAgICAgICAgICAgaWQ6IGlkLAogICAgICAgICAgICBhbmltYWxJZDogYW5pbWFsSWQsCiAgICAgICAgICAgIGFwcGxpY2FudDogbXNnLnNlbmRlciwKICAgICAgICAgICAgZm9ybUhhc2g6IGZvcm1IYXNoLAogICAgICAgICAgICBmb3JtVVJJOiBmb3JtVVJJLAogICAgICAgICAgICBiZ0NoZWNrSGFzaDogYnl0ZXMzMigwKSwKICAgICAgICAgICAgYmdQYXNzZWQ6IGZhbHNlLAogICAgICAgICAgICBiZ05vdGU6ICIiLAogICAgICAgICAgICBzdGFnZTogdWludDgoU3RhZ2UuQXBwbGllZCksCiAgICAgICAgICAgIHJldmlld2VyOiBhZGRyZXNzKDApLAogICAgICAgICAgICByZWplY3RSZWFzb246ICIiLAogICAgICAgICAgICB2aXNpdFBsYW46ICIiLAogICAgICAgICAgICBjb250cmFjdEhhc2g6IGJ5dGVzMzIoMCksCiAgICAgICAgICAgIHNoZWx0ZXI6IGFkZHJlc3MoMCksCiAgICAgICAgICAgIGNyZWF0ZWRBdDogdWludDY0KGJsb2NrLnRpbWVzdGFtcCksCiAgICAgICAgICAgIHVwZGF0ZWRBdDogdWludDY0KGJsb2NrLnRpbWVzdGFtcCksCiAgICAgICAgICAgIHNpZ25lZEF0OiAwLAogICAgICAgICAgICBjb21wbGV0ZWRBdDogMCwKICAgICAgICAgICAgZXhpc3RzOiB0cnVlCiAgICAgICAgfSk7CiAgICAgICAgX3B1c2hVbmlxdWUoYXBwc09mQW5pbWFsW2FuaW1hbElkXSwgaWQpOwogICAgICAgIF9wdXNoVW5pcXVlKGFwcHNPZkFwcGxpY2FudFttc2cuc2VuZGVyXSwgaWQpOwogICAgICAgIGVtaXQgQXBwbGljYXRpb25TdWJtaXR0ZWQoaWQsIGFuaW1hbElkLCBtc2cuc2VuZGVyLCBmb3JtSGFzaCwgdWludDY0KGJsb2NrLnRpbWVzdGFtcCkpOwogICAgfQoKICAgIC8vLyBAbm90aWNlIOiDjOaZr+aguOmqjO+8iOWxheS9j+adoeS7tuOAgeWutuW6reaIkOWRmOaEj+ingeOAgeaXouW+gOmlsuWFu+iusOW9leetie+8iQogICAgZnVuY3Rpb24gYmFja2dyb3VuZENoZWNrKAogICAgICAgIHVpbnQyNTYgaWQsCiAgICAgICAgYnl0ZXMzMiBiZ0NoZWNrSGFzaCwKICAgICAgICBib29sIHBhc3NlZCwKICAgICAgICBzdHJpbmcgY2FsbGRhdGEgbm90ZQogICAgKSBleHRlcm5hbCBvbmx5QWRtaW4gewogICAgICAgIEFwcGxpY2F0aW9uIHN0b3JhZ2UgYSA9IGFwcHNbaWRdOwogICAgICAgIHJlcXVpcmUoYS5leGlzdHMsICJBZG9wdGlvbjogbm90IGV4aXN0Iik7CiAgICAgICAgcmVxdWlyZShhLnN0YWdlID09IHVpbnQ4KFN0YWdlLkFwcGxpZWQpIHx8IGEuc3RhZ2UgPT0gdWludDgoU3RhZ2UuU2NyZWVuaW5nKSwgIkFkb3B0aW9uOiBiYWQgc3RhZ2UiKTsKICAgICAgICBhLmJnQ2hlY2tIYXNoID0gYmdDaGVja0hhc2g7CiAgICAgICAgYS5iZ1Bhc3NlZCA9IHBhc3NlZDsKICAgICAgICBhLmJnTm90ZSA9IG5vdGU7CiAgICAgICAgYS5zdGFnZSA9IHVpbnQ4KFN0YWdlLlNjcmVlbmluZyk7CiAgICAgICAgYS51cGRhdGVkQXQgPSB1aW50NjQoYmxvY2sudGltZXN0YW1wKTsKICAgICAgICBlbWl0IEJhY2tncm91bmRDaGVja2VkKGlkLCBtc2cuc2VuZGVyLCBwYXNzZWQsIGJnQ2hlY2tIYXNoLCBub3RlLCB1aW50NjQoYmxvY2sudGltZXN0YW1wKSk7CiAgICB9CgogICAgLy8vIEBub3RpY2Ug566h55CG5ZGY5a6h5qC477ya6YCa6L+H6ZyA5YaZ5piO5Zue6K6/6K6h5YiS77yM6amz5Zue6ZyA5YaZ5piO6amz5Zue55CG55SxCiAgICBmdW5jdGlvbiByZXZpZXdBcHBsaWNhdGlvbigKICAgICAgICB1aW50MjU2IGlkLAogICAgICAgIGJvb2wgYXBwcm92ZWQsCiAgICAgICAgc3RyaW5nIGNhbGxkYXRhIHJlYXNvbiwKICAgICAgICBzdHJpbmcgY2FsbGRhdGEgdmlzaXRQbGFuCiAgICApIGV4dGVybmFsIG9ubHlBZG1pbiB7CiAgICAgICAgQXBwbGljYXRpb24gc3RvcmFnZSBhID0gYXBwc1tpZF07CiAgICAgICAgcmVxdWlyZShhLmV4aXN0cywgIkFkb3B0aW9uOiBub3QgZXhpc3QiKTsKICAgICAgICByZXF1aXJlKGEuc3RhZ2UgPT0gdWludDgoU3RhZ2UuQXBwbGllZCkgfHwgYS5zdGFnZSA9PSB1aW50OChTdGFnZS5TY3JlZW5pbmcpLCAiQWRvcHRpb246IGJhZCBzdGFnZSIpOwogICAgICAgIGEucmV2aWV3ZXIgPSBtc2cuc2VuZGVyOwogICAgICAgIGEudXBkYXRlZEF0ID0gdWludDY0KGJsb2NrLnRpbWVzdGFtcCk7CiAgICAgICAgaWYgKGFwcHJvdmVkKSB7CiAgICAgICAgICAgIGEuc3RhZ2UgPSB1aW50OChTdGFnZS5BcHByb3ZlZCk7CiAgICAgICAgICAgIGEudmlzaXRQbGFuID0gdmlzaXRQbGFuOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJlcXVpcmUoYnl0ZXMocmVhc29uKS5sZW5ndGggPiAwLCAiQWRvcHRpb246IHJlamVjdCByZWFzb24gcmVxdWlyZWQiKTsKICAgICAgICAgICAgYS5zdGFnZSA9IHVpbnQ4KFN0YWdlLlJlamVjdGVkKTsKICAgICAgICAgICAgYS5yZWplY3RSZWFzb24gPSByZWFzb247CiAgICAgICAgfQogICAgICAgIGVtaXQgQXBwbGljYXRpb25SZXZpZXdlZChpZCwgbXNnLnNlbmRlciwgYXBwcm92ZWQsIHJlYXNvbiwgdmlzaXRQbGFuLCB1aW50NjQoYmxvY2sudGltZXN0YW1wKSk7CiAgICB9CgogICAgLy8vIEBub3RpY2Ug6aKG5YW7562+57qm77ya5YaZ5YWl5Y2P6K6u5ZOI5biM5bm26Kem5Y+R5pWR5Yqp5Y+w6LSm55qE5omY566h5p2D6L2s56e7CiAgICBmdW5jdGlvbiBzaWduQ29udHJhY3QodWludDI1NiBpZCwgYnl0ZXMzMiBjb250cmFjdEhhc2gpIGV4dGVybmFsIG9ubHlBZG1pbk9yU2hlbHRlciB7CiAgICAgICAgQXBwbGljYXRpb24gc3RvcmFnZSBhID0gYXBwc1tpZF07CiAgICAgICAgcmVxdWlyZShhLmV4aXN0cywgIkFkb3B0aW9uOiBub3QgZXhpc3QiKTsKICAgICAgICByZXF1aXJlKGEuc3RhZ2UgPT0gdWludDgoU3RhZ2UuQXBwcm92ZWQpLCAiQWRvcHRpb246IG5vdCBhcHByb3ZlZCIpOwogICAgICAgIHJlcXVpcmUoY29udHJhY3RIYXNoICE9IGJ5dGVzMzIoMCksICJBZG9wdGlvbjogZW1wdHkgY29udHJhY3QgaGFzaCIpOwoKICAgICAgICBhLnN0YWdlID0gdWludDgoU3RhZ2UuU2lnbmVkKTsKICAgICAgICBhLmNvbnRyYWN0SGFzaCA9IGNvbnRyYWN0SGFzaDsKICAgICAgICBhLnNpZ25lZEF0ID0gdWludDY0KGJsb2NrLnRpbWVzdGFtcCk7CiAgICAgICAgYS51cGRhdGVkQXQgPSB1aW50NjQoYmxvY2sudGltZXN0YW1wKTsKICAgICAgICBhLnNoZWx0ZXIgPSBtc2cuc2VuZGVyOwoKICAgICAgICBpZiAoYWRkcmVzcyhsZWRnZXIpICE9IGFkZHJlc3MoMCkpIHsKICAgICAgICAgICAgbGVkZ2VyLm1hcmtBZG9wdGVkKGEuYW5pbWFsSWQsIGEuYXBwbGljYW50LCBjb250cmFjdEhhc2gpOwogICAgICAgIH0KICAgICAgICBlbWl0IEFkb3B0aW9uU2lnbmVkKGlkLCBhLmFuaW1hbElkLCBhLmFwcGxpY2FudCwgY29udHJhY3RIYXNoLCB1aW50NjQoYmxvY2sudGltZXN0YW1wKSk7CiAgICB9CgogICAgLy8vIEBub3RpY2Ug5Zue6K6/6K6w5b2V5LiK6ZO+77yI54Wn54mHL+iusOW9leWTiOW4jCArIOe7k+iuuu+8iQogICAgZnVuY3Rpb24gYWRkVmlzaXRSZWNvcmQoCiAgICAgICAgdWludDI1NiBpZCwKICAgICAgICBieXRlczMyIGV2aWRlbmNlSGFzaCwKICAgICAgICBzdHJpbmcgY2FsbGRhdGEgbm90ZSwKICAgICAgICBib29sIHBhc3NlZAogICAgKSBleHRlcm5hbCBvbmx5QWRtaW5PclNoZWx0ZXIgewogICAgICAgIEFwcGxpY2F0aW9uIHN0b3JhZ2UgYSA9IGFwcHNbaWRdOwogICAgICAgIHJlcXVpcmUoYS5leGlzdHMsICJBZG9wdGlvbjogbm90IGV4aXN0Iik7CiAgICAgICAgcmVxdWlyZShhLnN0YWdlID09IHVpbnQ4KFN0YWdlLlNpZ25lZCksICJBZG9wdGlvbjogbm90IHNpZ25lZCIpOwogICAgICAgIHVpbnQ4IHJvdW5kID0gdWludDgodmlzaXRzW2lkXS5sZW5ndGggKyAxKTsKICAgICAgICB2aXNpdHNbaWRdLnB1c2goVmlzaXRSZWNvcmQoewogICAgICAgICAgICBhcHBJZDogaWQsCiAgICAgICAgICAgIHJlY29yZGVyOiBtc2cuc2VuZGVyLAogICAgICAgICAgICBldmlkZW5jZUhhc2g6IGV2aWRlbmNlSGFzaCwKICAgICAgICAgICAgbm90ZTogbm90ZSwKICAgICAgICAgICAgcGFzc2VkOiBwYXNzZWQsCiAgICAgICAgICAgIHJvdW5kOiByb3VuZCwKICAgICAgICAgICAgdHM6IHVpbnQ2NChibG9jay50aW1lc3RhbXApCiAgICAgICAgfSkpOwogICAgICAgIGEudXBkYXRlZEF0ID0gdWludDY0KGJsb2NrLnRpbWVzdGFtcCk7CiAgICAgICAgaWYgKHBhc3NlZCAmJiBhZGRyZXNzKHBvaW50cykgIT0gYWRkcmVzcygwKSkgewogICAgICAgICAgICBwb2ludHMuYXdhcmQoYS5hcHBsaWNhbnQsIFBPSU5UX1ZJU0lULCAiVklTSVRfUEFTU0VEIik7CiAgICAgICAgfQogICAgICAgIGVtaXQgVmlzaXRSZWNvcmRlZChpZCwgbXNnLnNlbmRlciwgcm91bmQsIGV2aWRlbmNlSGFzaCwgcGFzc2VkLCB1aW50NjQoYmxvY2sudGltZXN0YW1wKSk7CiAgICB9CgogICAgLy8vIEBub3RpY2Ug5Zue6K6/6L6+5qCH5ZCO5a6M5oiQ6aKG5YW7CiAgICBmdW5jdGlvbiBjb21wbGV0ZUFkb3B0aW9uKHVpbnQyNTYgaWQpIGV4dGVybmFsIG9ubHlBZG1pbiB7CiAgICAgICAgQXBwbGljYXRpb24gc3RvcmFnZSBhID0gYXBwc1tpZF07CiAgICAgICAgcmVxdWlyZShhLmV4aXN0cywgIkFkb3B0aW9uOiBub3QgZXhpc3QiKTsKICAgICAgICByZXF1aXJlKGEuc3RhZ2UgPT0gdWludDgoU3RhZ2UuU2lnbmVkKSwgIkFkb3B0aW9uOiBub3Qgc2lnbmVkIik7CiAgICAgICAgcmVxdWlyZSh2aXNpdHNbaWRdLmxlbmd0aCA+PSBSRVFVSVJFRF9WSVNJVFMsICJBZG9wdGlvbjogdmlzaXRzIG5vdCBlbm91Z2giKTsKICAgICAgICBhLnN0YWdlID0gdWludDgoU3RhZ2UuQ29tcGxldGVkKTsKICAgICAgICBhLmNvbXBsZXRlZEF0ID0gdWludDY0KGJsb2NrLnRpbWVzdGFtcCk7CiAgICAgICAgYS51cGRhdGVkQXQgPSB1aW50NjQoYmxvY2sudGltZXN0YW1wKTsKICAgICAgICBpZiAoYWRkcmVzcyhwb2ludHMpICE9IGFkZHJlc3MoMCkpIHsKICAgICAgICAgICAgcG9pbnRzLmF3YXJkKGEuYXBwbGljYW50LCBQT0lOVF9DT01QTEVURSwgIkFET1BUSU9OX0NPTVBMRVRFRCIpOwogICAgICAgIH0KICAgICAgICBlbWl0IEFkb3B0aW9uQ29tcGxldGVkKGlkLCBhLmFwcGxpY2FudCwgdWludDY0KGJsb2NrLnRpbWVzdGFtcCkpOwogICAgfQoKICAgIC8vLyBAbm90aWNlIOWPlua2iOeUs+ivtyAvIOagh+iusOi/nee6puW8g+WFu++8iOW8g+WFu+aJo+enr+WIhuW5tuWKqOeJqemHjeaWsOi/m+WFpeW+hemihuWFu++8iQogICAgZnVuY3Rpb24gY2FuY2VsT3JGbGFnKHVpbnQyNTYgaWQsIGJvb2wgaXNBYmFuZG9uLCBzdHJpbmcgY2FsbGRhdGEgcmVhc29uKSBleHRlcm5hbCBvbmx5QWRtaW4gewogICAgICAgIEFwcGxpY2F0aW9uIHN0b3JhZ2UgYSA9IGFwcHNbaWRdOwogICAgICAgIHJlcXVpcmUoYS5leGlzdHMsICJBZG9wdGlvbjogbm90IGV4aXN0Iik7CiAgICAgICAgLy8g5LuF44CM5bey562+57qm44CN5oiW44CM5bey5a6M5oiQ44CN55qE6aKG5YW75Y+v5qCH6K6w6L+d57qm77yb5YW25L2Z6Zi25q615LiN6YCC55SoCiAgICAgICAgcmVxdWlyZSgKICAgICAgICAgICAgYS5zdGFnZSA9PSB1aW50OChTdGFnZS5TaWduZWQpIHx8IGEuc3RhZ2UgPT0gdWludDgoU3RhZ2UuQ29tcGxldGVkKSwKICAgICAgICAgICAgIkFkb3B0aW9uOiBub3QgYWN0aXZlIgogICAgICAgICk7CiAgICAgICAgYS5zdGFnZSA9IHVpbnQ4KFN0YWdlLkNhbmNlbGxlZCk7CiAgICAgICAgYS5yZWplY3RSZWFzb24gPSByZWFzb247CiAgICAgICAgYS51cGRhdGVkQXQgPSB1aW50NjQoYmxvY2sudGltZXN0YW1wKTsKICAgICAgICBpZiAoaXNBYmFuZG9uKSB7CiAgICAgICAgICAgIGlmIChhZGRyZXNzKHBvaW50cykgIT0gYWRkcmVzcygwKSkgewogICAgICAgICAgICAgICAgcG9pbnRzLmRlZHVjdChhLmFwcGxpY2FudCwgUEVOQUxUWV9BQkFORE9OLCAiQUJBTkRPTl9QRU5BTFRZIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKGFkZHJlc3MobGVkZ2VyKSAhPSBhZGRyZXNzKDApKSB7CiAgICAgICAgICAgICAgICBsZWRnZXIudXBkYXRlU3RhdHVzKGEuYW5pbWFsSWQsIDQsIGtlY2NhazI1NihhYmkuZW5jb2RlUGFja2VkKGlkLCByZWFzb24pKSwgIkFCQU5ET05fUkVDT1ZFUl9UT19BRE9QVEFCTEUiKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBlbWl0IEFiYW5kb25GbGFnZ2VkKGlkLCBhLmFwcGxpY2FudCwgcmVhc29uLCB1aW50NjQoYmxvY2sudGltZXN0YW1wKSk7CiAgICAgICAgfQogICAgICAgIGVtaXQgQWRvcHRpb25DYW5jZWxsZWQoaWQsIGEuYXBwbGljYW50LCByZWFzb24sIHVpbnQ2NChibG9jay50aW1lc3RhbXApKTsKICAgIH0KCiAgICAvLyAtLS0tLS0tLS0tLS0tLS0tIOafpeivoiAtLS0tLS0tLS0tLS0tLS0tCgogICAgZnVuY3Rpb24gZ2V0QXBwbGljYXRpb24odWludDI1NiBpZCkgZXh0ZXJuYWwgdmlldyByZXR1cm5zIChBcHBsaWNhdGlvbiBtZW1vcnkpIHsKICAgICAgICByZXR1cm4gYXBwc1tpZF07CiAgICB9CgogICAgZnVuY3Rpb24gZ2V0VmlzaXRzKHVpbnQyNTYgaWQpIGV4dGVybmFsIHZpZXcgcmV0dXJucyAoVmlzaXRSZWNvcmRbXSBtZW1vcnkpIHsKICAgICAgICByZXR1cm4gdmlzaXRzW2lkXTsKICAgIH0KCiAgICBmdW5jdGlvbiB2aXNpdENvdW50KHVpbnQyNTYgaWQpIGV4dGVybmFsIHZpZXcgcmV0dXJucyAodWludDI1NikgewogICAgICAgIHJldHVybiB2aXNpdHNbaWRdLmxlbmd0aDsKICAgIH0KCiAgICBmdW5jdGlvbiBhcHBsaWNhdGlvbnNPZkFuaW1hbCh1aW50MjU2IGFuaW1hbElkKSBleHRlcm5hbCB2aWV3IHJldHVybnMgKHVpbnQyNTZbXSBtZW1vcnkpIHsKICAgICAgICByZXR1cm4gYXBwc09mQW5pbWFsW2FuaW1hbElkXTsKICAgIH0KCiAgICBmdW5jdGlvbiBhcHBsaWNhdGlvbnNPZkFwcGxpY2FudChhZGRyZXNzIGFwcGxpY2FudCkgZXh0ZXJuYWwgdmlldyByZXR1cm5zICh1aW50MjU2W10gbWVtb3J5KSB7CiAgICAgICAgcmV0dXJuIGFwcHNPZkFwcGxpY2FudFthcHBsaWNhbnRdOwogICAgfQoKICAgIGZ1bmN0aW9uIGdldEFwcGxpY2F0aW9ucyh1aW50MjU2IG9mZnNldCwgdWludDI1NiBsaW1pdCkgZXh0ZXJuYWwgdmlldyByZXR1cm5zIChBcHBsaWNhdGlvbltdIG1lbW9yeSBsaXN0KSB7CiAgICAgICAgaWYgKG9mZnNldCA+PSBhcHBDb3VudCB8fCBsaW1pdCA9PSAwKSByZXR1cm4gbmV3IEFwcGxpY2F0aW9uW10oMCk7CiAgICAgICAgdWludDI1NiBlbmQgPSBvZmZzZXQgKyBsaW1pdDsKICAgICAgICBpZiAoZW5kID4gYXBwQ291bnQpIGVuZCA9IGFwcENvdW50OwogICAgICAgIGxpc3QgPSBuZXcgQXBwbGljYXRpb25bXShlbmQgLSBvZmZzZXQpOwogICAgICAgIGZvciAodWludDI1NiBpID0gb2Zmc2V0OyBpIDwgZW5kOyBpKyspIHsKICAgICAgICAgICAgbGlzdFtpIC0gb2Zmc2V0XSA9IGFwcHNbaSArIDFdOwogICAgICAgIH0KICAgIH0KCiAgICAvLyAtLS0tLS0tLS0tLS0tLS0tIOWGhemDqCAtLS0tLS0tLS0tLS0tLS0tCgogICAgZnVuY3Rpb24gX3B1c2hVbmlxdWUodWludDI1NltdIHN0b3JhZ2UgYXJyLCB1aW50MjU2IHYpIGludGVybmFsIHsKICAgICAgICBmb3IgKHVpbnQyNTYgaSA9IDA7IGkgPCBhcnIubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgaWYgKGFycltpXSA9PSB2KSByZXR1cm47CiAgICAgICAgfQogICAgICAgIGFyci5wdXNoKHYpOwogICAgfQp9Cg==
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.11;
+
+interface ICharityPoints {
+    function award(address to, uint256 amount, string calldata reason) external;
+    function deduct(address from, uint256 amount, string calldata reason) external;
+}
+
+interface IRescueLedger {
+    function markAdopted(uint256 id, address guardian, bytes32 contractHash) external;
+    function getAnimal(uint256 id)
+        external
+        view
+        returns (
+            uint256 aid,
+            bytes32 dataHash,
+            string memory metaURI,
+            string memory species,
+            string memory title,
+            int256 lat1e6,
+            int256 lng1e6,
+            string memory addressText,
+            uint8 severity,
+            bool urgent,
+            uint8 status,
+            address reporter,
+            address shelter,
+            address guardian,
+            bool reviewed,
+            uint64 createdAt,
+            uint64 updatedAt,
+            bool exists
+        );
+    function updateStatus(uint256 id, uint8 newStatus, bytes32 evidenceHash, string calldata note) external;
+}
+
+/**
+ * @title AdoptionLedger
+ * @notice 郑州流浪动物救助导航 · 领养全流程上链台账
+ * @dev 领养申请提交 → 背景核验 → 管理员审核（含回访计划/驳回理由）→ 领养签约 →
+ *      回访记录，全部写入链上。任意一次流转都可溯源，防止弃养与二次流浪。
+ *
+ * 适配：FISCO BCOS 3.x (solidity 0.8.11)
+ */
+contract AdoptionLedger {
+    enum Stage {
+        Applied,    // 0 已提交申请
+        Screening,  // 1 背景核验中
+        Approved,   // 2 审核通过，待签约
+        Rejected,   // 3 已驳回
+        Signed,     // 4 已签约，托管权移交
+        Completed,  // 5 回访达标，领养完成
+        Cancelled   // 6 取消 / 违约
+    }
+
+    struct Application {
+        uint256 id;
+        uint256 animalId;
+        address applicant;
+        bytes32 formHash;       // 申请表内容哈希
+        string  formURI;        // 申请表明细
+        bytes32 bgCheckHash;    // 背景核验材料哈希
+        bool    bgPassed;
+        string  bgNote;
+        uint8   stage;
+        address reviewer;
+        string  rejectReason;
+        string  visitPlan;      // 回访计划（如"首月每周 1 次，之后每月 1 次，共 6 次"）
+        bytes32 contractHash;   // 领养协议哈希
+        address shelter;        // 出借方（救助站）
+        uint64  createdAt;
+        uint64  updatedAt;
+        uint64  signedAt;
+        uint64  completedAt;
+        bool    exists;
+    }
+
+    struct VisitRecord {
+        uint256 appId;
+        address recorder;
+        bytes32 evidenceHash;   // 回访照片/记录哈希
+        string  note;
+        bool    passed;
+        uint8   round;          // 第几次回访
+        uint64  ts;
+    }
+
+    address public owner;
+    uint256 public appCount;
+
+    mapping(address => bool) public admins;
+    mapping(address => bool) public shelters;
+    mapping(uint256 => Application) private apps;
+    mapping(uint256 => VisitRecord[]) private visits;
+    mapping(address => uint256[]) private appsOfApplicant;
+    mapping(uint256 => uint256[]) private appsOfAnimal;
+
+    ICharityPoints public points;
+    IRescueLedger public ledger;
+
+    uint256 public constant POINT_VISIT = 5;
+    uint256 public constant POINT_COMPLETE = 30;
+    uint256 public constant PENALTY_ABANDON = 30;
+    uint256 public constant REQUIRED_VISITS = 3;
+
+    event ApplicationSubmitted(uint256 indexed id, uint256 indexed animalId, address indexed applicant, bytes32 formHash, uint64 ts);
+    event BackgroundChecked(uint256 indexed id, address indexed operator, bool passed, bytes32 bgCheckHash, string note, uint64 ts);
+    event ApplicationReviewed(uint256 indexed id, address indexed reviewer, bool approved, string reason, string visitPlan, uint64 ts);
+    event AdoptionSigned(uint256 indexed id, uint256 indexed animalId, address indexed applicant, bytes32 contractHash, uint64 ts);
+    event VisitRecorded(uint256 indexed id, address indexed recorder, uint8 round, bytes32 evidenceHash, bool passed, uint64 ts);
+    event AdoptionCompleted(uint256 indexed id, address indexed applicant, uint64 ts);
+    event AdoptionCancelled(uint256 indexed id, address indexed applicant, string reason, uint64 ts);
+    event AbandonFlagged(uint256 indexed id, address indexed applicant, string reason, uint64 ts);
+
+    modifier onlyOwner() {
+        require(msg.sender == owner, "Adoption: not owner");
+        _;
+    }
+
+    modifier onlyAdmin() {
+        require(admins[msg.sender] || msg.sender == owner, "Adoption: not admin");
+        _;
+    }
+
+    modifier onlyAdminOrShelter() {
+        require(admins[msg.sender] || shelters[msg.sender] || msg.sender == owner, "Adoption: not privileged");
+        _;
+    }
+
+    constructor() {
+        owner = msg.sender;
+        admins[msg.sender] = true;
+    }
+
+    function setAdmin(address account, bool enabled) external onlyOwner {
+        admins[account] = enabled;
+    }
+
+    function setShelter(address account, bool enabled) external onlyOwner {
+        shelters[account] = enabled;
+    }
+
+    function setPointsContract(address addr) external onlyOwner {
+        points = ICharityPoints(addr);
+    }
+
+    function setRescueLedger(address addr) external onlyOwner {
+        ledger = IRescueLedger(addr);
+    }
+
+    // ---------------- 领养流程 ----------------
+
+    /// @notice 用户提交领养申请，formHash 为申请表内容 SHA-256
+    function applyFor(uint256 animalId, bytes32 formHash, string calldata formURI)
+        external
+        returns (uint256 id)
+    {
+        require(formHash != bytes32(0), "Adoption: empty form hash");
+        id = ++appCount;
+        apps[id] = Application({
+            id: id,
+            animalId: animalId,
+            applicant: msg.sender,
+            formHash: formHash,
+            formURI: formURI,
+            bgCheckHash: bytes32(0),
+            bgPassed: false,
+            bgNote: "",
+            stage: uint8(Stage.Applied),
+            reviewer: address(0),
+            rejectReason: "",
+            visitPlan: "",
+            contractHash: bytes32(0),
+            shelter: address(0),
+            createdAt: uint64(block.timestamp),
+            updatedAt: uint64(block.timestamp),
+            signedAt: 0,
+            completedAt: 0,
+            exists: true
+        });
+        _pushUnique(appsOfAnimal[animalId], id);
+        _pushUnique(appsOfApplicant[msg.sender], id);
+        emit ApplicationSubmitted(id, animalId, msg.sender, formHash, uint64(block.timestamp));
+    }
+
+    /// @notice 背景核验（居住条件、家庭成员意见、既往饲养记录等）
+    function backgroundCheck(
+        uint256 id,
+        bytes32 bgCheckHash,
+        bool passed,
+        string calldata note
+    ) external onlyAdmin {
+        Application storage a = apps[id];
+        require(a.exists, "Adoption: not exist");
+        require(a.stage == uint8(Stage.Applied) || a.stage == uint8(Stage.Screening), "Adoption: bad stage");
+        a.bgCheckHash = bgCheckHash;
+        a.bgPassed = passed;
+        a.bgNote = note;
+        a.stage = uint8(Stage.Screening);
+        a.updatedAt = uint64(block.timestamp);
+        emit BackgroundChecked(id, msg.sender, passed, bgCheckHash, note, uint64(block.timestamp));
+    }
+
+    /// @notice 管理员审核：通过需写明回访计划，驳回需写明驳回理由
+    function reviewApplication(
+        uint256 id,
+        bool approved,
+        string calldata reason,
+        string calldata visitPlan
+    ) external onlyAdmin {
+        Application storage a = apps[id];
+        require(a.exists, "Adoption: not exist");
+        require(a.stage == uint8(Stage.Applied) || a.stage == uint8(Stage.Screening), "Adoption: bad stage");
+        a.reviewer = msg.sender;
+        a.updatedAt = uint64(block.timestamp);
+        if (approved) {
+            a.stage = uint8(Stage.Approved);
+            a.visitPlan = visitPlan;
+        } else {
+            require(bytes(reason).length > 0, "Adoption: reject reason required");
+            a.stage = uint8(Stage.Rejected);
+            a.rejectReason = reason;
+        }
+        emit ApplicationReviewed(id, msg.sender, approved, reason, visitPlan, uint64(block.timestamp));
+    }
+
+    /// @notice 领养签约：写入协议哈希并触发救助台账的托管权转移
+    function signContract(uint256 id, bytes32 contractHash) external onlyAdminOrShelter {
+        Application storage a = apps[id];
+        require(a.exists, "Adoption: not exist");
+        require(a.stage == uint8(Stage.Approved), "Adoption: not approved");
+        require(contractHash != bytes32(0), "Adoption: empty contract hash");
+
+        a.stage = uint8(Stage.Signed);
+        a.contractHash = contractHash;
+        a.signedAt = uint64(block.timestamp);
+        a.updatedAt = uint64(block.timestamp);
+        a.shelter = msg.sender;
+
+        if (address(ledger) != address(0)) {
+            ledger.markAdopted(a.animalId, a.applicant, contractHash);
+        }
+        emit AdoptionSigned(id, a.animalId, a.applicant, contractHash, uint64(block.timestamp));
+    }
+
+    /// @notice 回访记录上链（照片/记录哈希 + 结论）
+    function addVisitRecord(
+        uint256 id,
+        bytes32 evidenceHash,
+        string calldata note,
+        bool passed
+    ) external onlyAdminOrShelter {
+        Application storage a = apps[id];
+        require(a.exists, "Adoption: not exist");
+        require(a.stage == uint8(Stage.Signed), "Adoption: not signed");
+        uint8 round = uint8(visits[id].length + 1);
+        visits[id].push(VisitRecord({
+            appId: id,
+            recorder: msg.sender,
+            evidenceHash: evidenceHash,
+            note: note,
+            passed: passed,
+            round: round,
+            ts: uint64(block.timestamp)
+        }));
+        a.updatedAt = uint64(block.timestamp);
+        if (passed && address(points) != address(0)) {
+            points.award(a.applicant, POINT_VISIT, "VISIT_PASSED");
+        }
+        emit VisitRecorded(id, msg.sender, round, evidenceHash, passed, uint64(block.timestamp));
+    }
+
+    /// @notice 回访达标后完成领养
+    function completeAdoption(uint256 id) external onlyAdmin {
+        Application storage a = apps[id];
+        require(a.exists, "Adoption: not exist");
+        require(a.stage == uint8(Stage.Signed), "Adoption: not signed");
+        require(visits[id].length >= REQUIRED_VISITS, "Adoption: visits not enough");
+        a.stage = uint8(Stage.Completed);
+        a.completedAt = uint64(block.timestamp);
+        a.updatedAt = uint64(block.timestamp);
+        if (address(points) != address(0)) {
+            points.award(a.applicant, POINT_COMPLETE, "ADOPTION_COMPLETED");
+        }
+        emit AdoptionCompleted(id, a.applicant, uint64(block.timestamp));
+    }
+
+    /// @notice 取消申请 / 标记违约弃养（弃养扣积分并动物重新进入待领养）
+    function cancelOrFlag(uint256 id, bool isAbandon, string calldata reason) external onlyAdmin {
+        Application storage a = apps[id];
+        require(a.exists, "Adoption: not exist");
+        // 仅「已签约」或「已完成」的领养可标记违约；其余阶段不适用
+        require(
+            a.stage == uint8(Stage.Signed) || a.stage == uint8(Stage.Completed),
+            "Adoption: not active"
+        );
+        a.stage = uint8(Stage.Cancelled);
+        a.rejectReason = reason;
+        a.updatedAt = uint64(block.timestamp);
+        if (isAbandon) {
+            if (address(points) != address(0)) {
+                points.deduct(a.applicant, PENALTY_ABANDON, "ABANDON_PENALTY");
+            }
+            if (address(ledger) != address(0)) {
+                ledger.updateStatus(a.animalId, 4, keccak256(abi.encodePacked(id, reason)), "ABANDON_RECOVER_TO_ADOPTABLE");
+            }
+            emit AbandonFlagged(id, a.applicant, reason, uint64(block.timestamp));
+        }
+        emit AdoptionCancelled(id, a.applicant, reason, uint64(block.timestamp));
+    }
+
+    // ---------------- 查询 ----------------
+
+    function getApplication(uint256 id) external view returns (Application memory) {
+        return apps[id];
+    }
+
+    function getVisits(uint256 id) external view returns (VisitRecord[] memory) {
+        return visits[id];
+    }
+
+    function visitCount(uint256 id) external view returns (uint256) {
+        return visits[id].length;
+    }
+
+    function applicationsOfAnimal(uint256 animalId) external view returns (uint256[] memory) {
+        return appsOfAnimal[animalId];
+    }
+
+    function applicationsOfApplicant(address applicant) external view returns (uint256[] memory) {
+        return appsOfApplicant[applicant];
+    }
+
+    function getApplications(uint256 offset, uint256 limit) external view returns (Application[] memory list) {
+        if (offset >= appCount || limit == 0) return new Application[](0);
+        uint256 end = offset + limit;
+        if (end > appCount) end = appCount;
+        list = new Application[](end - offset);
+        for (uint256 i = offset; i < end; i++) {
+            list[i - offset] = apps[i + 1];
+        }
+    }
+
+    // ---------------- 内部 ----------------
+
+    function _pushUnique(uint256[] storage arr, uint256 v) internal {
+        for (uint256 i = 0; i < arr.length; i++) {
+            if (arr[i] == v) return;
+        }
+        arr.push(v);
+    }
+}

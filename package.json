@@ -1,1 +1,16 @@
-ewogICJuYW1lIjogInpoZW5nemhvdS1zdHJheS1hbmltYWwtcmVzY3VlLWNoYWluIiwKICAidmVyc2lvbiI6ICIxLjAuMCIsCiAgInByaXZhdGUiOiB0cnVlLAogICJkZXNjcmlwdGlvbiI6ICLln7rkuo7ljLrlnZfpk77nmoTpg5Hlt57mnKzlnLDmtYHmtarliqjnianmlZHliqnlr7zoiKogREFwcO+8iEZJU0NPIEJDT1MgKyBTb2xpZGl0eSArIOmrmOW+t+WcsOWbviBKUyBBUEnvvIkiLAogICJzY3JpcHRzIjogewogICAgImNvbXBpbGUiOiAibm9kZSBzY3JpcHRzL2NvbXBpbGUuanMiLAogICAgInRlc3QiOiAibm9kZSBzY3JpcHRzL3Ntb2tlLXRlc3QuanMiLAogICAgImRlcGxveTpjaGFpbiI6ICJub2RlIHNjcmlwdHMvZGVwbG95LWNoYWluLmpzIiwKICAgICJyZWxheWVyIjogImNkIHNjcmlwdHMvcmVsYXllciAmJiBub2RlIHNlcnZlci5qcyIsCiAgICAiZGV2IjogIm5weCAtLXllcyBzZXJ2ZSAuIC1sIDUxNzMiCiAgfSwKICAiZGV2RGVwZW5kZW5jaWVzIjogewogICAgInNvbGMiOiAiMC44LjExIgogIH0KfQo=
+{
+  "name": "zhengzhou-stray-animal-rescue-chain",
+  "version": "1.0.0",
+  "private": true,
+  "description": "基于区块链的郑州本地流浪动物救助导航 DApp（FISCO BCOS + Solidity + 高德地图 JS API）",
+  "scripts": {
+    "compile": "node scripts/compile.js",
+    "test": "node scripts/smoke-test.js",
+    "deploy:chain": "node scripts/deploy-chain.js",
+    "relayer": "cd scripts/relayer && node server.js",
+    "dev": "npx --yes serve . -l 5173"
+  },
+  "devDependencies": {
+    "solc": "0.8.11"
+  }
+}

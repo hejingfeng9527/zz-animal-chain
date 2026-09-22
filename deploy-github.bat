@@ -1,1 +1,42 @@
-QGVjaG8gb2ZmCmNoY3AgNjUwMDEgPm51bCAyPiYxCnNldGxvY2FsCgpSRU0gIHp6LWFuaW1hbC1jaGFpbiAgb25lLWNsaWNrIEdpdEh1YiBQYWdlcyBkZXBsb3kKUkVNICBEb3VibGUtY2xpY2sgdGhpcyBmaWxlLCB0aGVuIGVudGVyIHlvdXIgR2l0SHViIHVzZXJuYW1lIGFuZCB0b2tlbi4KCnB1c2hkICIlfmRwMCIKCnNldCAiQkFTSF9FWEU9Igpmb3IgJSVQIGluICgKICAiJVByb2dyYW1GaWxlcyVcR2l0XGJpblxiYXNoLmV4ZSIKICAiJVByb2dyYW1GaWxlcyh4ODYpJVxHaXRcYmluXGJhc2guZXhlIgogICIlTG9jYWxQcm9ncmFtcyVcR2l0XGJpblxiYXNoLmV4ZSIKICAiJVByb2dyYW1GaWxlcyVcR2l0XHVzclxiaW5cYmFzaC5leGUiCikgZG8gKAogIGlmIG5vdCBkZWZpbmVkIEJBU0hfRVhFIGlmIGV4aXN0ICUlUCBzZXQgIkJBU0hfRVhFPSUlflAiCikKCmlmIG5vdCBkZWZpbmVkIEJBU0hfRVhFICgKICB3aGVyZSBiYXNoID5udWwgMj4mMQogIGlmICVlcnJvcmxldmVsJT09MCBzZXQgIkJBU0hfRVhFPWJhc2giCikKCmlmIG5vdCBkZWZpbmVkIEJBU0hfRVhFICgKICBlY2hvLgogIGVjaG8gW0VSUk9SXSBHaXQgQmFzaCBub3QgZm91bmQuCiAgZWNobyBQbGVhc2UgaW5zdGFsbCBHaXQgZm9yIFdpbmRvd3M6IGh0dHBzOi8vZ2l0LXNjbS5jb20vZG93bmxvYWQvd2luCiAgZWNobyBPciBydW4gdGhpcyBjb21tYW5kIG1hbnVhbGx5IGluc2lkZSBHaXQgQmFzaDoKICBlY2hvICAgICBiYXNoICIlfmRwMGRlcGxveS1naXRodWIuc2giCiAgZWNoby4KICBwYXVzZQogIHBvcGQKICBleGl0IC9iIDEKKQoKIiVCQVNIX0VYRSUiICIlfmRwMGRlcGxveS1naXRodWIuc2giICUqCgplY2hvLgpwYXVzZQpwb3BkCmVuZGxvY2FsCg==
+@echo off
+chcp 65001 >nul 2>&1
+setlocal
+
+REM  zz-animal-chain  one-click GitHub Pages deploy
+REM  Double-click this file, then enter your GitHub username and token.
+
+pushd "%~dp0"
+
+set "BASH_EXE="
+for %%P in (
+  "%ProgramFiles%\Git\bin\bash.exe"
+  "%ProgramFiles(x86)%\Git\bin\bash.exe"
+  "%LocalPrograms%\Git\bin\bash.exe"
+  "%ProgramFiles%\Git\usr\bin\bash.exe"
+) do (
+  if not defined BASH_EXE if exist %%P set "BASH_EXE=%%~P"
+)
+
+if not defined BASH_EXE (
+  where bash >nul 2>&1
+  if %errorlevel%==0 set "BASH_EXE=bash"
+)
+
+if not defined BASH_EXE (
+  echo.
+  echo [ERROR] Git Bash not found.
+  echo Please install Git for Windows: https://git-scm.com/download/win
+  echo Or run this command manually inside Git Bash:
+  echo     bash "%~dp0deploy-github.sh"
+  echo.
+  pause
+  popd
+  exit /b 1
+)
+
+"%BASH_EXE%" "%~dp0deploy-github.sh" %*
+
+echo.
+pause
+popd
+endlocal

@@ -1,1 +1,176 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyAg6YOR5bee5rWB5rWq5Yqo54mp5pWR5Yqp6ZO+5LiK5a+86IiqIERBcHAgIOKAlOKAlCAg5LiA6ZSu6YOo572y5YiwIEdpdEh1YiBQYWdlcwojCiMgIOeUqOazle+8iOWcqOacrOebruW9leaJk+W8gCBHaXQgQmFzaO+8ie+8mgojICAgICAgYmFzaCBkZXBsb3ktZ2l0aHViLnNoIFvku5PlupPlkI1dCiMgIOS7k+W6k+WQjeecgeeVpeaXtum7mOiupCB6ei1hbmltYWwtY2hhaW4KIwojICDohJrmnKzkvJrkvp3mrKHlrozmiJDvvJoKIyAgICAxLiDmoKHpqowgVG9rZW4KIyAgICAyLiDlnKjkvaDnmoTotKblj7fkuIvliJvlu7rlhazlvIDku5PlupPvvIjlt7LlrZjlnKjliJnot7Pov4fvvIkKIyAgICAzLiDmnKzlnLAgZ2l0IOWIneWni+WMluW5tuaPkOS6pAojICAgIDQuIOaOqOmAgeWIsCBtYWluCiMgICAgNS4g5byA5ZCvIEdpdEh1YiBQYWdlc++8iEdpdEh1YiBBY3Rpb25zIOaWueW8j++8iQojICAgIDYuIOetieW+heaehOW7uuWujOaIkOW5tue7meWHuuiuv+mXrumTvuaOpQojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KClJFUE9fTkFNRT0iJHsxOi16ei1hbmltYWwtY2hhaW59IgoKZWNobyAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIKZWNobyAiICDpg5Hlt57mtYHmtarliqjnianmlZHliqnpk77kuIrlr7zoiKogREFwcCDCtyBHaXRIdWIgUGFnZXMg5LiA6ZSu6YOo572yIgplY2hvICI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IgplY2hvCgojIC0tLS0tLS0tLS0gMC4g5pS26ZuG5Yet5o2uIC0tLS0tLS0tLS0KcmVhZCAtcnAgIuivt+i+k+WFpSBHaXRIdWIg55So5oi35ZCNOiAiIEdIX1VTRVIKaWYgWyAteiAiJEdIX1VTRVIiIF07IHRoZW4gZWNobyAi55So5oi35ZCN5LiN6IO95Li656m6IjsgZXhpdCAxOyBmaQoKZWNobwplY2hvICJUb2tlbiDnlLPor7flnLDlnYDvvJogaHR0cHM6Ly9naXRodWIuY29tL3NldHRpbmdzL3Rva2VucyIKZWNobyAiICDihpIgR2VuZXJhdGUgbmV3IHRva2VuIChjbGFzc2ljKSIKZWNobyAiICDihpIg5Yu+6YCJIHJlcG/vvIjlhajpg6jvvInjgIF3b3JrZmxvdyIKZWNobyAiICDihpIg55Sf5oiQ5ZCO5aSN5Yi277yM57KY6LS05Yiw5LiL6Z2i77yI6L6T5YWl5pe25LiN5Lya5pi+56S677yJIgplY2hvCnJlYWQgLXJzcCAi6K+36L6T5YWlIEdpdEh1YiBQZXJzb25hbCBBY2Nlc3MgVG9rZW46ICIgR0hfVE9LRU4KZWNobwppZiBbIC16ICIkR0hfVE9LRU4iIF07IHRoZW4gZWNobyAiVG9rZW4g5LiN6IO95Li656m6IjsgZXhpdCAxOyBmaQoKQVBJPSJodHRwczovL2FwaS5naXRodWIuY29tIgpBVVRIPSgtSCAiQXV0aG9yaXphdGlvbjogQmVhcmVyICR7R0hfVE9LRU59IiAtSCAiQWNjZXB0OiBhcHBsaWNhdGlvbi92bmQuZ2l0aHViK2pzb24iIC1IICJYLUdpdEh1Yi1BcGktVmVyc2lvbjogMjAyMi0xMS0yOCIpCgojIC0tLS0tLS0tLS0gSFRUUCDlt6Xlhbflh73mlbAgLS0tLS0tLS0tLQpyZXEoKSB7ICAgICAgICAgICAjIHJlcSA8bWV0aG9kPiA8dXJsPiBbZGF0YWZpbGVdIDsgYm9keSDovpPlh7rliLAgc3Rkb3V077yM54q25oCB56CB5YaZ5YWlIEhUVFBfQ09ERQogIGxvY2FsIG1ldGhvZD0iJDEiIHVybD0iJDIiIGRhdGFmaWxlPSIkezM6LX0iCiAgbG9jYWwgdG1wOyB0bXA9IiQobWt0ZW1wKSIKICBpZiBbIC1uICIkZGF0YWZpbGUiIF07IHRoZW4KICAgIEhUVFBfQ09ERT0kKGN1cmwgLXMgLW8gIiR0bXAiIC13ICIle2h0dHBfY29kZX0iIC1YICIkbWV0aG9kIiAiJHtBVVRIW0BdfSIgIiR1cmwiIC1kIEAiJGRhdGFmaWxlIikKICBlbHNlCiAgICBIVFRQX0NPREU9JChjdXJsIC1zIC1vICIkdG1wIiAtdyAiJXtodHRwX2NvZGV9IiAtWCAiJG1ldGhvZCIgIiR7QVVUSFtAXX0iICIkdXJsIikKICBmaQogIGNhdCAiJHRtcCI7IHJtIC1mICIkdG1wIgp9Cmpzb25maWVsZCgpIHsgICAgICMganNvbmZpZWxkIDxqc29u5paH5pysPiA85a2X5q615ZCNPgogIHByaW50ZiAnJXMnICIkMSIgfCBncmVwIC1vICJcIiQyXCJbWzpzcGFjZTpdXSo6W1s6c3BhY2U6XV0qXCJbXlwiXSpcIiIgfCBoZWFkIC0xIHwgc2VkICdzLy4qOltbOnNwYWNlOl1dKiIvLzsgcy8iJC8vJwp9CgojIC0tLS0tLS0tLS0gMS4g5qCh6aqMIFRva2VuIC0tLS0tLS0tLS0KZWNobwplY2hvICJbMS82XSDmoKHpqowgVG9rZW4gLi4uIgpCT0RZPSQocmVxIEdFVCAiJEFQSS91c2VyIikKaWYgWyAiJEhUVFBfQ09ERSIgIT0gIjIwMCIgXTsgdGhlbgogIGVjaG8gIiAg4pyXIFRva2VuIOagoemqjOWksei0pe+8iEhUVFAgJEhUVFBfQ09ERe+8ieOAguivt+ehruiupCBUb2tlbiDmnInmlYjkuJTlt7Lli77pgIkgcmVwbyDmnYPpmZDjgIIiCiAgZXhpdCAxCmZpCkxPR0lOPSQoanNvbmZpZWxkICIkQk9EWSIgbG9naW4pCmVjaG8gIiAg4pyTIOeZu+W9lei6q+S7ve+8miR7TE9HSU59IgppZiBbICIkTE9HSU4iICE9ICIkR0hfVVNFUiIgXTsgdGhlbgogIGVjaG8gIiAgISDms6jmhI/vvJpUb2tlbiDlsZ7kuo7jgIwke0xPR0lOfeOAje+8jOS4juS9oOi+k+WFpeeahOeUqOaIt+WQjeOAjCR7R0hfVVNFUn3jgI3kuI3kuIDoh7TvvIzlsIbkvb/nlKggJHtMT0dJTn0iCiAgR0hfVVNFUj0iJExPR0lOIgpmaQoKIyAtLS0tLS0tLS0tIDIuIOWIm+W7uuS7k+W6kyAtLS0tLS0tLS0tCmVjaG8KZWNobyAiWzIvNl0g5Yib5bu65LuT5bqTICR7R0hfVVNFUn0vJHtSRVBPX05BTUV9IC4uLiIKUEFZTE9BRD0iJChta3RlbXApIgpwcmludGYgJ3sibmFtZSI6IiVzIiwiZGVzY3JpcHRpb24iOiLpg5Hlt57mtYHmtarliqjnianmlZHliqnpk77kuIrlr7zoiKogREFwcCDCtyBTb2xpZGl0eSArIOmrmOW+t+WcsOWbviArIEZJU0NPIEJDT1MiLCJwcml2YXRlIjpmYWxzZSwiYXV0b19pbml0IjpmYWxzZSwiaGFzX2lzc3VlcyI6dHJ1ZX0nICIkUkVQT19OQU1FIiA+ICIkUEFZTE9BRCIKQk9EWT0kKHJlcSBQT1NUICIkQVBJL3VzZXIvcmVwb3MiICIkUEFZTE9BRCIpCnJtIC1mICIkUEFZTE9BRCIKY2FzZSAiJEhUVFBfQ09ERSIgaW4KICAyMDEpIGVjaG8gIiAg4pyTIOS7k+W6k+WIm+W7uuaIkOWKnyIgOzsKICA0MjIpIGVjaG8gIiAgwrcg5LuT5bqT5bey5a2Y5Zyo77yM6Lez6L+H5Yib5bu6IiA7OwogIDQwMXw0MDMpIGVjaG8gIiAg4pyXIOaXoOadg+mZkOWIm+W7uuS7k+W6k++8iEhUVFAgJEhUVFBfQ09ERe+8ie+8jOivt+ehruiupCBUb2tlbiDli77pgInkuoYgcmVwbyI7IGV4aXQgMSA7OwogICopICAgZWNobyAiICAhIOWIm+W7uui/lOWbniBIVFRQICRIVFRQX0NPREUg77yaJChwcmludGYgJyVzJyAiJEJPRFkiIHwgaGVhZCAtYyAzMDApIiA7Owplc2FjCgojIC0tLS0tLS0tLS0gMy4g5pys5ZywIGdpdCDmj5DkuqQgLS0tLS0tLS0tLQplY2hvCmVjaG8gIlszLzZdIOacrOWcsCBnaXQg5Yid5aeL5YyW5bm25o+Q5LqkIC4uLiIKaWYgWyAhIC1kIC5naXQgXTsgdGhlbgogIGdpdCBpbml0IC1xCiAgZWNobyAiICDCtyBnaXQgaW5pdCDlrozmiJAiCmZpCmlmIFsgLXogIiQoZ2l0IGNvbmZpZyB1c2VyLm5hbWUpIiBdOyB0aGVuCiAgZ2l0IGNvbmZpZyB1c2VyLm5hbWUgIiR7R0hfVVNFUn0iCmZpCmlmIFsgLXogIiQoZ2l0IGNvbmZpZyB1c2VyLmVtYWlsKSIgXTsgdGhlbgogIGdpdCBjb25maWcgdXNlci5lbWFpbCAiJHtHSF9VU0VSfUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iCmZpCmdpdCBhZGQgLUEKaWYgZ2l0IGRpZmYgLS1jYWNoZWQgLS1xdWlldDsgdGhlbgogIGVjaG8gIiAgwrcg5peg5paw5aKe5pS55YqoIgplbHNlCiAgZ2l0IGNvbW1pdCAtcSAtbSAiZmVhdDog6YOR5bee5rWB5rWq5Yqo54mp5pWR5Yqp6ZO+5LiK5a+86IiqIERBcHDvvIjnur/ntKLlrZjor4EgLyDlnLDlm77lr7zoiKogLyDpooblhbvkuIrpk74gLyDlhaznm4rnp6/liIbvvIkiCiAgZWNobyAiICDinJMg5o+Q5Lqk5a6M5oiQIgpmaQpnaXQgYnJhbmNoIC1NIG1haW4gMj4vZGV2L251bGwgfHwgdHJ1ZQoKIyAtLS0tLS0tLS0tIDQuIOaOqOmAgSAtLS0tLS0tLS0tCmVjaG8KZWNobyAiWzQvNl0g5o6o6YCB5YiwIEdpdEh1YiAuLi4iCmdpdCByZW1vdGUgcmVtb3ZlIG9yaWdpbiAyPi9kZXYvbnVsbCB8fCB0cnVlCmdpdCByZW1vdGUgYWRkIG9yaWdpbiAiaHR0cHM6Ly8ke0dIX1VTRVJ9OiR7R0hfVE9LRU59QGdpdGh1Yi5jb20vJHtHSF9VU0VSfS8ke1JFUE9fTkFNRX0uZ2l0IgppZiBnaXQgcHVzaCAtdSBvcmlnaW4gbWFpbiA+L2Rldi9udWxsIDI+JjE7IHRoZW4KICBlY2hvICIgIOKckyDmjqjpgIHmiJDlip8iCmVsc2UKICBlY2hvICIgIOKclyDmjqjpgIHlpLHotKXvvIzkuIvpnaLmmK/ljp/lp4vplJnor6/kv6Hmga/vvJoiCiAgZ2l0IHB1c2ggLXUgb3JpZ2luIG1haW4KICBleGl0IDEKZmkKIyDmirnmjokgcmVtb3RlIOmHjOeahOaYjuaWhyBUb2tlbgpnaXQgcmVtb3RlIHNldC11cmwgb3JpZ2luICJodHRwczovL2dpdGh1Yi5jb20vJHtHSF9VU0VSfS8ke1JFUE9fTkFNRX0uZ2l0IgplY2hvICIgIMK3IOW3sua4heeQhuacrOWcsCByZW1vdGUg5Lit55qEIFRva2VuIgoKIyAtLS0tLS0tLS0tIDUuIOW8gOWQryBHaXRIdWIgUGFnZXMgLS0tLS0tLS0tLQplY2hvCmVjaG8gIls1LzZdIOW8gOWQryBHaXRIdWIgUGFnZXPvvIhBY3Rpb25zIOaWueW8j++8iS4uLiIKUEFHRVNfSlNPTj0iJChta3RlbXApIgpwcmludGYgJ3siYnVpbGRfdHlwZSI6IndvcmtmbG93Iiwic291cmNlIjp7ImJyYW5jaCI6Im1haW4iLCJwYXRoIjoiLyJ9fScgPiAiJFBBR0VTX0pTT04iCkJPRFk9JChyZXEgUE9TVCAiJEFQSS9yZXBvcy8ke0dIX1VTRVJ9LyR7UkVQT19OQU1FfS9wYWdlcyIgIiRQQUdFU19KU09OIikKY2FzZSAiJEhUVFBfQ09ERSIgaW4KICAyMDEpIGVjaG8gIiAg4pyTIFBhZ2VzIOW3suW8gOWQryIgOzsKICAyMDQpIGVjaG8gIiAg4pyTIFBhZ2VzIOW3suW8gOWQryIgOzsKICA0MDkpIGVjaG8gIiAgwrcgUGFnZXMg56uZ54K55bey5a2Y5Zyo77yM5pu05paw5Li6IEFjdGlvbnMg5pa55byPIgogICAgICAgQk9EWT0kKHJlcSBQVVQgIiRBUEkvcmVwb3MvJHtHSF9VU0VSfS8ke1JFUE9fTkFNRX0vcGFnZXMiICIkUEFHRVNfSlNPTiIpCiAgICAgICBlY2hvICIgIMK3IOabtOaWsOi/lOWbniBIVFRQICRIVFRQX0NPREUiIDs7CiAgNDAzKSBlY2hvICIgICEg5peg5rOV6YCa6L+HIEFQSSDlvIDlkK8gUGFnZXPvvIhIVFRQIDQwM++8ieOAgiIKICAgICAgIGVjaG8gIiAgICDor7fmiYvliqjmiZPlvIAgaHR0cHM6Ly9naXRodWIuY29tLyR7R0hfVVNFUn0vJHtSRVBPX05BTUV9L3NldHRpbmdzL3BhZ2VzIgogICAgICAgZWNobyAiICAgIOKGkiBCdWlsZCBhbmQgZGVwbG95bWVudCDihpIgU291cmNlIOmAiSBHaXRIdWIgQWN0aW9ucyIgOzsKICAqKSAgIGVjaG8gIiAgISBQYWdlcyDmjqXlj6Pov5Tlm54gSFRUUCAkSFRUUF9DT0RFIO+8miQocHJpbnRmICclcycgIiRCT0RZIiB8IGhlYWQgLWMgMzAwKSIgOzsKZXNhYwpybSAtZiAiJFBBR0VTX0pTT04iCgojIC0tLS0tLS0tLS0gNi4g562J5b6F5p6E5bu6IC0tLS0tLS0tLS0KZWNobwplY2hvICJbNi82XSDnrYnlvoUgUGFnZXMg5p6E5bu677yI6YCa5bi4IDMwfjkwIOenku+8iS4uLiIKU0lURT0iaHR0cHM6Ly8ke0dIX1VTRVJ9LmdpdGh1Yi5pby8ke1JFUE9fTkFNRX0vIgpmb3IgaSBpbiAkKHNlcSAxIDQwKTsgZG8KICBCT0RZPSQocmVxIEdFVCAiJEFQSS9yZXBvcy8ke0dIX1VTRVJ9LyR7UkVQT19OQU1FfS9wYWdlcyIpCiAgQ09ERT0iJEhUVFBfQ09ERSIKICBTVEFUVVM9JChqc29uZmllbGQgIiRCT0RZIiBzdGF0dXMpCiAgaWYgWyAiJENPREUiID0gIjIwMCIgXSAmJiBbICIkU1RBVFVTIiA9ICJidWlsdCIgXTsgdGhlbgogICAgU0lURV9VUkw9JChqc29uZmllbGQgIiRCT0RZIiBodG1sX3VybCkKICAgIFsgLW4gIiRTSVRFX1VSTCIgXSAmJiBTSVRFPSIke1NJVEVfVVJMfSIKICAgIENPREVfU0lURT0kKGN1cmwgLXMgLW8gL2Rldi9udWxsIC13ICIle2h0dHBfY29kZX0iIC1MICIkU0lURSIpCiAgICBpZiBbICIkQ09ERV9TSVRFIiA9ICIyMDAiIF07IHRoZW4KICAgICAgZWNobyAiICDinJMg5p6E5bu65a6M5oiQ77yM56uZ54K55Y+v6K6/6ZeuIgogICAgICBicmVhawogICAgZmkKICBmaQogIHByaW50ZiAiICDCtyDnrKwgJXMg5qyh5qOA5p+l77yM5b2T5YmN54q25oCB77yaJXNcbiIgIiRpIiAiJHtTVEFUVVM6LeetieW+heS4rX0iCiAgc2xlZXAgNQpkb25lCgplY2hvCmVjaG8gIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iCmVjaG8gIiAg6YOo572y5a6M5oiQ77yBIgplY2hvCmVjaG8gIiAg5LuT5bqT5Zyw5Z2A77yaIGh0dHBzOi8vZ2l0aHViLmNvbS8ke0dIX1VTRVJ9LyR7UkVQT19OQU1FfSIKZWNobyAiICDlnKjnur/nq5nngrnvvJogJHtTSVRFfSIKZWNobyAiICBBY3Rpb25zICDvvJogaHR0cHM6Ly9naXRodWIuY29tLyR7R0hfVVNFUn0vJHtSRVBPX05BTUV9L2FjdGlvbnMiCmVjaG8KZWNobyAiICDigJTigJQg6auY5b635Zyw5Zu+IEtleSDigJTigJQiCmVjaG8gIiAg55Sz6K+35pe26K+35oqK5bqU55SoL0tleSDlkI3np7DloavkuLrvvJp6aGVuZ3pfYW5pbWFsIgplY2hvICIgIOaLv+WIsCBLZXkg5ZCO57yW6L6RIGFzc2V0cy9qcy9jb25maWcuanMg5aGr5YWlIEFNQVBfS0VZIOS4jiBBTUFQX1NFQ1VSSVRZX0NPREXvvIwiCmVjaG8gIiAg5L+d5a2Y5ZCO6YeN5paw5o6o6YCB5Y2z5Y+v55Sf5pWI77yI5pyq5aGr5Lmf6IO95q2j5bi46LeR77yM5Lya6Ieq5Yqo6ZmN57qn5Li6TGVhZmxldCvpq5jlvrfnk6bniYflupXlm77vvInjgIIiCmVjaG8gIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iCg==
+#!/usr/bin/env bash
+# ================================================================
+#  郑州流浪动物救助链上导航 DApp  ——  一键部署到 GitHub Pages
+#
+#  用法（在本目录打开 Git Bash）：
+#      bash deploy-github.sh [仓库名]
+#  仓库名省略时默认 zz-animal-chain
+#
+#  脚本会依次完成：
+#    1. 校验 Token
+#    2. 在你的账号下创建公开仓库（已存在则跳过）
+#    3. 本地 git 初始化并提交
+#    4. 推送到 main
+#    5. 开启 GitHub Pages（GitHub Actions 方式）
+#    6. 等待构建完成并给出访问链接
+# ================================================================
+
+REPO_NAME="${1:-zz-animal-chain}"
+
+echo "================================================================"
+echo "  郑州流浪动物救助链上导航 DApp · GitHub Pages 一键部署"
+echo "================================================================"
+echo
+
+# ---------- 0. 收集凭据 ----------
+read -rp "请输入 GitHub 用户名: " GH_USER
+if [ -z "$GH_USER" ]; then echo "用户名不能为空"; exit 1; fi
+
+echo
+echo "Token 申请地址： https://github.com/settings/tokens"
+echo "  → Generate new token (classic)"
+echo "  → 勾选 repo（全部）、workflow"
+echo "  → 生成后复制，粘贴到下面（输入时不会显示）"
+echo
+read -rsp "请输入 GitHub Personal Access Token: " GH_TOKEN
+echo
+if [ -z "$GH_TOKEN" ]; then echo "Token 不能为空"; exit 1; fi
+
+API="https://api.github.com"
+AUTH=(-H "Authorization: Bearer ${GH_TOKEN}" -H "Accept: application/vnd.github+json" -H "X-GitHub-Api-Version: 2022-11-28")
+
+# ---------- HTTP 工具函数 ----------
+req() {           # req <method> <url> [datafile] ; body 输出到 stdout，状态码写入 HTTP_CODE
+  local method="$1" url="$2" datafile="${3:-}"
+  local tmp; tmp="$(mktemp)"
+  if [ -n "$datafile" ]; then
+    HTTP_CODE=$(curl -s -o "$tmp" -w "%{http_code}" -X "$method" "${AUTH[@]}" "$url" -d @"$datafile")
+  else
+    HTTP_CODE=$(curl -s -o "$tmp" -w "%{http_code}" -X "$method" "${AUTH[@]}" "$url")
+  fi
+  cat "$tmp"; rm -f "$tmp"
+}
+jsonfield() {     # jsonfield <json文本> <字段名>
+  printf '%s' "$1" | grep -o "\"$2\"[[:space:]]*:[[:space:]]*\"[^\"]*\"" | head -1 | sed 's/.*:[[:space:]]*"//; s/"$//'
+}
+
+# ---------- 1. 校验 Token ----------
+echo
+echo "[1/6] 校验 Token ..."
+BODY=$(req GET "$API/user")
+if [ "$HTTP_CODE" != "200" ]; then
+  echo "  ✗ Token 校验失败（HTTP $HTTP_CODE）。请确认 Token 有效且已勾选 repo 权限。"
+  exit 1
+fi
+LOGIN=$(jsonfield "$BODY" login)
+echo "  ✓ 登录身份：${LOGIN}"
+if [ "$LOGIN" != "$GH_USER" ]; then
+  echo "  ! 注意：Token 属于「${LOGIN}」，与你输入的用户名「${GH_USER}」不一致，将使用 ${LOGIN}"
+  GH_USER="$LOGIN"
+fi
+
+# ---------- 2. 创建仓库 ----------
+echo
+echo "[2/6] 创建仓库 ${GH_USER}/${REPO_NAME} ..."
+PAYLOAD="$(mktemp)"
+printf '{"name":"%s","description":"郑州流浪动物救助链上导航 DApp · Solidity + 高德地图 + FISCO BCOS","private":false,"auto_init":false,"has_issues":true}' "$REPO_NAME" > "$PAYLOAD"
+BODY=$(req POST "$API/user/repos" "$PAYLOAD")
+rm -f "$PAYLOAD"
+case "$HTTP_CODE" in
+  201) echo "  ✓ 仓库创建成功" ;;
+  422) echo "  · 仓库已存在，跳过创建" ;;
+  401|403) echo "  ✗ 无权限创建仓库（HTTP $HTTP_CODE），请确认 Token 勾选了 repo"; exit 1 ;;
+  *)   echo "  ! 创建返回 HTTP $HTTP_CODE ：$(printf '%s' "$BODY" | head -c 300)" ;;
+esac
+
+# ---------- 3. 本地 git 提交 ----------
+echo
+echo "[3/6] 本地 git 初始化并提交 ..."
+if [ ! -d .git ]; then
+  git init -q
+  echo "  · git init 完成"
+fi
+if [ -z "$(git config user.name)" ]; then
+  git config user.name "${GH_USER}"
+fi
+if [ -z "$(git config user.email)" ]; then
+  git config user.email "${GH_USER}@users.noreply.github.com"
+fi
+git add -A
+if git diff --cached --quiet; then
+  echo "  · 无新增改动"
+else
+  git commit -q -m "feat: 郑州流浪动物救助链上导航 DApp（线索存证 / 地图导航 / 领养上链 / 公益积分）"
+  echo "  ✓ 提交完成"
+fi
+git branch -M main 2>/dev/null || true
+
+# ---------- 4. 推送 ----------
+echo
+echo "[4/6] 推送到 GitHub ..."
+git remote remove origin 2>/dev/null || true
+git remote add origin "https://${GH_USER}:${GH_TOKEN}@github.com/${GH_USER}/${REPO_NAME}.git"
+if git push -u origin main >/dev/null 2>&1; then
+  echo "  ✓ 推送成功"
+else
+  echo "  ✗ 推送失败，下面是原始错误信息："
+  git push -u origin main
+  exit 1
+fi
+# 抹掉 remote 里的明文 Token
+git remote set-url origin "https://github.com/${GH_USER}/${REPO_NAME}.git"
+echo "  · 已清理本地 remote 中的 Token"
+
+# ---------- 5. 开启 GitHub Pages ----------
+echo
+echo "[5/6] 开启 GitHub Pages（Actions 方式）..."
+PAGES_JSON="$(mktemp)"
+printf '{"build_type":"workflow","source":{"branch":"main","path":"/"}}' > "$PAGES_JSON"
+BODY=$(req POST "$API/repos/${GH_USER}/${REPO_NAME}/pages" "$PAGES_JSON")
+case "$HTTP_CODE" in
+  201) echo "  ✓ Pages 已开启" ;;
+  204) echo "  ✓ Pages 已开启" ;;
+  409) echo "  · Pages 站点已存在，更新为 Actions 方式"
+       BODY=$(req PUT "$API/repos/${GH_USER}/${REPO_NAME}/pages" "$PAGES_JSON")
+       echo "  · 更新返回 HTTP $HTTP_CODE" ;;
+  403) echo "  ! 无法通过 API 开启 Pages（HTTP 403）。"
+       echo "    请手动打开 https://github.com/${GH_USER}/${REPO_NAME}/settings/pages"
+       echo "    → Build and deployment → Source 选 GitHub Actions" ;;
+  *)   echo "  ! Pages 接口返回 HTTP $HTTP_CODE ：$(printf '%s' "$BODY" | head -c 300)" ;;
+esac
+rm -f "$PAGES_JSON"
+
+# ---------- 6. 等待构建 ----------
+echo
+echo "[6/6] 等待 Pages 构建（通常 30~90 秒）..."
+SITE="https://${GH_USER}.github.io/${REPO_NAME}/"
+for i in $(seq 1 40); do
+  BODY=$(req GET "$API/repos/${GH_USER}/${REPO_NAME}/pages")
+  CODE="$HTTP_CODE"
+  STATUS=$(jsonfield "$BODY" status)
+  if [ "$CODE" = "200" ] && [ "$STATUS" = "built" ]; then
+    SITE_URL=$(jsonfield "$BODY" html_url)
+    [ -n "$SITE_URL" ] && SITE="${SITE_URL}"
+    CODE_SITE=$(curl -s -o /dev/null -w "%{http_code}" -L "$SITE")
+    if [ "$CODE_SITE" = "200" ]; then
+      echo "  ✓ 构建完成，站点可访问"
+      break
+    fi
+  fi
+  printf "  · 第 %s 次检查，当前状态：%s\n" "$i" "${STATUS:-等待中}"
+  sleep 5
+done
+
+echo
+echo "================================================================"
+echo "  部署完成！"
+echo
+echo "  仓库地址： https://github.com/${GH_USER}/${REPO_NAME}"
+echo "  在线站点： ${SITE}"
+echo "  Actions  ： https://github.com/${GH_USER}/${REPO_NAME}/actions"
+echo
+echo "  —— 高德地图 Key ——"
+echo "  申请时请把应用/Key 名称填为：zhengz_animal"
+echo "  拿到 Key 后编辑 assets/js/config.js 填入 AMAP_KEY 与 AMAP_SECURITY_CODE，"
+echo "  保存后重新推送即可生效（未填也能正常跑，会自动降级为Leaflet+高德瓦片底图）。"
+echo "================================================================"

@@ -1,1 +1,174 @@
-IyDpg6jnvbLmiYvlhowKCuacrOmhueebruacieS4pOadoemDqOe9sue6v++8jOS6kuS4jeS+nei1lu+8mgoKfCDlvaLmgIEgfCDor7TmmI4gfCDpgILnlKjlnLrmma8gfAp8IC0tLSB8IC0tLSB8IC0tLSB8CnwgKipBLiDpnZnmgIHnq5nngrkqKiB8IOe6r+WJjeerryArIOWGhee9ruaooeaLn+mTvu+8jOW8gOeuseWNs+eUqCB8IEdpdEh1YiBQYWdlcyAvIFZlcmNlbCAvIFJlcGxpdCDmvJTnpLogfAp8ICoqQi4g55yf5a6e5LiK6ZO+KiogfCBXU0wyICsgRklTQ08gQkNPUyAzLnggKyDmnKzlnLDnrb7lkI3nvZHlhbMgfCDor77nqIvkvZzkuJogLyDnlJ/kuqfpqozor4EgfAoKLS0tCgojIyBBLiDpnZnmgIHnq5nngrnpg6jnvbIKCiMjIyBBMS4g5pys5Zyw6aKE6KeI77yI5b+F6aG75YWI6LW3IEhUVFAg5pyN5Yqh77yM5LiN6IO95Y+M5Ye75omT5byAIGZpbGU6Ly/vvIkKCmBgYGJhc2gKY2QgenotYW5pbWFsLWNoYWluCm5weCBzZXJ2ZSAuIC1sIDUxNzMgICAgICAgICAgIyDmiJYgcHl0aG9uIC1tIGh0dHAuc2VydmVyIDUxNzMKYGBgCuaJk+W8gCA8aHR0cDovL2xvY2FsaG9zdDo1MTczPuOAggoKPiBgY3J5cHRvLnN1YnRsZWDvvIhTSEEtMjU277yJ6KaB5rGC5a6J5YWo5LiK5LiL5paH77yMYGZpbGU6Ly9gIOS4i+WPr+iDveS4jeWPr+eUqO+8jOWKoeW/heeUqCBodHRwOi8vbG9jYWxob3N044CCCgojIyMgQTIuIEdpdEh1YiBQYWdlc++8iOaOqOiNkO+8jOWFjei0ue+8iQoKIyMjIyDmlrnlvI/kuIDvvJrkuIDplK7ohJrmnKzvvIjmnIDnnIHkuovvvIkKCuWPjOWHu+mhueebruagueebruW9leeahCAqKmBkZXBsb3ktZ2l0aHViLmJhdGAqKu+8iEdpdCBCYXNoIOmHjOaJp+ihjCBgYmFzaCBkZXBsb3ktZ2l0aHViLnNoYCDkuqblj6/vvInvvIzmjInmj5DnpLrovpPlhaUgR2l0SHViIOeUqOaIt+WQjeWSjCBUb2tlbu+8mgoKYGBgCuivt+i+k+WFpSBHaXRIdWIg55So5oi35ZCNOiB4eHgK6K+36L6T5YWlIEdpdEh1YiBQZXJzb25hbCBBY2Nlc3MgVG9rZW46IO+8iOeymOi0tO+8jOS4jeWbnuaYvu+8iQpgYGAKClRva2Vu77yaPGh0dHBzOi8vZ2l0aHViLmNvbS9zZXR0aW5ncy90b2tlbnM+IOKGkiBHZW5lcmF0ZSBuZXcgdG9rZW4gKGNsYXNzaWMpIOKGkiDli77pgIkgYHJlcG9g44CBYHdvcmtmbG93YOOAggoK6ISa5pys6Ieq5Yqo5a6M5oiQ77ya5qCh6aqMIFRva2VuIOKGkiDlu7rku5PvvIjpu5jorqQgYHp6LWFuaW1hbC1jaGFpbmDvvInihpIgZ2l0IOaPkOS6pCDihpIg5o6o6YCBIG1haW4g4oaSIOW8gOWQryBQYWdlcyhBY3Rpb25zKSDihpIg562J5b6F5p6E5bu6IOKGkiDmiZPljbDpk77mjqXjgILmjqjpgIHlkI7kvJoqKuiHquWKqOaTpumZpOacrOWcsCByZW1vdGUg6YeM55qE5piO5paHIFRva2VuKirjgILmlLnku5PlupPlkI3vvJpgYmFzaCBkZXBsb3ktZ2l0aHViLnNoIOS9oOeahOS7k+W6k+WQjWDjgIIKCiMjIyMg5pa55byP5LqM77ya5omL5Yqo5bu65LuTCgoxLiDlnKggR2l0SHViIOaWsOW7uuepuuS7k+W6k++8iOWmgiBgenotYW5pbWFsLXJlc2N1ZS1jaGFpbmDvvIkKMi4g5pys5Zyw5Yid5aeL5YyW5bm25o6o6YCB77yaCiAgIGBgYGJhc2gKICAgY2QgenotYW5pbWFsLWNoYWluCiAgIGdpdCBpbml0ICYmIGdpdCBhZGQgLiAmJiBnaXQgY29tbWl0IC1tICJmZWF0OiDpg5Hlt57mtYHmtarliqjnianmlZHliqnpk74gREFwcCIKICAgZ2l0IHJlbW90ZSBhZGQgb3JpZ2luIGh0dHBzOi8vZ2l0aHViLmNvbS8855So5oi35ZCNPi96ei1hbmltYWwtcmVzY3VlLWNoYWluLmdpdAogICBnaXQgcHVzaCAtdSBvcmlnaW4gbWFpbgogICBgYGAKMy4g5LuT5bqTIOKGkiAqKlNldHRpbmdzIOKGkiBQYWdlcyDihpIgQnVpbGQgYW5kIGRlcGxveW1lbnQg4oaSIFNvdXJjZSoqIOmAiSAqKkdpdEh1YiBBY3Rpb25zKioKNC4g5o6o6YCB5ZCOIGAuZ2l0aHViL3dvcmtmbG93cy9wYWdlcy55bWxgIOiHquWKqOaehOW7uu+8jOe6piAxIOWIhumSn+WQjuWPr+iuv+mXru+8mgogICBgaHR0cHM6Ly8855So5oi35ZCNPi5naXRodWIuaW8venotYW5pbWFsLXJlc2N1ZS1jaGFpbi9gCjUuIOS7k+W6k+WQjeiLpeWwseaYryBgPOeUqOaIt+WQjT4uZ2l0aHViLmlvYO+8jOaguei3r+W+hOebtOaOpeWwseaYryBgaHR0cHM6Ly8855So5oi35ZCNPi5naXRodWIuaW8vYAoKPiDoi6Xku5PlupPkuLrnp4HmnInvvIzpnIDljYfnuqfliLAgR2l0SHViIFBybyDmiY3og73lvIDlkK8gUGFnZXPvvJvlhazlvIDku5PlupPlhY3otLnjgIIKCiMjIyBBMy4gVmVyY2Vs77yI5aSH6YCJ77yJCgpgYGBiYXNoCm5weCB2ZXJjZWwgLS1wcm9kICAgICAgICAjIOmmluasoeaMieaPkOekuueZu+W9le+8jFByb2plY3Qg57G75Z6L6YCJIE90aGVyIC8gU3RhdGljCmBgYArmiJbnvZHpobXnq68gSW1wb3J0IEdpdCBSZXBvc2l0b3J5IOKGkiBGcmFtZXdvcmsgUHJlc2V0IOmAiSAqKk90aGVyKiog4oaSIEJ1aWxkIENvbW1hbmQg55WZ56m6IOKGkiBPdXRwdXQgRGlyZWN0b3J5IGAuYOOAggoKIyMjIEE0LiBSZXBsaXTvvIjlpIfpgInvvIkKCuaWsOW7uiBSZXBsIOKGkiBJbXBvcnQgZnJvbSBHaXRIdWIg4oaSIFJ1biDlkb3ku6TloasgYHB5dGhvbjMgLW0gaHR0cC5zZXJ2ZXIgMzAwMGAg4oaSIOW8gOaUviAzMDAwIOerr+WPo+OAggoKLS0tCgojIyBCLiBXU0wyICsgRklTQ08gQkNPUyDnnJ/lrp7kuIrpk74KCiMjIyBCMS4g5a6J6KOFIFdTTDLvvIhXaW5kb3dzIFBvd2VyU2hlbGzvvIznrqHnkIblkZjvvIkKCmBgYHBvd2Vyc2hlbGwKd3NsIC0taW5zdGFsbCAtZCBVYnVudHUtMjIuMDQKYGBgCumHjeWQr+WQjuiuvue9rueUqOaIt+WQjeWvhuegge+8jOi/m+WFpSBVYnVudHUg57uI56uv44CCCgojIyMgQjIuIOaQreW7uiBGSVNDTyBCQ09TIDMueCDljZXnvqTnu4Tlm5voioLngrnpk74KCmBgYGJhc2gKc3VkbyBhcHQgdXBkYXRlICYmIHN1ZG8gYXB0IGluc3RhbGwgLXkgY3VybCBvcGVuc3NsIHdnZXQKY2QgfgpjdXJsIC0jTE8gaHR0cHM6Ly9naXRodWIuY29tL0ZJU0NPLUJDT1MvRklTQ08tQkNPUy9yZWxlYXNlcy9kb3dubG9hZC92My42LjAvYnVpbGRfY2hhaW4uc2gKY2htb2QgK3ggYnVpbGRfY2hhaW4uc2gKIyAtcCDkvp3mrKHkuLogcDJwIC8gY2hhbm5lbCAvIEpTT04tUlBDIOi1t+Wni+err+WPo++8jOi/memHjCBSUEMgPSA4NTQ1CmJhc2ggYnVpbGRfY2hhaW4uc2ggLWwgMTI3LjAuMC4xOjQgLW8gbm9kZXMgLXAgMzAzMDAsMjAyMDAsODU0NQpiYXNoIG5vZGVzLzEyNy4wLjAuMS9zdGFydF9hbGwuc2gKYGBgCgrpqozor4HvvJoKCmBgYGJhc2gKcHMgYXV4IHwgZ3JlcCBmaXNjby1iY29zIHwgZ3JlcCAtdiBncmVwIHwgd2MgLWwgICAgICAjIOW6lOS4uiA0CmN1cmwgLXMgLVggUE9TVCAtSCAnQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uJyBcCiAgLS1kYXRhICd7Impzb25ycGMiOiIyLjAiLCJtZXRob2QiOiJldGhfYmxvY2tOdW1iZXIiLCJwYXJhbXMiOltdLCJpZCI6MX0nIFwKICBodHRwOi8vMTI3LjAuMC4xOjg1NDUKIyDov5Tlm57nsbvkvLwgeyJqc29ucnBjIjoiMi4wIiwiaWQiOjEsInJlc3VsdCI6IjB4MSJ9CmBgYAoK5bi455So5ZG95Luk77yaYGJhc2ggbm9kZXMvMTI3LjAuMC4xL3N0b3BfYWxsLnNoYCDlgZzmraLvvJtgdGFpbCAtZiBub2Rlcy8xMjcuMC4wLjEvbm9kZTAvbG9nLypgIOeci+aXpeW/l+OAggoKPiBXU0wyIOeahCBsb2NhbGhvc3Qg6L2s5Y+R6buY6K6k5byA5ZCv77yMV2luZG93cyDkvqflj6/nm7TmjqXorr/pl64gYGh0dHA6Ly8xMjcuMC4wLjE6ODU0NWDjgIIKCiMjIyBCMy4g57yW6K+R5ZCI57qmCgpgYGBiYXNoCmNkIC9tbnQvYy9Vc2Vycy/mnqsvV29ya0J1ZGR5LzIwMjYtMDktMjItMTQtMTEtNTgvenotYW5pbWFsLWNoYWluICAgIyDmiJblnKjmnKzmnLogUG93ZXJTaGVsbCDmiafooYwKbnBtIGkKbnBtIHJ1biBjb21waWxlCmBgYAoK5Lqn54mp77yaYGNvbnRyYWN0cy9DaGFyaXR5UG9pbnRzLmFiaS5qc29uYOOAgWAqLmJpbmAg562J44CCCgojIyMgQjQuIOWHhuWkh+etvuWQjei0puaItwoKYGBgYmFzaApjZCBzY3JpcHRzL3JlbGF5ZXIgJiYgbnBtIGkKbm9kZSAtZSAiY29uc3Qge2V0aGVyc309cmVxdWlyZSgnZXRoZXJzJyk7Y29uc3Qgdz1ldGhlcnMuV2FsbGV0LmNyZWF0ZVJhbmRvbSgpO2NvbnNvbGUubG9nKHcucHJpdmF0ZUtleSx3LmFkZHJlc3MpIgpgYGAKCi0gRklTQ08gQkNPUyAzLngg5Lqk5piT6ZyA6KaBIGdhc++8muivt+eUqOaOp+WItuWPsO+8iOaIliBmYXVjZXTvvInlkJHor6XlnLDlnYDovazlhaXlsJHph48gZ2Fz77ybCi0g6Iul6ZO+5ZCv55So5LqG5YWN6LS5IGdhcyDmqKHlvI/lj6/ot7Pov4fvvJsKLSDmm7TnnIHkuovnmoTpgInmi6nvvJrpg6jnvbIgKipXZUJBU0UtRnJvbnQqKu+8jOeUqOWFtuaJmOeuoei0puaIt+S4juWQiOe6piBJREXjgIIKCiMjIyBCNS4g5ZCv5Yqo562+5ZCN572R5YWzCgpgYGBiYXNoCmNkIHNjcmlwdHMvcmVsYXllcgpQUklWQVRFX0tFWT0weOS9oOeahOengemSpSBSUENfVVJMPWh0dHA6Ly8xMjcuMC4wLjE6ODU0NSBub2RlIHNlcnZlci5qcwojIOebkeWQrCBodHRwOi8vMTI3LjAuMC4xOjg3ODcKY3VybCBodHRwOi8vMTI3LjAuMC4xOjg3ODcvaGVhbHRoCmBgYAoKIyMjIEI2LiDpg6jnvbLlkIjnuqblubblm57loavliY3nq68KCmBgYGJhc2gKY2QgenotYW5pbWFsLWNoYWluCm5vZGUgc2NyaXB0cy9kZXBsb3ktY2hhaW4uanMgLS1ycGMgaHR0cDovLzEyNy4wLjAuMTo4NTQ1IC0tcmVsYXllciBodHRwOi8vMTI3LjAuMC4xOjg3ODcKYGBgCgrohJrmnKzkvJroh6rliqjvvJrpg6jnvbLkuInku73lkIjnuqYg4oaSIOW7uueri+WQiOe6pumXtOW8leeUqO+8iGBzZXRQb2ludHNDb250cmFjdGAgLyBgc2V0UmVzY3VlTGVkZ2VyYO+8ieKGkiDmjojmnYPmlZHliqnnq5nkuI7pooblhbvlkIjnuqYg4oaSIOaKiuWcsOWdgOWGmeWbniBgYXNzZXRzL2pzL2NvbmZpZy5qc2Ag5bm25oqKIGBkcml2ZXJgIOaUueS4uiBgZmlzY29g44CCCgrliLfmlrDpobXpnaLvvIzlj7PkuIrop5LlupTmmL7npLogKipGSVNDTyBCQ09TIMK3IOWMuuWdlyAjTioq44CCCgo+IOiLpee9keWFs+S4jeWPr+eUqO+8jOWJjeerr+S8muiHquWKqOWbnumAgOWIsOWGhee9ruaooeaLn+mTvuW5tuWcqOaOp+WItuWPsOaPkOekuu+8jOS4jeS8mueZveWxj+OAggoKLS0tCgojIyBDLiDpq5jlvrflnLDlm74gS2V5CgoxLiDmiZPlvIAgPGh0dHBzOi8vY29uc29sZS5hbWFwLmNvbT4g4oaSIOW6lOeUqOeuoeeQhiDihpIg5Yib5bu65paw5bqU55SoCjIuIOa3u+WKoCBLZXkg4oaSIOacjeWKoeW5s+WPsOmAiSAqKldlYuerryhKUyBBUEkpKioKMy4g5aSN5Yi2IEtleSDkuI7lronlhajlr4bpkqUganNjb2Rl77yM5aGr5YWlIGBhc3NldHMvanMvY29uZmlnLmpzYO+8mgogICBgYGBqcwogICBBTUFQX0tFWTogJ3h4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JywKICAgQU1BUF9TRUNVUklUWV9DT0RFOiAneHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgnLAogICBgYGAKNC4g5Yi35paw6aG16Z2i5Y2z5Y+v77yI6aG25qCP5o+Q56S65p2h5raI5aSx77yJCgrmnKrphY3nva7ml7boh6rliqjpmY3nuqfkuLogTGVhZmxldCArIOmrmOW+t+WFrOW8gOeTpueJh++8jOagh+iusCAvIOetm+mAiSAvIOW8ueeqlyAvIOS4gOmUruWvvOiIquWKn+iDveWujOWFqOS4gOiHtOOAggoKLS0tCgojIyBELiDmlYXpmpzmjpLmn6UKCnwg546w6LGhIHwg5Y6f5ZugIHwg5aSE55CGIHwKfCAtLS0gfCAtLS0gfCAtLS0gfAp8IOmhtemdouepuueZvSAvIOaOp+WItuWPsOaKpSBjcnlwdG8g5pyq5a6a5LmJIHwg55SoIGBmaWxlOi8vYCDmiZPlvIAgfCDmlLnnlKggYGh0dHA6Ly9sb2NhbGhvc3RgIHwKfCDlnLDlm77nqbrnmb0gfCDmnKrloasgS2V5IOS4lCBDRE4g6KKr5aKZIHwg5o2i572R57uc5oiW5aGrIEtleSB8Cnwg6aG25qCP5pi+56S644CM5YaF572u6ZO+44CNIHwg5pyq6L+e55yf6ZO+IHwg5oyJIEIg5rWB56iL6YOo572y77yb5LiN5b2x5ZON5Yqf6IO95ryU56S6IHwKfCDpg6jnvbLohJrmnKzmiqUgcmVsYXllciDkuI3lj6/ovr4gfCDnvZHlhbPmnKrlkK/liqjmiJbnq6/lj6PljaDnlKggfCDmo4Dmn6UgODc4NyDnq6/lj6PvvIxgY3VybCAvaGVhbHRoYCB8Cnwg5Lqk5piTIHJldmVydCB8IOi6q+S7veaXoOadg+mZkCB8IOWIh+aNouS4uueuoeeQhuWRmC/mlZHliqnnq5nouqvku73lho3mk43kvZwgfAp8IGBTdGFjayB0b28gZGVlcGAg57yW6K+R6ZSZ6K+vIHwg5ZCI57qm5Ye95pWw5Y+C5pWw6L+H5aSaIHwg5bey55So57uT5p6E5L2T5YWl5Y+C6KeE6YG/77yM5Yu/6ZqP5oSP5ouG5byAIHwKfCBQYWdlcyA0MDQgfCDku5PlupPlkI3kuI7ot6/lvoTkuI3nrKYgfCDorr/pl64gYGh0dHBzOi8vPOeUqOaIt+WQjT4uZ2l0aHViLmlvLzzku5PlupPlkI0+L2AgfAo=
+# 部署手册
+
+本项目有两条部署线，互不依赖：
+
+| 形态 | 说明 | 适用场景 |
+| --- | --- | --- |
+| **A. 静态站点** | 纯前端 + 内置模拟链，开箱即用 | GitHub Pages / Vercel / Replit 演示 |
+| **B. 真实上链** | WSL2 + FISCO BCOS 3.x + 本地签名网关 | 课程作业 / 生产验证 |
+
+---
+
+## A. 静态站点部署
+
+### A1. 本地预览（必须先起 HTTP 服务，不能双击打开 file://）
+
+```bash
+cd zz-animal-chain
+npx serve . -l 5173          # 或 python -m http.server 5173
+```
+打开 <http://localhost:5173>。
+
+> `crypto.subtle`（SHA-256）要求安全上下文，`file://` 下可能不可用，务必用 http://localhost。
+
+### A2. GitHub Pages（推荐，免费）
+
+#### 方式一：一键脚本（最省事）
+
+双击项目根目录的 **`deploy-github.bat`**（Git Bash 里执行 `bash deploy-github.sh` 亦可），按提示输入 GitHub 用户名和 Token：
+
+```
+请输入 GitHub 用户名: xxx
+请输入 GitHub Personal Access Token: （粘贴，不回显）
+```
+
+Token：<https://github.com/settings/tokens> → Generate new token (classic) → 勾选 `repo`、`workflow`。
+
+脚本自动完成：校验 Token → 建仓（默认 `zz-animal-chain`）→ git 提交 → 推送 main → 开启 Pages(Actions) → 等待构建 → 打印链接。推送后会**自动擦除本地 remote 里的明文 Token**。改仓库名：`bash deploy-github.sh 你的仓库名`。
+
+#### 方式二：手动建仓
+
+1. 在 GitHub 新建空仓库（如 `zz-animal-rescue-chain`）
+2. 本地初始化并推送：
+   ```bash
+   cd zz-animal-chain
+   git init && git add . && git commit -m "feat: 郑州流浪动物救助链 DApp"
+   git remote add origin https://github.com/<用户名>/zz-animal-rescue-chain.git
+   git push -u origin main
+   ```
+3. 仓库 → **Settings → Pages → Build and deployment → Source** 选 **GitHub Actions**
+4. 推送后 `.github/workflows/pages.yml` 自动构建，约 1 分钟后可访问：
+   `https://<用户名>.github.io/zz-animal-rescue-chain/`
+5. 仓库名若就是 `<用户名>.github.io`，根路径直接就是 `https://<用户名>.github.io/`
+
+> 若仓库为私有，需升级到 GitHub Pro 才能开启 Pages；公开仓库免费。
+
+### A3. Vercel（备选）
+
+```bash
+npx vercel --prod        # 首次按提示登录，Project 类型选 Other / Static
+```
+或网页端 Import Git Repository → Framework Preset 选 **Other** → Build Command 留空 → Output Directory `.`。
+
+### A4. Replit（备选）
+
+新建 Repl → Import from GitHub → Run 命令填 `python3 -m http.server 3000` → 开放 3000 端口。
+
+---
+
+## B. WSL2 + FISCO BCOS 真实上链
+
+### B1. 安装 WSL2（Windows PowerShell，管理员）
+
+```powershell
+wsl --install -d Ubuntu-22.04
+```
+重启后设置用户名密码，进入 Ubuntu 终端。
+
+### B2. 搭建 FISCO BCOS 3.x 单群组四节点链
+
+```bash
+sudo apt update && sudo apt install -y curl openssl wget
+cd ~
+curl -#LO https://github.com/FISCO-BCOS/FISCO-BCOS/releases/download/v3.6.0/build_chain.sh
+chmod +x build_chain.sh
+# -p 依次为 p2p / channel / JSON-RPC 起始端口，这里 RPC = 8545
+bash build_chain.sh -l 127.0.0.1:4 -o nodes -p 30300,20200,8545
+bash nodes/127.0.0.1/start_all.sh
+```
+
+验证：
+
+```bash
+ps aux | grep fisco-bcos | grep -v grep | wc -l      # 应为 4
+curl -s -X POST -H 'Content-Type: application/json' \
+  --data '{"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":1}' \
+  http://127.0.0.1:8545
+# 返回类似 {"jsonrpc":"2.0","id":1,"result":"0x1"}
+```
+
+常用命令：`bash nodes/127.0.0.1/stop_all.sh` 停止；`tail -f nodes/127.0.0.1/node0/log/*` 看日志。
+
+> WSL2 的 localhost 转发默认开启，Windows 侧可直接访问 `http://127.0.0.1:8545`。
+
+### B3. 编译合约
+
+```bash
+cd /mnt/c/Users/枫/WorkBuddy/2026-09-22-14-11-58/zz-animal-chain   # 或在本机 PowerShell 执行
+npm i
+npm run compile
+```
+
+产物：`contracts/CharityPoints.abi.json`、`*.bin` 等。
+
+### B4. 准备签名账户
+
+```bash
+cd scripts/relayer && npm i
+node -e "const {ethers}=require('ethers');const w=ethers.Wallet.createRandom();console.log(w.privateKey,w.address)"
+```
+
+- FISCO BCOS 3.x 交易需要 gas：请用控制台（或 faucet）向该地址转入少量 gas；
+- 若链启用了免费 gas 模式可跳过；
+- 更省事的选择：部署 **WeBASE-Front**，用其托管账户与合约 IDE。
+
+### B5. 启动签名网关
+
+```bash
+cd scripts/relayer
+PRIVATE_KEY=0x你的私钥 RPC_URL=http://127.0.0.1:8545 node server.js
+# 监听 http://127.0.0.1:8787
+curl http://127.0.0.1:8787/health
+```
+
+### B6. 部署合约并回填前端
+
+```bash
+cd zz-animal-chain
+node scripts/deploy-chain.js --rpc http://127.0.0.1:8545 --relayer http://127.0.0.1:8787
+```
+
+脚本会自动：部署三份合约 → 建立合约间引用（`setPointsContract` / `setRescueLedger`）→ 授权救助站与领养合约 → 把地址写回 `assets/js/config.js` 并把 `driver` 改为 `fisco`。
+
+刷新页面，右上角应显示 **FISCO BCOS · 区块 #N**。
+
+> 若网关不可用，前端会自动回退到内置模拟链并在控制台提示，不会白屏。
+
+---
+
+## C. 高德地图 Key
+
+1. 打开 <https://console.amap.com> → 应用管理 → 创建新应用
+2. 添加 Key → 服务平台选 **Web端(JS API)**
+3. 复制 Key 与安全密钥 jscode，填入 `assets/js/config.js`：
+   ```js
+   AMAP_KEY: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+   AMAP_SECURITY_CODE: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+   ```
+4. 刷新页面即可（顶栏提示条消失）
+
+未配置时自动降级为 Leaflet + 高德公开瓦片，标记 / 筛选 / 弹窗 / 一键导航功能完全一致。
+
+---
+
+## D. 故障排查
+
+| 现象 | 原因 | 处理 |
+| --- | --- | --- |
+| 页面空白 / 控制台报 crypto 未定义 | 用 `file://` 打开 | 改用 `http://localhost` |
+| 地图空白 | 未填 Key 且 CDN 被墙 | 换网络或填 Key |
+| 顶栏显示「内置链」 | 未连真链 | 按 B 流程部署；不影响功能演示 |
+| 部署脚本报 relayer 不可达 | 网关未启动或端口占用 | 检查 8787 端口，`curl /health` |
+| 交易 revert | 身份无权限 | 切换为管理员/救助站身份再操作 |
+| `Stack too deep` 编译错误 | 合约函数参数过多 | 已用结构体入参规避，勿随意拆开 |
+| Pages 404 | 仓库名与路径不符 | 访问 `https://<用户名>.github.io/<仓库名>/` |

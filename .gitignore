@@ -1,1 +1,9 @@
-bm9kZV9tb2R1bGVzLwouRFNfU3RvcmUKVGh1bWJzLmRiCioubG9nCioudG1wCnNjcmlwdHMvZGVwbG95LmxvY2FsLmpzb24Kc2NyaXB0cy9yZWxheWVyL25vZGVfbW9kdWxlcy8KLnZzY29kZS8KLmlkZWEvCg==
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+scripts/deploy.local.json
+scripts/relayer/node_modules/
+.vscode/
+.idea/

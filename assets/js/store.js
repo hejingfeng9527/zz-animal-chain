@@ -1,1 +1,274 @@
-LyoqCiAqIHN0b3JlLmpzIOKAlOKAlCDkuJrliqHlsYLvvJrmiorpk77kuIrmlbDmja7mlbTnkIbmiJDpobXpnaLpnIDopoHnmoTlvaLmgIEKICog5omA5pyJ5YaZ5pON5L2c6YO957uP6L+HIFpaQ2hhaW4uc2VuZO+8jOi/lOWbnuS6pOaYk+WbnuaJp++8iHR4SGFzaCAvIGJsb2NrTnVtYmVy77yJCiAqLwooZnVuY3Rpb24gKGdsb2JhbCkgewogICd1c2Ugc3RyaWN0JzsKCiAgY29uc3QgQyA9ICgpID0+IGdsb2JhbC5aWkNoYWluOwogIGNvbnN0IENGRyA9IGdsb2JhbC5aWl9DT05GSUc7CgogIGZ1bmN0aW9uIHBhcnNlTWV0YShzKSB7CiAgICBpZiAoIXMpIHJldHVybiB7fTsKICAgIHRyeSB7IGNvbnN0IG8gPSBKU09OLnBhcnNlKHMpOyByZXR1cm4gKG8gJiYgdHlwZW9mIG8gPT09ICdvYmplY3QnKSA/IG8gOiB7IGRlc2M6IHMgfTsgfQogICAgY2F0Y2ggKGUpIHsgcmV0dXJuIHsgZGVzYzogcyB9OyB9CiAgfQoKICBmdW5jdGlvbiBkZWNvcmF0ZShhKSB7CiAgICBpZiAoIWEgfHwgIWEuaWQpIHJldHVybiBudWxsOwogICAgY29uc3QgbWV0YSA9IHBhcnNlTWV0YShhLm1ldGFVUkkpOwogICAgcmV0dXJuIE9iamVjdC5hc3NpZ24oe30sIGEsIHsKICAgICAgbWV0YSwKICAgICAgbGF0OiBhLmxhdDFlNiAvIDFlNiwKICAgICAgbG5nOiBhLmxuZzFlNiAvIDFlNiwKICAgICAgc3RhdHVzVGV4dDogQ0ZHLlNUQVRVU1thLnN0YXR1c10gfHwgJ+acquefpScsCiAgICAgIHNldmVyaXR5VGV4dDogQ0ZHLlNFVkVSSVRZW2Euc2V2ZXJpdHldIHx8ICfmnKrnn6UnLAogICAgICByZXBvcnRlck5hbWU6IGdsb2JhbC5aWkF1dGgubmFtZU9mKGEucmVwb3J0ZXIpLAogICAgICBzaGVsdGVyTmFtZTogYS5zaGVsdGVyICYmIGEuc2hlbHRlciAhPT0gJzB4JyArICcwJy5yZXBlYXQoNDApID8gZ2xvYmFsLlpaQXV0aC5uYW1lT2YoYS5zaGVsdGVyKSA6ICfigJQnLAogICAgICBndWFyZGlhbk5hbWU6IGEuZ3VhcmRpYW4gJiYgYS5ndWFyZGlhbiAhPT0gJzB4JyArICcwJy5yZXBlYXQoNDApID8gZ2xvYmFsLlpaQXV0aC5uYW1lT2YoYS5ndWFyZGlhbikgOiAn4oCUJywKICAgICAgdGltZVRleHQ6IGZtdFRzKGEuY3JlYXRlZEF0KQogICAgfSk7CiAgfQoKICBmdW5jdGlvbiBmbXRUcyhzZWMpIHsKICAgIGlmICghc2VjKSByZXR1cm4gJ+KAlCc7CiAgICBjb25zdCBkID0gbmV3IERhdGUoc2VjICogMTAwMCk7CiAgICBjb25zdCBwID0gKG4pID0+IFN0cmluZyhuKS5wYWRTdGFydCgyLCAnMCcpOwogICAgcmV0dXJuIGQuZ2V0RnVsbFllYXIoKSArICctJyArIHAoZC5nZXRNb250aCgpICsgMSkgKyAnLScgKyBwKGQuZ2V0RGF0ZSgpKSArICcgJyArIHAoZC5nZXRIb3VycygpKSArICc6JyArIHAoZC5nZXRNaW51dGVzKCkpOwogIH0KCiAgLyoqIOWbvueJh+WOi+e8qeS4uue8qeeVpeWbviBkYXRhVVJM77yI6YG/5YWNIGxvY2FsU3RvcmFnZSDniIbmjonvvIkgKi8KICBmdW5jdGlvbiB0aHVtYkZpbGUoZmlsZSwgbWF4U2lkZSkgewogICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgaWYgKCFmaWxlKSByZXR1cm4gcmVzb2x2ZShudWxsKTsKICAgICAgbWF4U2lkZSA9IG1heFNpZGUgfHwgNDgwOwogICAgICBjb25zdCByZWFkZXIgPSBuZXcgRmlsZVJlYWRlcigpOwogICAgICByZWFkZXIub25sb2FkID0gKCkgPT4gewogICAgICAgIGNvbnN0IGltZyA9IG5ldyBJbWFnZSgpOwogICAgICAgIGltZy5vbmxvYWQgPSAoKSA9PiB7CiAgICAgICAgICBjb25zdCBzY2FsZSA9IE1hdGgubWluKDEsIG1heFNpZGUgLyBNYXRoLm1heChpbWcud2lkdGgsIGltZy5oZWlnaHQpKTsKICAgICAgICAgIGNvbnN0IGN2ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnY2FudmFzJyk7CiAgICAgICAgICBjdi53aWR0aCA9IE1hdGgucm91bmQoaW1nLndpZHRoICogc2NhbGUpOwogICAgICAgICAgY3YuaGVpZ2h0ID0gTWF0aC5yb3VuZChpbWcuaGVpZ2h0ICogc2NhbGUpOwogICAgICAgICAgY3YuZ2V0Q29udGV4dCgnMmQnKS5kcmF3SW1hZ2UoaW1nLCAwLCAwLCBjdi53aWR0aCwgY3YuaGVpZ2h0KTsKICAgICAgICAgIHJlc29sdmUoY3YudG9EYXRhVVJMKCdpbWFnZS9qcGVnJywgMC43MikpOwogICAgICAgIH07CiAgICAgICAgaW1nLm9uZXJyb3IgPSByZWplY3Q7CiAgICAgICAgaW1nLnNyYyA9IHJlYWRlci5yZXN1bHQ7CiAgICAgIH07CiAgICAgIHJlYWRlci5vbmVycm9yID0gcmVqZWN0OwogICAgICByZWFkZXIucmVhZEFzRGF0YVVSTChmaWxlKTsKICAgIH0pOwogIH0KCiAgY29uc3QgU3RvcmUgPSB7CiAgICBmbXRUcywKICAgIHBhcnNlTWV0YSwKICAgIHRodW1iRmlsZSwKCiAgICBhc3luYyBpbml0KCkgewogICAgICBhd2FpdCBDKCkuaW5pdCgpOwogICAgICBpZiAoQ0ZHLmNoYWluLmF1dG9TZWVkKSBhd2FpdCBnbG9iYWwuWlpTZWVkLmVuc3VyZSgpOwogICAgICByZXR1cm4gQygpLnN0YXRzKCk7CiAgICB9LAoKICAgIC8qIC0tLS0tLS0tLS0tLS0tLS0g5Yqo54mp5qGj5qGIIC0tLS0tLS0tLS0tLS0tLS0gKi8KICAgIGFzeW5jIGFuaW1hbHMoKSB7CiAgICAgIGNvbnN0IGxpc3QgPSBhd2FpdCBDKCkuY2FsbCgncmVzY3VlTGVkZ2VyJywgJ2dldEFuaW1hbHMnLCBbMCwgNTAwXSk7CiAgICAgIHJldHVybiAobGlzdCB8fCBbXSkubWFwKGRlY29yYXRlKS5maWx0ZXIoQm9vbGVhbik7CiAgICB9LAogICAgYXN5bmMgYW5pbWFsKGlkKSB7CiAgICAgIGNvbnN0IGEgPSBkZWNvcmF0ZShhd2FpdCBDKCkuY2FsbCgncmVzY3VlTGVkZ2VyJywgJ2dldEFuaW1hbCcsIFtOdW1iZXIoaWQpXSkpOwogICAgICBpZiAoIWEpIHJldHVybiBudWxsOwogICAgICBhLnRyYW5zZmVycyA9IGF3YWl0IEMoKS5jYWxsKCdyZXNjdWVMZWRnZXInLCAnZ2V0VHJhbnNmZXJzJywgW051bWJlcihpZCldKTsKICAgICAgYS5yZXZpZXcgPSBhd2FpdCBDKCkuY2FsbCgncmVzY3VlTGVkZ2VyJywgJ2dldFJldmlldycsIFtOdW1iZXIoaWQpXSk7CiAgICAgIHJldHVybiBhOwogICAgfSwKICAgIGFzeW5jIHRyYW5zZmVycyhpZCkgeyByZXR1cm4gYXdhaXQgQygpLmNhbGwoJ3Jlc2N1ZUxlZGdlcicsICdnZXRUcmFuc2ZlcnMnLCBbTnVtYmVyKGlkKV0pOyB9LAoKICAgIGFzeW5jIHBvaXMoKSB7CiAgICAgIGNvbnN0IGxpc3QgPSBhd2FpdCBDKCkuY2FsbCgncmVzY3VlTGVkZ2VyJywgJ2dldFBPSXMnLCBbXSk7CiAgICAgIHJldHVybiAobGlzdCB8fCBbXSkubWFwKChwKSA9PiBPYmplY3QuYXNzaWduKHt9LCBwLCB7CiAgICAgICAgbGF0OiBwLmxhdDFlNiAvIDFlNiwgbG5nOiBwLmxuZzFlNiAvIDFlNiwKICAgICAgICBraW5kVGV4dDogQ0ZHLlBPSV9LSU5EW3Aua2luZF0gfHwgJ+eCueS9jScsCiAgICAgICAgb3duZXJOYW1lOiBnbG9iYWwuWlpBdXRoLm5hbWVPZihwLm93bmVyKQogICAgICB9KSk7CiAgICB9LAoKICAgIC8qKiDkuIrmiqXnur/ntKLvvJrlhYjnrpcgU0hBLTI1NiDlrZjor4Hlk4jluIzvvIzlho3kuIrpk74gKi8KICAgIGFzeW5jIHJlcG9ydChmb3JtLCBmaWxlKSB7CiAgICAgIGNvbnN0IG1lID0gZ2xvYmFsLlpaQXV0aC5jdXJyZW50KCk7CiAgICAgIGxldCBwaG90b0hhc2ggPSBudWxsLCB0aHVtYiA9IG51bGw7CiAgICAgIGlmIChmaWxlKSB7CiAgICAgICAgdGh1bWIgPSBhd2FpdCB0aHVtYkZpbGUoZmlsZSk7CiAgICAgICAgcGhvdG9IYXNoID0gYXdhaXQgZ2xvYmFsLlpaSGFzaC5zaGEyNTZIZXgoZmlsZSk7CiAgICAgIH0KICAgICAgY29uc3QgcGF5bG9hZCA9IHsKICAgICAgICBzcGVjaWVzOiBmb3JtLnNwZWNpZXMsIHRpdGxlOiBmb3JtLnRpdGxlLCBhZGRyZXNzVGV4dDogZm9ybS5hZGRyZXNzVGV4dCwKICAgICAgICBsYXQ6IE51bWJlcihmb3JtLmxhdCksIGxuZzogTnVtYmVyKGZvcm0ubG5nKSwgc2V2ZXJpdHk6IE51bWJlcihmb3JtLnNldmVyaXR5KSwKICAgICAgICBkZXNjOiBmb3JtLmRlc2MsIGNvbnRhY3Q6IGZvcm0uY29udGFjdCwgdGFnczogZm9ybS50YWdzIHx8IFtdLCBwaG90b0hhc2gKICAgICAgfTsKICAgICAgY29uc3QgZGF0YUhhc2ggPSBhd2FpdCBnbG9iYWwuWlpIYXNoLmhhc2hSZWNvcmQocGF5bG9hZCk7CiAgICAgIGNvbnN0IG1ldGEgPSB7CiAgICAgICAgZGVzYzogZm9ybS5kZXNjLCBjb250YWN0OiBmb3JtLmNvbnRhY3QsIHRhZ3M6IGZvcm0udGFncyB8fCBbXSwKICAgICAgICBwaG90b0hhc2gsIHRodW1iCiAgICAgIH07CiAgICAgIGNvbnN0IHJjID0gYXdhaXQgQygpLnNlbmQoJ3Jlc2N1ZUxlZGdlcicsICdyZXBvcnRBbmltYWwnLCBbewogICAgICAgIGRhdGFIYXNoLCBtZXRhVVJJOiBKU09OLnN0cmluZ2lmeShtZXRhKSwgc3BlY2llczogZm9ybS5zcGVjaWVzLCB0aXRsZTogZm9ybS50aXRsZSwKICAgICAgICBsYXQxZTY6IE1hdGgucm91bmQoTnVtYmVyKGZvcm0ubGF0KSAqIDFlNiksIGxuZzFlNjogTWF0aC5yb3VuZChOdW1iZXIoZm9ybS5sbmcpICogMWU2KSwKICAgICAgICBhZGRyZXNzVGV4dDogZm9ybS5hZGRyZXNzVGV4dCwgc2V2ZXJpdHk6IE51bWJlcihmb3JtLnNldmVyaXR5KQogICAgICB9XSwgeyBmcm9tOiBtZS5hZGRyIH0pOwogICAgICBnbG9iYWwuWlpOb3RpZnkuZnJvbVR4KHJjLCB7IHJlcG9ydGVyOiBtZS5hZGRyIH0pOwogICAgICByZXR1cm4gcmM7CiAgICB9LAoKICAgIGFzeW5jIHJldmlld0FuaW1hbChpZCwgYXBwcm92ZWQsIHJlYXNvbikgewogICAgICBjb25zdCBtZSA9IGdsb2JhbC5aWkF1dGguY3VycmVudCgpOwogICAgICBjb25zdCBhID0gYXdhaXQgQygpLmNhbGwoJ3Jlc2N1ZUxlZGdlcicsICdnZXRBbmltYWwnLCBbTnVtYmVyKGlkKV0pOwogICAgICBjb25zdCByYyA9IGF3YWl0IEMoKS5zZW5kKCdyZXNjdWVMZWRnZXInLCAncmV2aWV3QW5pbWFsJywgW051bWJlcihpZCksIGFwcHJvdmVkLCByZWFzb24gfHwgJyddLCB7IGZyb206IG1lLmFkZHIgfSk7CiAgICAgIGdsb2JhbC5aWk5vdGlmeS5mcm9tVHgocmMsIHsgcmVwb3J0ZXI6IGEgJiYgYS5yZXBvcnRlciB9KTsKICAgICAgcmV0dXJuIHJjOwogICAgfSwKCiAgICBhc3luYyBzZXRTdGF0dXMoaWQsIHN0YXR1cywgbm90ZSwgZmlsZSkgewogICAgICBjb25zdCBtZSA9IGdsb2JhbC5aWkF1dGguY3VycmVudCgpOwogICAgICBjb25zdCBldkhhc2ggPSBmaWxlID8gYXdhaXQgZ2xvYmFsLlpaSGFzaC5zaGEyNTZIZXgoZmlsZSkKICAgICAgICA6IGF3YWl0IGdsb2JhbC5aWkhhc2guc2hhMjU2SGV4KCdzdGF0dXM6JyArIGlkICsgJzonICsgc3RhdHVzICsgJzonICsgKG5vdGUgfHwgJycpKTsKICAgICAgY29uc3QgcmMgPSBhd2FpdCBDKCkuc2VuZCgncmVzY3VlTGVkZ2VyJywgJ3VwZGF0ZVN0YXR1cycsIFtOdW1iZXIoaWQpLCBOdW1iZXIoc3RhdHVzKSwgZXZIYXNoLCBub3RlIHx8ICcnXSwgeyBmcm9tOiBtZS5hZGRyIH0pOwogICAgICBnbG9iYWwuWlpOb3RpZnkuZnJvbVR4KHJjLCB7fSk7CiAgICAgIHJldHVybiByYzsKICAgIH0sCgogICAgYXN5bmMgdHJhbnNmZXIoaWQsIHRvQWRkciwgc3RhdHVzLCBub3RlKSB7CiAgICAgIGNvbnN0IG1lID0gZ2xvYmFsLlpaQXV0aC5jdXJyZW50KCk7CiAgICAgIGNvbnN0IGV2SGFzaCA9IGF3YWl0IGdsb2JhbC5aWkhhc2guc2hhMjU2SGV4KCd0cmFuc2ZlcjonICsgaWQgKyAnOicgKyB0b0FkZHIgKyAnOicgKyBzdGF0dXMpOwogICAgICBjb25zdCByYyA9IGF3YWl0IEMoKS5zZW5kKCdyZXNjdWVMZWRnZXInLCAndHJhbnNmZXJDdXN0b2R5JywgW051bWJlcihpZCksIHRvQWRkciwgTnVtYmVyKHN0YXR1cyksIGV2SGFzaCwgbm90ZSB8fCAnJ10sIHsgZnJvbTogbWUuYWRkciB9KTsKICAgICAgZ2xvYmFsLlpaTm90aWZ5LmZyb21UeChyYywge30pOwogICAgICByZXR1cm4gcmM7CiAgICB9LAoKICAgIC8qIC0tLS0tLS0tLS0tLS0tLS0g6aKG5YW7IC0tLS0tLS0tLS0tLS0tLS0gKi8KICAgIGFzeW5jIGFwcGxpY2F0aW9ucygpIHsKICAgICAgY29uc3QgbGlzdCA9IGF3YWl0IEMoKS5jYWxsKCdhZG9wdGlvbkxlZGdlcicsICdnZXRBcHBsaWNhdGlvbnMnLCBbMCwgNTAwXSk7CiAgICAgIGNvbnN0IG91dCA9IFtdOwogICAgICBmb3IgKGNvbnN0IGFwcCBvZiAobGlzdCB8fCBbXSkpIHsKICAgICAgICBjb25zdCBhbmltYWwgPSBkZWNvcmF0ZShhd2FpdCBDKCkuY2FsbCgncmVzY3VlTGVkZ2VyJywgJ2dldEFuaW1hbCcsIFthcHAuYW5pbWFsSWRdKSk7CiAgICAgICAgY29uc3QgdmlzaXRzID0gYXdhaXQgQygpLmNhbGwoJ2Fkb3B0aW9uTGVkZ2VyJywgJ2dldFZpc2l0cycsIFthcHAuaWRdKTsKICAgICAgICBvdXQucHVzaChPYmplY3QuYXNzaWduKHt9LCBhcHAsIHsKICAgICAgICAgIHN0YWdlVGV4dDogQ0ZHLlNUQUdFW2FwcC5zdGFnZV0gfHwgJ+acquefpScsCiAgICAgICAgICBhcHBsaWNhbnROYW1lOiBnbG9iYWwuWlpBdXRoLm5hbWVPZihhcHAuYXBwbGljYW50KSwKICAgICAgICAgIGFuaW1hbDogYW5pbWFsIHx8IHsgdGl0bGU6ICcjJyArIGFwcC5hbmltYWxJZCB9LAogICAgICAgICAgdmlzaXRzOiB2aXNpdHMgfHwgW10sCiAgICAgICAgICBmb3JtOiBwYXJzZU1ldGEoYXBwLmZvcm1VUkkpLAogICAgICAgICAgY3JlYXRlZFRleHQ6IGZtdFRzKGFwcC5jcmVhdGVkQXQpLAogICAgICAgICAgc2lnbmVkVGV4dDogYXBwLnNpZ25lZEF0ID8gZm10VHMoYXBwLnNpZ25lZEF0KSA6ICfigJQnCiAgICAgICAgfSkpOwogICAgICB9CiAgICAgIHJldHVybiBvdXQ7CiAgICB9LAoKICAgIGFzeW5jIGFwcGx5QWRvcHRpb24oYW5pbWFsSWQsIGZvcm0pIHsKICAgICAgY29uc3QgbWUgPSBnbG9iYWwuWlpBdXRoLmN1cnJlbnQoKTsKICAgICAgY29uc3QgZm9ybUhhc2ggPSBhd2FpdCBnbG9iYWwuWlpIYXNoLmhhc2hSZWNvcmQoZm9ybSk7CiAgICAgIGNvbnN0IHJjID0gYXdhaXQgQygpLnNlbmQoJ2Fkb3B0aW9uTGVkZ2VyJywgJ2FwcGx5Rm9yJywgW051bWJlcihhbmltYWxJZCksIGZvcm1IYXNoLCBKU09OLnN0cmluZ2lmeShmb3JtKV0sIHsgZnJvbTogbWUuYWRkciB9KTsKICAgICAgZ2xvYmFsLlpaTm90aWZ5LmZyb21UeChyYywgeyBhcHBsaWNhbnQ6IG1lLmFkZHIgfSk7CiAgICAgIHJldHVybiByYzsKICAgIH0sCgogICAgYXN5bmMgYmdDaGVjayhpZCwgcGFzc2VkLCBub3RlLCBmaWxlKSB7CiAgICAgIGNvbnN0IG1lID0gZ2xvYmFsLlpaQXV0aC5jdXJyZW50KCk7CiAgICAgIGNvbnN0IGhhc2ggPSBmaWxlID8gYXdhaXQgZ2xvYmFsLlpaSGFzaC5zaGEyNTZIZXgoZmlsZSkKICAgICAgICA6IGF3YWl0IGdsb2JhbC5aWkhhc2guc2hhMjU2SGV4KCdiZzonICsgaWQgKyAnOicgKyAobm90ZSB8fCAnJykpOwogICAgICBjb25zdCByYyA9IGF3YWl0IEMoKS5zZW5kKCdhZG9wdGlvbkxlZGdlcicsICdiYWNrZ3JvdW5kQ2hlY2snLCBbTnVtYmVyKGlkKSwgaGFzaCwgcGFzc2VkLCBub3RlIHx8ICcnXSwgeyBmcm9tOiBtZS5hZGRyIH0pOwogICAgICBjb25zdCBhcHAgPSBhd2FpdCBDKCkuY2FsbCgnYWRvcHRpb25MZWRnZXInLCAnZ2V0QXBwbGljYXRpb24nLCBbTnVtYmVyKGlkKV0pOwogICAgICBnbG9iYWwuWlpOb3RpZnkuZnJvbVR4KHJjLCB7IGFwcGxpY2FudDogYXBwICYmIGFwcC5hcHBsaWNhbnQgfSk7CiAgICAgIHJldHVybiByYzsKICAgIH0sCgogICAgYXN5bmMgcmV2aWV3QXBwbGljYXRpb24oaWQsIGFwcHJvdmVkLCByZWFzb24sIHBsYW4pIHsKICAgICAgY29uc3QgbWUgPSBnbG9iYWwuWlpBdXRoLmN1cnJlbnQoKTsKICAgICAgY29uc3QgYXBwID0gYXdhaXQgQygpLmNhbGwoJ2Fkb3B0aW9uTGVkZ2VyJywgJ2dldEFwcGxpY2F0aW9uJywgW051bWJlcihpZCldKTsKICAgICAgY29uc3QgcmMgPSBhd2FpdCBDKCkuc2VuZCgnYWRvcHRpb25MZWRnZXInLCAncmV2aWV3QXBwbGljYXRpb24nLAogICAgICAgIFtOdW1iZXIoaWQpLCBhcHByb3ZlZCwgcmVhc29uIHx8ICcnLCBwbGFuIHx8ICcnXSwgeyBmcm9tOiBtZS5hZGRyIH0pOwogICAgICBnbG9iYWwuWlpOb3RpZnkuZnJvbVR4KHJjLCB7IGFwcGxpY2FudDogYXBwICYmIGFwcC5hcHBsaWNhbnQgfSk7CiAgICAgIHJldHVybiByYzsKICAgIH0sCgogICAgYXN5bmMgc2lnbihpZCwgZmlsZSkgewogICAgICBjb25zdCBtZSA9IGdsb2JhbC5aWkF1dGguY3VycmVudCgpOwogICAgICBjb25zdCBhcHAgPSBhd2FpdCBDKCkuY2FsbCgnYWRvcHRpb25MZWRnZXInLCAnZ2V0QXBwbGljYXRpb24nLCBbTnVtYmVyKGlkKV0pOwogICAgICBjb25zdCBjb250cmFjdFRleHQgPSAn6aKG5YW75Y2P6K6uICMnICsgaWQgKyAnIHwg5Yqo54mpICMnICsgKGFwcCA/IGFwcC5hbmltYWxJZCA6ICcnKSArCiAgICAgICAgJyB8IOmihuWFu+S6uiAnICsgKGFwcCA/IGFwcC5hcHBsaWNhbnQgOiAnJykgKyAnIHwg5Ye65YCf5pa5ICcgKyBtZS5hZGRyOwogICAgICBjb25zdCBoYXNoID0gZmlsZSA/IGF3YWl0IGdsb2JhbC5aWkhhc2guc2hhMjU2SGV4KGZpbGUpIDogYXdhaXQgZ2xvYmFsLlpaSGFzaC5zaGEyNTZIZXgoY29udHJhY3RUZXh0KTsKICAgICAgY29uc3QgcmMgPSBhd2FpdCBDKCkuc2VuZCgnYWRvcHRpb25MZWRnZXInLCAnc2lnbkNvbnRyYWN0JywgW051bWJlcihpZCksIGhhc2hdLCB7IGZyb206IG1lLmFkZHIgfSk7CiAgICAgIGdsb2JhbC5aWk5vdGlmeS5mcm9tVHgocmMsIHsgYXBwbGljYW50OiBhcHAgJiYgYXBwLmFwcGxpY2FudCB9KTsKICAgICAgcmV0dXJuIHJjOwogICAgfSwKCiAgICBhc3luYyBhZGRWaXNpdChpZCwgbm90ZSwgcGFzc2VkLCBmaWxlKSB7CiAgICAgIGNvbnN0IG1lID0gZ2xvYmFsLlpaQXV0aC5jdXJyZW50KCk7CiAgICAgIGNvbnN0IGFwcCA9IGF3YWl0IEMoKS5jYWxsKCdhZG9wdGlvbkxlZGdlcicsICdnZXRBcHBsaWNhdGlvbicsIFtOdW1iZXIoaWQpXSk7CiAgICAgIGNvbnN0IGhhc2ggPSBmaWxlID8gYXdhaXQgZ2xvYmFsLlpaSGFzaC5zaGEyNTZIZXgoZmlsZSkKICAgICAgICA6IGF3YWl0IGdsb2JhbC5aWkhhc2guc2hhMjU2SGV4KCd2aXNpdDonICsgaWQgKyAnOicgKyBEYXRlLm5vdygpKTsKICAgICAgY29uc3QgcmMgPSBhd2FpdCBDKCkuc2VuZCgnYWRvcHRpb25MZWRnZXInLCAnYWRkVmlzaXRSZWNvcmQnLCBbTnVtYmVyKGlkKSwgaGFzaCwgbm90ZSB8fCAnJywgcGFzc2VkXSwgeyBmcm9tOiBtZS5hZGRyIH0pOwogICAgICBnbG9iYWwuWlpOb3RpZnkuZnJvbVR4KHJjLCB7IGFwcGxpY2FudDogYXBwICYmIGFwcC5hcHBsaWNhbnQgfSk7CiAgICAgIHJldHVybiByYzsKICAgIH0sCgogICAgYXN5bmMgY29tcGxldGVBZG9wdGlvbihpZCkgewogICAgICBjb25zdCBtZSA9IGdsb2JhbC5aWkF1dGguY3VycmVudCgpOwogICAgICBjb25zdCBhcHAgPSBhd2FpdCBDKCkuY2FsbCgnYWRvcHRpb25MZWRnZXInLCAnZ2V0QXBwbGljYXRpb24nLCBbTnVtYmVyKGlkKV0pOwogICAgICBjb25zdCByYyA9IGF3YWl0IEMoKS5zZW5kKCdhZG9wdGlvbkxlZGdlcicsICdjb21wbGV0ZUFkb3B0aW9uJywgW051bWJlcihpZCldLCB7IGZyb206IG1lLmFkZHIgfSk7CiAgICAgIGdsb2JhbC5aWk5vdGlmeS5mcm9tVHgocmMsIHsgYXBwbGljYW50OiBhcHAgJiYgYXBwLmFwcGxpY2FudCB9KTsKICAgICAgcmV0dXJuIHJjOwogICAgfSwKCiAgICBhc3luYyBmbGFnQWJhbmRvbihpZCwgcmVhc29uKSB7CiAgICAgIGNvbnN0IG1lID0gZ2xvYmFsLlpaQXV0aC5jdXJyZW50KCk7CiAgICAgIGNvbnN0IGFwcCA9IGF3YWl0IEMoKS5jYWxsKCdhZG9wdGlvbkxlZGdlcicsICdnZXRBcHBsaWNhdGlvbicsIFtOdW1iZXIoaWQpXSk7CiAgICAgIGNvbnN0IHJjID0gYXdhaXQgQygpLnNlbmQoJ2Fkb3B0aW9uTGVkZ2VyJywgJ2NhbmNlbE9yRmxhZycsIFtOdW1iZXIoaWQpLCB0cnVlLCByZWFzb24gfHwgJyddLCB7IGZyb206IG1lLmFkZHIgfSk7CiAgICAgIGdsb2JhbC5aWk5vdGlmeS5mcm9tVHgocmMsIHsgYXBwbGljYW50OiBhcHAgJiYgYXBwLmFwcGxpY2FudCB9KTsKICAgICAgcmV0dXJuIHJjOwogICAgfSwKCiAgICAvKiAtLS0tLS0tLS0tLS0tLS0tIOenr+WIhiAtLS0tLS0tLS0tLS0tLS0tICovCiAgICBhc3luYyBwb2ludHNPZihhZGRyKSB7CiAgICAgIGNvbnN0IFtiYWwsIGVhcm5lZCwgYXdhcmRzXSA9IGF3YWl0IFByb21pc2UuYWxsKFsKICAgICAgICBDKCkuY2FsbCgnY2hhcml0eVBvaW50cycsICdiYWxhbmNlT2YnLCBbYWRkcl0pLAogICAgICAgIEMoKS5jYWxsKCdjaGFyaXR5UG9pbnRzJywgJ3RvdGFsRWFybmVkJywgW2FkZHJdKSwKICAgICAgICBDKCkuY2FsbCgnY2hhcml0eVBvaW50cycsICdhd2FyZHNPZicsIFthZGRyXSkKICAgICAgXSk7CiAgICAgIHJldHVybiB7IGJhbGFuY2U6IGJhbCB8fCAwLCBlYXJuZWQ6IGVhcm5lZCB8fCAwLCBhd2FyZHM6IGF3YXJkcyB8fCBbXSB9OwogICAgfSwKCiAgICBhc3luYyBsZWFkZXJib2FyZCgpIHsKICAgICAgY29uc3Qgcm93cyA9IGF3YWl0IEMoKS5jYWxsKCdjaGFyaXR5UG9pbnRzJywgJ2xlYWRlcmJvYXJkJywgWzUwXSk7CiAgICAgIHJldHVybiAocm93cyB8fCBbXSkubWFwKChyLCBpKSA9PiBPYmplY3QuYXNzaWduKHt9LCByLCB7CiAgICAgICAgcmFuazogaSArIDEsIG5hbWU6IGdsb2JhbC5aWkF1dGgubmFtZU9mKHIuYWRkciksCiAgICAgICAgYXdhcmRzOiBbXQogICAgICB9KSk7CiAgICB9LAoKICAgIGFzeW5jIGF3YXJkUG9pbnRzKGFkZHIsIGFtb3VudCwgcmVhc29uKSB7CiAgICAgIGNvbnN0IG1lID0gZ2xvYmFsLlpaQXV0aC5jdXJyZW50KCk7CiAgICAgIGNvbnN0IHJjID0gYXdhaXQgQygpLnNlbmQoJ2NoYXJpdHlQb2ludHMnLCAnYXdhcmQnLCBbYWRkciwgTnVtYmVyKGFtb3VudCksIHJlYXNvbiB8fCAn566h55CG5ZGY5Y+R5pS+J10sIHsgZnJvbTogbWUuYWRkciB9KTsKICAgICAgZ2xvYmFsLlpaTm90aWZ5LmZyb21UeChyYywge30pOwogICAgICByZXR1cm4gcmM7CiAgICB9LAoKICAgIC8qIC0tLS0tLS0tLS0tLS0tLS0g5a2Y6K+B5qCh6aqMIC0tLS0tLS0tLS0tLS0tLS0gKi8KICAgIC8qKiDnlKjpk77kuIrmlbDmja7ph43lu7rnur/ntKLljp/mlofvvIzph43mlrDorqHnrpflk4jluIzvvIzmr5Tlr7nmmK/lkKbooqvnr6HmlLkgKi8KICAgIGFzeW5jIHZlcmlmeUFuaW1hbChhKSB7CiAgICAgIGNvbnN0IHBheWxvYWQgPSB7CiAgICAgICAgc3BlY2llczogYS5zcGVjaWVzLCB0aXRsZTogYS50aXRsZSwgYWRkcmVzc1RleHQ6IGEuYWRkcmVzc1RleHQsCiAgICAgICAgbGF0OiBOdW1iZXIoKGEubGF0MWU2IC8gMWU2KS50b0ZpeGVkKDYpKSwgbG5nOiBOdW1iZXIoKGEubG5nMWU2IC8gMWU2KS50b0ZpeGVkKDYpKSwKICAgICAgICBzZXZlcml0eTogYS5zZXZlcml0eSwgZGVzYzogYS5tZXRhLmRlc2MsIGNvbnRhY3Q6IGEubWV0YS5jb250YWN0LAogICAgICAgIHRhZ3M6IGEubWV0YS50YWdzIHx8IFtdLCBwaG90b0hhc2g6IGEubWV0YS5waG90b0hhc2ggfHwgbnVsbAogICAgICB9OwogICAgICBjb25zdCByZWNvbXB1dGVkID0gYXdhaXQgZ2xvYmFsLlpaSGFzaC5oYXNoUmVjb3JkKHBheWxvYWQpOwogICAgICByZXR1cm4geyByZWNvbXB1dGVkLCBvbmNoYWluOiBhLmRhdGFIYXNoLCBtYXRjaDogcmVjb21wdXRlZCA9PT0gYS5kYXRhSGFzaCB9OwogICAgfQogIH07CgogIGdsb2JhbC5aWlN0b3JlID0gU3RvcmU7Cn0pKHdpbmRvdyk7Cg==
+/**
+ * store.js —— 业务层：把链上数据整理成页面需要的形态
+ * 所有写操作都经过 ZZChain.send，返回交易回执（txHash / blockNumber）
+ */
+(function (global) {
+  'use strict';
+
+  const C = () => global.ZZChain;
+  const CFG = global.ZZ_CONFIG;
+
+  function parseMeta(s) {
+    if (!s) return {};
+    try { const o = JSON.parse(s); return (o && typeof o === 'object') ? o : { desc: s }; }
+    catch (e) { return { desc: s }; }
+  }
+
+  function decorate(a) {
+    if (!a || !a.id) return null;
+    const meta = parseMeta(a.metaURI);
+    return Object.assign({}, a, {
+      meta,
+      lat: a.lat1e6 / 1e6,
+      lng: a.lng1e6 / 1e6,
+      statusText: CFG.STATUS[a.status] || '未知',
+      severityText: CFG.SEVERITY[a.severity] || '未知',
+      reporterName: global.ZZAuth.nameOf(a.reporter),
+      shelterName: a.shelter && a.shelter !== '0x' + '0'.repeat(40) ? global.ZZAuth.nameOf(a.shelter) : '—',
+      guardianName: a.guardian && a.guardian !== '0x' + '0'.repeat(40) ? global.ZZAuth.nameOf(a.guardian) : '—',
+      timeText: fmtTs(a.createdAt)
+    });
+  }
+
+  function fmtTs(sec) {
+    if (!sec) return '—';
+    const d = new Date(sec * 1000);
+    const p = (n) => String(n).padStart(2, '0');
+    return d.getFullYear() + '-' + p(d.getMonth() + 1) + '-' + p(d.getDate()) + ' ' + p(d.getHours()) + ':' + p(d.getMinutes());
+  }
+
+  /** 图片压缩为缩略图 dataURL（避免 localStorage 爆掉） */
+  function thumbFile(file, maxSide) {
+    return new Promise((resolve, reject) => {
+      if (!file) return resolve(null);
+      maxSide = maxSide || 480;
+      const reader = new FileReader();
+      reader.onload = () => {
+        const img = new Image();
+        img.onload = () => {
+          const scale = Math.min(1, maxSide / Math.max(img.width, img.height));
+          const cv = document.createElement('canvas');
+          cv.width = Math.round(img.width * scale);
+          cv.height = Math.round(img.height * scale);
+          cv.getContext('2d').drawImage(img, 0, 0, cv.width, cv.height);
+          resolve(cv.toDataURL('image/jpeg', 0.72));
+        };
+        img.onerror = reject;
+        img.src = reader.result;
+      };
+      reader.onerror = reject;
+      reader.readAsDataURL(file);
+    });
+  }
+
+  const Store = {
+    fmtTs,
+    parseMeta,
+    thumbFile,
+
+    async init() {
+      await C().init();
+      if (CFG.chain.autoSeed) await global.ZZSeed.ensure();
+      return C().stats();
+    },
+
+    /* ---------------- 动物档案 ---------------- */
+    async animals() {
+      const list = await C().call('rescueLedger', 'getAnimals', [0, 500]);
+      return (list || []).map(decorate).filter(Boolean);
+    },
+    async animal(id) {
+      const a = decorate(await C().call('rescueLedger', 'getAnimal', [Number(id)]));
+      if (!a) return null;
+      a.transfers = await C().call('rescueLedger', 'getTransfers', [Number(id)]);
+      a.review = await C().call('rescueLedger', 'getReview', [Number(id)]);
+      return a;
+    },
+    async transfers(id) { return await C().call('rescueLedger', 'getTransfers', [Number(id)]); },
+
+    async pois() {
+      const list = await C().call('rescueLedger', 'getPOIs', []);
+      return (list || []).map((p) => Object.assign({}, p, {
+        lat: p.lat1e6 / 1e6, lng: p.lng1e6 / 1e6,
+        kindText: CFG.POI_KIND[p.kind] || '点位',
+        ownerName: global.ZZAuth.nameOf(p.owner)
+      }));
+    },
+
+    /** 上报线索：先算 SHA-256 存证哈希，再上链 */
+    async report(form, file) {
+      const me = global.ZZAuth.current();
+      let photoHash = null, thumb = null;
+      if (file) {
+        thumb = await thumbFile(file);
+        photoHash = await global.ZZHash.sha256Hex(file);
+      }
+      const payload = {
+        species: form.species, title: form.title, addressText: form.addressText,
+        lat: Number(form.lat), lng: Number(form.lng), severity: Number(form.severity),
+        desc: form.desc, contact: form.contact, tags: form.tags || [], photoHash
+      };
+      const dataHash = await global.ZZHash.hashRecord(payload);
+      const meta = {
+        desc: form.desc, contact: form.contact, tags: form.tags || [],
+        photoHash, thumb
+      };
+      const rc = await C().send('rescueLedger', 'reportAnimal', [{
+        dataHash, metaURI: JSON.stringify(meta), species: form.species, title: form.title,
+        lat1e6: Math.round(Number(form.lat) * 1e6), lng1e6: Math.round(Number(form.lng) * 1e6),
+        addressText: form.addressText, severity: Number(form.severity)
+      }], { from: me.addr });
+      global.ZZNotify.fromTx(rc, { reporter: me.addr });
+      return rc;
+    },
+
+    async reviewAnimal(id, approved, reason) {
+      const me = global.ZZAuth.current();
+      const a = await C().call('rescueLedger', 'getAnimal', [Number(id)]);
+      const rc = await C().send('rescueLedger', 'reviewAnimal', [Number(id), approved, reason || ''], { from: me.addr });
+      global.ZZNotify.fromTx(rc, { reporter: a && a.reporter });
+      return rc;
+    },
+
+    async setStatus(id, status, note, file) {
+      const me = global.ZZAuth.current();
+      const evHash = file ? await global.ZZHash.sha256Hex(file)
+        : await global.ZZHash.sha256Hex('status:' + id + ':' + status + ':' + (note || ''));
+      const rc = await C().send('rescueLedger', 'updateStatus', [Number(id), Number(status), evHash, note || ''], { from: me.addr });
+      global.ZZNotify.fromTx(rc, {});
+      return rc;
+    },
+
+    async transfer(id, toAddr, status, note) {
+      const me = global.ZZAuth.current();
+      const evHash = await global.ZZHash.sha256Hex('transfer:' + id + ':' + toAddr + ':' + status);
+      const rc = await C().send('rescueLedger', 'transferCustody', [Number(id), toAddr, Number(status), evHash, note || ''], { from: me.addr });
+      global.ZZNotify.fromTx(rc, {});
+      return rc;
+    },
+
+    /* ---------------- 领养 ---------------- */
+    async applications() {
+      const list = await C().call('adoptionLedger', 'getApplications', [0, 500]);
+      const out = [];
+      for (const app of (list || [])) {
+        const animal = decorate(await C().call('rescueLedger', 'getAnimal', [app.animalId]));
+        const visits = await C().call('adoptionLedger', 'getVisits', [app.id]);
+        out.push(Object.assign({}, app, {
+          stageText: CFG.STAGE[app.stage] || '未知',
+          applicantName: global.ZZAuth.nameOf(app.applicant),
+          animal: animal || { title: '#' + app.animalId },
+          visits: visits || [],
+          form: parseMeta(app.formURI),
+          createdText: fmtTs(app.createdAt),
+          signedText: app.signedAt ? fmtTs(app.signedAt) : '—'
+        }));
+      }
+      return out;
+    },
+
+    async applyAdoption(animalId, form) {
+      const me = global.ZZAuth.current();
+      const formHash = await global.ZZHash.hashRecord(form);
+      const rc = await C().send('adoptionLedger', 'applyFor', [Number(animalId), formHash, JSON.stringify(form)], { from: me.addr });
+      global.ZZNotify.fromTx(rc, { applicant: me.addr });
+      return rc;
+    },
+
+    async bgCheck(id, passed, note, file) {
+      const me = global.ZZAuth.current();
+      const hash = file ? await global.ZZHash.sha256Hex(file)
+        : await global.ZZHash.sha256Hex('bg:' + id + ':' + (note || ''));
+      const rc = await C().send('adoptionLedger', 'backgroundCheck', [Number(id), hash, passed, note || ''], { from: me.addr });
+      const app = await C().call('adoptionLedger', 'getApplication', [Number(id)]);
+      global.ZZNotify.fromTx(rc, { applicant: app && app.applicant });
+      return rc;
+    },
+
+    async reviewApplication(id, approved, reason, plan) {
+      const me = global.ZZAuth.current();
+      const app = await C().call('adoptionLedger', 'getApplication', [Number(id)]);
+      const rc = await C().send('adoptionLedger', 'reviewApplication',
+        [Number(id), approved, reason || '', plan || ''], { from: me.addr });
+      global.ZZNotify.fromTx(rc, { applicant: app && app.applicant });
+      return rc;
+    },
+
+    async sign(id, file) {
+      const me = global.ZZAuth.current();
+      const app = await C().call('adoptionLedger', 'getApplication', [Number(id)]);
+      const contractText = '领养协议 #' + id + ' | 动物 #' + (app ? app.animalId : '') +
+        ' | 领养人 ' + (app ? app.applicant : '') + ' | 出借方 ' + me.addr;
+      const hash = file ? await global.ZZHash.sha256Hex(file) : await global.ZZHash.sha256Hex(contractText);
+      const rc = await C().send('adoptionLedger', 'signContract', [Number(id), hash], { from: me.addr });
+      global.ZZNotify.fromTx(rc, { applicant: app && app.applicant });
+      return rc;
+    },
+
+    async addVisit(id, note, passed, file) {
+      const me = global.ZZAuth.current();
+      const app = await C().call('adoptionLedger', 'getApplication', [Number(id)]);
+      const hash = file ? await global.ZZHash.sha256Hex(file)
+        : await global.ZZHash.sha256Hex('visit:' + id + ':' + Date.now());
+      const rc = await C().send('adoptionLedger', 'addVisitRecord', [Number(id), hash, note || '', passed], { from: me.addr });
+      global.ZZNotify.fromTx(rc, { applicant: app && app.applicant });
+      return rc;
+    },
+
+    async completeAdoption(id) {
+      const me = global.ZZAuth.current();
+      const app = await C().call('adoptionLedger', 'getApplication', [Number(id)]);
+      const rc = await C().send('adoptionLedger', 'completeAdoption', [Number(id)], { from: me.addr });
+      global.ZZNotify.fromTx(rc, { applicant: app && app.applicant });
+      return rc;
+    },
+
+    async flagAbandon(id, reason) {
+      const me = global.ZZAuth.current();
+      const app = await C().call('adoptionLedger', 'getApplication', [Number(id)]);
+      const rc = await C().send('adoptionLedger', 'cancelOrFlag', [Number(id), true, reason || ''], { from: me.addr });
+      global.ZZNotify.fromTx(rc, { applicant: app && app.applicant });
+      return rc;
+    },
+
+    /* ---------------- 积分 ---------------- */
+    async pointsOf(addr) {
+      const [bal, earned, awards] = await Promise.all([
+        C().call('charityPoints', 'balanceOf', [addr]),
+        C().call('charityPoints', 'totalEarned', [addr]),
+        C().call('charityPoints', 'awardsOf', [addr])
+      ]);
+      return { balance: bal || 0, earned: earned || 0, awards: awards || [] };
+    },
+
+    async leaderboard() {
+      const rows = await C().call('charityPoints', 'leaderboard', [50]);
+      return (rows || []).map((r, i) => Object.assign({}, r, {
+        rank: i + 1, name: global.ZZAuth.nameOf(r.addr),
+        awards: []
+      }));
+    },
+
+    async awardPoints(addr, amount, reason) {
+      const me = global.ZZAuth.current();
+      const rc = await C().send('charityPoints', 'award', [addr, Number(amount), reason || '管理员发放'], { from: me.addr });
+      global.ZZNotify.fromTx(rc, {});
+      return rc;
+    },
+
+    /* ---------------- 存证校验 ---------------- */
+    /** 用链上数据重建线索原文，重新计算哈希，比对是否被篡改 */
+    async verifyAnimal(a) {
+      const payload = {
+        species: a.species, title: a.title, addressText: a.addressText,
+        lat: Number((a.lat1e6 / 1e6).toFixed(6)), lng: Number((a.lng1e6 / 1e6).toFixed(6)),
+        severity: a.severity, desc: a.meta.desc, contact: a.meta.contact,
+        tags: a.meta.tags || [], photoHash: a.meta.photoHash || null
+      };
+      const recomputed = await global.ZZHash.hashRecord(payload);
+      return { recomputed, onchain: a.dataHash, match: recomputed === a.dataHash };
+    }
+  };
+
+  global.ZZStore = Store;
+})(window);

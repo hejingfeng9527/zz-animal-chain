@@ -1,1 +1,390 @@
-Ly8gU1BEWC1MaWNlbnNlLUlkZW50aWZpZXI6IE1JVApwcmFnbWEgc29saWRpdHkgXjAuOC4xMTsKCmludGVyZmFjZSBJQ2hhcml0eVBvaW50cyB7CiAgICBmdW5jdGlvbiBhd2FyZChhZGRyZXNzIHRvLCB1aW50MjU2IGFtb3VudCwgc3RyaW5nIGNhbGxkYXRhIHJlYXNvbikgZXh0ZXJuYWw7Cn0KCi8qKgogKiBAdGl0bGUgQW5pbWFsUmVzY3VlTGVkZ2VyCiAqIEBub3RpY2Ug6YOR5bee5rWB5rWq5Yqo54mp5pWR5Yqp5a+86IiqIMK3IOe6v+e0ouWtmOivgeS4jua1gei9rOWPsOi0pgogKiBAZGV2IOimhueblu+8mue6v+e0ouS4iuaKpe+8iFNIQS0yNTYg5ZOI5biM5a2Y6K+B77yJ4oaSIOeuoeeQhuWRmOWuoeaguCDihpIg5pWR5Yqp56uZ5pS25a65IOKGkiDmsrvnlpcg4oaSCiAqICAgICAg5b6F6aKG5YW7IOKGkiDpooblhbsg55qE5a6M5pW06ZO+6Lev77yM5q+P5qyh54q25oCB5Y+Y5pu05LiO5omY566h5p2D6L2s56e75Z2H5YaZ5YWl6ZO+5LiK5rWB6L2s6K6w5b2V77yMCiAqICAgICAg5rC45LmF55WZ5a2Y77yM6Ziy5q2i5byD5YW75a+86Ie055qE5LqM5qyh5rWB5rWq44CCCiAqCiAqIOmAgumFje+8mkZJU0NPIEJDT1MgMy54IChzb2xpZGl0eSAwLjguMTEpCiAqLwpjb250cmFjdCBBbmltYWxSZXNjdWVMZWRnZXIgewogICAgZW51bSBTdGF0dXMgewogICAgICAgIFJlcG9ydGVkLCAgIC8vIDAg5bey5LiK5oql77yM5b6F5a6h5qC4CiAgICAgICAgVmVyaWZpZWQsICAgLy8gMSDlt7LmoLjlrp4KICAgICAgICBTaGVsdGVyZWQsICAvLyAyIOW3suWFpeermeaUtuWuuQogICAgICAgIFRyZWF0aW5nLCAgIC8vIDMg5pWR5rK75LitCiAgICAgICAgQWRvcHRhYmxlLCAgLy8gNCDlvoXpooblhbsKICAgICAgICBBZG9wdGVkLCAgICAvLyA1IOW3sumihuWFuwogICAgICAgIFJldHVybmVkLCAgIC8vIDYg5Y6f5Zyw5pS+5b2SCiAgICAgICAgRGVjZWFzZWQsICAgLy8gNyDlt7LmrbvkuqEKICAgICAgICBSZWplY3RlZCAgICAvLyA4IOe6v+e0oumps+Wbnu+8iOaXoOaViC/ph43lpI3vvIkKICAgIH0KCiAgICBlbnVtIFNldmVyaXR5IHsgTm9ybWFsLCBJbmp1cmVkLCBTaWNrLCBDcml0aWNhbCB9IC8vIDAg5YGl5bq3IDEg5Y+X5LykIDIg5oKj55eFIDMg6YeN5Lyk55eF5Y2xCgogICAgZW51bSBQT0lLaW5kIHsgU2lnaHRpbmcsIFNoZWx0ZXIsIEhvc3BpdGFsLCBGZWVkaW5nIH0gLy8g5Y+R546w54K5L+aVkeWKqeermS/lrqDnianljLvpmaIv5oqV5ZaC54K5CgogICAgc3RydWN0IEFuaW1hbCB7CiAgICAgICAgdWludDI1NiBpZDsKICAgICAgICBieXRlczMyIGRhdGFIYXNoOyAgICAgIC8vIOe6v+e0ouWOn+aWhyBTSEEtMjU2IOWtmOivgeWTiOW4jAogICAgICAgIHN0cmluZyAgbWV0YVVSSTsgICAgICAgLy8g5piO57uG77yISVBGUyBDSUQgLyBKU09OIOS4su+8ie+8jOWQq+WbvueJh+aRmOimgQogICAgICAgIHN0cmluZyAgc3BlY2llczsgICAgICAgLy8g54qsIC8g54yrIC8g5YW25LuWCiAgICAgICAgc3RyaW5nICB0aXRsZTsgICAgICAgICAvLyDmoIfpopjvvIzlpoIi6YeR5rC05Yy65Y+X5Lyk5qmY54yrIgogICAgICAgIGludDI1NiAgbGF0MWU2OyAgICAgICAgLy8g57qs5bqmICogMWU2CiAgICAgICAgaW50MjU2ICBsbmcxZTY7ICAgICAgICAvLyDnu4/luqYgKiAxZTYKICAgICAgICBzdHJpbmcgIGFkZHJlc3NUZXh0OyAgIC8vIOaWh+Wtl+WcsOWdgAogICAgICAgIHVpbnQ4ICAgc2V2ZXJpdHk7CiAgICAgICAgYm9vbCAgICB1cmdlbnQ7ICAgICAgICAvLyDmmK/lkKbntKfmgKXvvIjph43kvKQv55eF5Y2x6Ieq5Yqo572u5L2N77yJCiAgICAgICAgdWludDggICBzdGF0dXM7CiAgICAgICAgYWRkcmVzcyByZXBvcnRlcjsgICAgICAvLyDkuIrmiqXkuroKICAgICAgICBhZGRyZXNzIHNoZWx0ZXI7ICAgICAgIC8vIOW9k+WJjeaUtuWuueaWue+8iOaVkeWKqeermeWcsOWdgO+8iQogICAgICAgIGFkZHJlc3MgZ3VhcmRpYW47ICAgICAgLy8g6aKG5YW75Lq6CiAgICAgICAgYm9vbCAgICByZXZpZXdlZDsgICAgICAvLyDmmK/lkKblt7LlrqHmoLgKICAgICAgICB1aW50NjQgIGNyZWF0ZWRBdDsKICAgICAgICB1aW50NjQgIHVwZGF0ZWRBdDsKICAgICAgICBib29sICAgIGV4aXN0czsKICAgIH0KCiAgICBzdHJ1Y3QgUmV2aWV3UmVjb3JkIHsKICAgICAgICBhZGRyZXNzIHJldmlld2VyOwogICAgICAgIGJvb2wgICAgYXBwcm92ZWQ7CiAgICAgICAgc3RyaW5nICByZWFzb247CiAgICAgICAgYnl0ZXMzMiBkYXRhSGFzaDsKICAgICAgICB1aW50NjQgIHRzOwogICAgfQoKICAgIHN0cnVjdCBUcmFuc2ZlclJlY29yZCB7CiAgICAgICAgYWRkcmVzcyBmcm9tOyAgICAgICAgICAvLyDljp/miZjnrqHmlrkKICAgICAgICBhZGRyZXNzIHRvOyAgICAgICAgICAgIC8vIOaWsOaJmOeuoeaWuQogICAgICAgIHVpbnQ4ICAgZnJvbVN0YXR1czsKICAgICAgICB1aW50OCAgIHRvU3RhdHVzOwogICAgICAgIGJ5dGVzMzIgZXZpZGVuY2VIYXNoOyAgLy8g5Lqk5o6l5Yet6K+B5ZOI5biMCiAgICAgICAgc3RyaW5nICBub3RlOwogICAgICAgIGFkZHJlc3Mgb3BlcmF0b3I7CiAgICAgICAgdWludDY0ICB0czsKICAgIH0KCiAgICBzdHJ1Y3QgUE9JIHsKICAgICAgICB1aW50MjU2IGlkOwogICAgICAgIHVpbnQ4ICAga2luZDsKICAgICAgICBzdHJpbmcgIG5hbWU7CiAgICAgICAgc3RyaW5nICBhZGRyZXNzVGV4dDsKICAgICAgICBpbnQyNTYgIGxhdDFlNjsKICAgICAgICBpbnQyNTYgIGxuZzFlNjsKICAgICAgICBzdHJpbmcgIGNvbnRhY3Q7CiAgICAgICAgYWRkcmVzcyBvd25lcjsKICAgICAgICBib29sICAgIGFjdGl2ZTsKICAgICAgICB1aW50NjQgIHRzOwogICAgfQoKICAgIGFkZHJlc3MgcHVibGljIG93bmVyOwogICAgdWludDI1NiBwdWJsaWMgYW5pbWFsQ291bnQ7CiAgICB1aW50MjU2IHB1YmxpYyBwb2lDb3VudDsKCiAgICBtYXBwaW5nKGFkZHJlc3MgPT4gYm9vbCkgcHVibGljIGFkbWluczsgICAgICAgICAgLy8g566h55CG5ZGY77yI5a6h5qC4L+a1gei9rO+8iQogICAgbWFwcGluZyhhZGRyZXNzID0+IGJvb2wpIHB1YmxpYyBzaGVsdGVyczsgICAgICAgIC8vIOaVkeWKqeermQogICAgbWFwcGluZyh1aW50MjU2ID0+IEFuaW1hbCkgcHJpdmF0ZSBhbmltYWxzOwogICAgbWFwcGluZyh1aW50MjU2ID0+IFJldmlld1JlY29yZCkgcHVibGljIHJldmlld09mOwogICAgbWFwcGluZyh1aW50MjU2ID0+IFRyYW5zZmVyUmVjb3JkW10pIHByaXZhdGUgdHJhbnNmZXJzOwogICAgbWFwcGluZyh1aW50MjU2ID0+IFBPSSkgcHJpdmF0ZSBwb2lzOwogICAgbWFwcGluZyh1aW50MjU2ID0+IHVpbnQyNTYpIHB1YmxpYyB1cmdlbnRJbmRleDsgIC8vIGFuaW1hbElkID0+IOS4iuaKpeW6j+WPt++8jOeUqOS6juS8mOWFiOmYn+WIlwoKICAgIElDaGFyaXR5UG9pbnRzIHB1YmxpYyBwb2ludHM7CgogICAgdWludDI1NiBwdWJsaWMgY29uc3RhbnQgUE9JTlRfUkVQT1JUID0gMTA7CiAgICB1aW50MjU2IHB1YmxpYyBjb25zdGFudCBQT0lOVF9TSEVMVEVSID0gMjA7CiAgICB1aW50MjU2IHB1YmxpYyBjb25zdGFudCBQT0lOVF9BRE9QVCA9IDUwOwoKICAgIGV2ZW50IEFuaW1hbFJlcG9ydGVkKAogICAgICAgIHVpbnQyNTYgaW5kZXhlZCBpZCwKICAgICAgICBhZGRyZXNzIGluZGV4ZWQgcmVwb3J0ZXIsCiAgICAgICAgYnl0ZXMzMiBkYXRhSGFzaCwKICAgICAgICB1aW50OCBzZXZlcml0eSwKICAgICAgICBib29sIHVyZ2VudCwKICAgICAgICB1aW50NjQgdHMKICAgICk7CiAgICBldmVudCBBbmltYWxSZXZpZXdlZCh1aW50MjU2IGluZGV4ZWQgaWQsIGFkZHJlc3MgaW5kZXhlZCByZXZpZXdlciwgYm9vbCBhcHByb3ZlZCwgc3RyaW5nIHJlYXNvbiwgdWludDY0IHRzKTsKICAgIGV2ZW50IEFuaW1hbFN0YXR1c1VwZGF0ZWQoCiAgICAgICAgdWludDI1NiBpbmRleGVkIGlkLAogICAgICAgIHVpbnQ4IGZyb21TdGF0dXMsCiAgICAgICAgdWludDggdG9TdGF0dXMsCiAgICAgICAgYWRkcmVzcyBpbmRleGVkIG9wZXJhdG9yLAogICAgICAgIGJ5dGVzMzIgZXZpZGVuY2VIYXNoLAogICAgICAgIHN0cmluZyBub3RlLAogICAgICAgIHVpbnQ2NCB0cwogICAgKTsKICAgIGV2ZW50IEN1c3RvZHlUcmFuc2ZlcnJlZCgKICAgICAgICB1aW50MjU2IGluZGV4ZWQgaWQsCiAgICAgICAgYWRkcmVzcyBpbmRleGVkIGZyb20sCiAgICAgICAgYWRkcmVzcyBpbmRleGVkIHRvLAogICAgICAgIGJ5dGVzMzIgZXZpZGVuY2VIYXNoLAogICAgICAgIHVpbnQ2NCB0cwogICAgKTsKICAgIGV2ZW50IFBPSVJlZ2lzdGVyZWQodWludDI1NiBpbmRleGVkIGlkLCB1aW50OCBraW5kLCBzdHJpbmcgbmFtZSwgYWRkcmVzcyBpbmRleGVkIG93bmVyLCB1aW50NjQgdHMpOwogICAgZXZlbnQgQWRtaW5VcGRhdGVkKGFkZHJlc3MgaW5kZXhlZCBhY2NvdW50LCBib29sIGVuYWJsZWQpOwogICAgZXZlbnQgU2hlbHRlclVwZGF0ZWQoYWRkcmVzcyBpbmRleGVkIGFjY291bnQsIGJvb2wgZW5hYmxlZCk7CgogICAgbW9kaWZpZXIgb25seU93bmVyKCkgewogICAgICAgIHJlcXVpcmUobXNnLnNlbmRlciA9PSBvd25lciwgIkxlZGdlcjogbm90IG93bmVyIik7CiAgICAgICAgXzsKICAgIH0KCiAgICBtb2RpZmllciBvbmx5QWRtaW4oKSB7CiAgICAgICAgcmVxdWlyZShhZG1pbnNbbXNnLnNlbmRlcl0gfHwgbXNnLnNlbmRlciA9PSBvd25lciwgIkxlZGdlcjogbm90IGFkbWluIik7CiAgICAgICAgXzsKICAgIH0KCiAgICBtb2RpZmllciBvbmx5QWRtaW5PclNoZWx0ZXIoKSB7CiAgICAgICAgcmVxdWlyZShhZG1pbnNbbXNnLnNlbmRlcl0gfHwgc2hlbHRlcnNbbXNnLnNlbmRlcl0gfHwgbXNnLnNlbmRlciA9PSBvd25lciwgIkxlZGdlcjogbm90IHByaXZpbGVnZWQiKTsKICAgICAgICBfOwogICAgfQoKICAgIGNvbnN0cnVjdG9yKCkgewogICAgICAgIG93bmVyID0gbXNnLnNlbmRlcjsKICAgICAgICBhZG1pbnNbbXNnLnNlbmRlcl0gPSB0cnVlOwogICAgICAgIGVtaXQgQWRtaW5VcGRhdGVkKG1zZy5zZW5kZXIsIHRydWUpOwogICAgfQoKICAgIGZ1bmN0aW9uIHNldFBvaW50c0NvbnRyYWN0KGFkZHJlc3MgYWRkcikgZXh0ZXJuYWwgb25seU93bmVyIHsKICAgICAgICBwb2ludHMgPSBJQ2hhcml0eVBvaW50cyhhZGRyKTsKICAgIH0KCiAgICBmdW5jdGlvbiBzZXRBZG1pbihhZGRyZXNzIGFjY291bnQsIGJvb2wgZW5hYmxlZCkgZXh0ZXJuYWwgb25seU93bmVyIHsKICAgICAgICBhZG1pbnNbYWNjb3VudF0gPSBlbmFibGVkOwogICAgICAgIGVtaXQgQWRtaW5VcGRhdGVkKGFjY291bnQsIGVuYWJsZWQpOwogICAgfQoKICAgIGZ1bmN0aW9uIHNldFNoZWx0ZXIoYWRkcmVzcyBhY2NvdW50LCBib29sIGVuYWJsZWQpIGV4dGVybmFsIG9ubHlPd25lciB7CiAgICAgICAgc2hlbHRlcnNbYWNjb3VudF0gPSBlbmFibGVkOwogICAgICAgIGVtaXQgU2hlbHRlclVwZGF0ZWQoYWNjb3VudCwgZW5hYmxlZCk7CiAgICB9CgogICAgLy8gLS0tLS0tLS0tLS0tLS0tLSDngrnkvY3vvIjmlZHliqnnq5kgLyDljLvpmaIgLyDmipXlloLngrkgLyDlj5HnjrDngrnvvIkgLS0tLS0tLS0tLS0tLS0tLQoKICAgIGZ1bmN0aW9uIHJlZ2lzdGVyUE9JKAogICAgICAgIHVpbnQ4IGtpbmQsCiAgICAgICAgc3RyaW5nIGNhbGxkYXRhIG5hbWUsCiAgICAgICAgc3RyaW5nIGNhbGxkYXRhIGFkZHJlc3NUZXh0LAogICAgICAgIGludDI1NiBsYXQxZTYsCiAgICAgICAgaW50MjU2IGxuZzFlNiwKICAgICAgICBzdHJpbmcgY2FsbGRhdGEgY29udGFjdAogICAgKSBleHRlcm5hbCByZXR1cm5zICh1aW50MjU2IGlkKSB7CiAgICAgICAgcmVxdWlyZShieXRlcyhuYW1lKS5sZW5ndGggPiAwLCAiTGVkZ2VyOiBlbXB0eSBuYW1lIik7CiAgICAgICAgaWQgPSArK3BvaUNvdW50OwogICAgICAgIHBvaXNbaWRdID0gUE9JKHsKICAgICAgICAgICAgaWQ6IGlkLAogICAgICAgICAgICBraW5kOiBraW5kLAogICAgICAgICAgICBuYW1lOiBuYW1lLAogICAgICAgICAgICBhZGRyZXNzVGV4dDogYWRkcmVzc1RleHQsCiAgICAgICAgICAgIGxhdDFlNjogbGF0MWU2LAogICAgICAgICAgICBsbmcxZTY6IGxuZzFlNiwKICAgICAgICAgICAgY29udGFjdDogY29udGFjdCwKICAgICAgICAgICAgb3duZXI6IG1zZy5zZW5kZXIsCiAgICAgICAgICAgIGFjdGl2ZTogdHJ1ZSwKICAgICAgICAgICAgdHM6IHVpbnQ2NChibG9jay50aW1lc3RhbXApCiAgICAgICAgfSk7CiAgICAgICAgZW1pdCBQT0lSZWdpc3RlcmVkKGlkLCBraW5kLCBuYW1lLCBtc2cuc2VuZGVyLCB1aW50NjQoYmxvY2sudGltZXN0YW1wKSk7CiAgICB9CgogICAgZnVuY3Rpb24gc2V0UE9JQWN0aXZlKHVpbnQyNTYgaWQsIGJvb2wgYWN0aXZlKSBleHRlcm5hbCBvbmx5QWRtaW4gewogICAgICAgIHJlcXVpcmUocG9pc1tpZF0uaWQgIT0gMCwgIkxlZGdlcjogcG9pIG5vdCBleGlzdCIpOwogICAgICAgIHBvaXNbaWRdLmFjdGl2ZSA9IGFjdGl2ZTsKICAgIH0KCiAgICBmdW5jdGlvbiBnZXRQT0kodWludDI1NiBpZCkgZXh0ZXJuYWwgdmlldyByZXR1cm5zIChQT0kgbWVtb3J5KSB7CiAgICAgICAgcmV0dXJuIHBvaXNbaWRdOwogICAgfQoKICAgIC8vIC0tLS0tLS0tLS0tLS0tLS0g57q/57Si5LiK5oqlIC0tLS0tLS0tLS0tLS0tLS0KCiAgICAvLy8gQG5vdGljZSDkuIrmiqXlhaXlj4LvvIjmiZPljIXkuLrnu5PmnoTkvZPvvIzpgb/lhY3lj4LmlbDov4flpJrlr7zoh7TmoIjov4fmt7HvvIkKICAgIHN0cnVjdCBSZXBvcnRJbnB1dCB7CiAgICAgICAgYnl0ZXMzMiBkYXRhSGFzaDsgICAgICAvLyDnur/ntKLljp/mlocgU0hBLTI1NiDlrZjor4Hlk4jluIwKICAgICAgICBzdHJpbmcgIG1ldGFVUkk7ICAgICAgIC8vIOaYjue7hu+8iElQRlMgQ0lEIC8gSlNPTiDkuLLvvIkKICAgICAgICBzdHJpbmcgIHNwZWNpZXM7ICAgICAgIC8vIOeKrCAvIOeMqyAvIOWFtuS7lgogICAgICAgIHN0cmluZyAgdGl0bGU7CiAgICAgICAgaW50MjU2ICBsYXQxZTY7CiAgICAgICAgaW50MjU2ICBsbmcxZTY7CiAgICAgICAgc3RyaW5nICBhZGRyZXNzVGV4dDsKICAgICAgICB1aW50OCAgIHNldmVyaXR5OyAgICAgIC8vIDAg5YGl5bq3IDEg5Y+X5LykIDIg5oKj55eFIDMg6YeN5Lyk55eF5Y2x77yI6Ieq5Yqo572u5Li657Sn5oCl77yJCiAgICB9CgogICAgLy8vIEBub3RpY2Ug55So5oi3L+euoeeQhuWRmOS4iuaKpemcgOimgeW4ruWKqeeahOa1gea1quWKqOeJqe+8jGRhdGFIYXNoIOS4uue6v+e0ouWOn+aWhyBTSEEtMjU2CiAgICBmdW5jdGlvbiByZXBvcnRBbmltYWwoUmVwb3J0SW5wdXQgY2FsbGRhdGEgaW5wdXQpIGV4dGVybmFsIHJldHVybnMgKHVpbnQyNTYgaWQpIHsKICAgICAgICByZXF1aXJlKGlucHV0LmRhdGFIYXNoICE9IGJ5dGVzMzIoMCksICJMZWRnZXI6IGVtcHR5IGhhc2giKTsKICAgICAgICByZXF1aXJlKGJ5dGVzKGlucHV0LnRpdGxlKS5sZW5ndGggPiAwLCAiTGVkZ2VyOiBlbXB0eSB0aXRsZSIpOwoKICAgICAgICBpZCA9ICsrYW5pbWFsQ291bnQ7CiAgICAgICAgYm9vbCB1cmdlbnQgPSBpbnB1dC5zZXZlcml0eSA+PSB1aW50OChTZXZlcml0eS5Dcml0aWNhbCk7CgogICAgICAgIGFuaW1hbHNbaWRdID0gQW5pbWFsKHsKICAgICAgICAgICAgaWQ6IGlkLAogICAgICAgICAgICBkYXRhSGFzaDogaW5wdXQuZGF0YUhhc2gsCiAgICAgICAgICAgIG1ldGFVUkk6IGlucHV0Lm1ldGFVUkksCiAgICAgICAgICAgIHNwZWNpZXM6IGlucHV0LnNwZWNpZXMsCiAgICAgICAgICAgIHRpdGxlOiBpbnB1dC50aXRsZSwKICAgICAgICAgICAgbGF0MWU2OiBpbnB1dC5sYXQxZTYsCiAgICAgICAgICAgIGxuZzFlNjogaW5wdXQubG5nMWU2LAogICAgICAgICAgICBhZGRyZXNzVGV4dDogaW5wdXQuYWRkcmVzc1RleHQsCiAgICAgICAgICAgIHNldmVyaXR5OiBpbnB1dC5zZXZlcml0eSwKICAgICAgICAgICAgdXJnZW50OiB1cmdlbnQsCiAgICAgICAgICAgIHN0YXR1czogdWludDgoU3RhdHVzLlJlcG9ydGVkKSwKICAgICAgICAgICAgcmVwb3J0ZXI6IG1zZy5zZW5kZXIsCiAgICAgICAgICAgIHNoZWx0ZXI6IGFkZHJlc3MoMCksCiAgICAgICAgICAgIGd1YXJkaWFuOiBhZGRyZXNzKDApLAogICAgICAgICAgICByZXZpZXdlZDogZmFsc2UsCiAgICAgICAgICAgIGNyZWF0ZWRBdDogdWludDY0KGJsb2NrLnRpbWVzdGFtcCksCiAgICAgICAgICAgIHVwZGF0ZWRBdDogdWludDY0KGJsb2NrLnRpbWVzdGFtcCksCiAgICAgICAgICAgIGV4aXN0czogdHJ1ZQogICAgICAgIH0pOwoKICAgICAgICBpZiAodXJnZW50KSB1cmdlbnRJbmRleFtpZF0gPSBpZDsKICAgICAgICBlbWl0IEFuaW1hbFJlcG9ydGVkKGlkLCBtc2cuc2VuZGVyLCBpbnB1dC5kYXRhSGFzaCwgaW5wdXQuc2V2ZXJpdHksIHVyZ2VudCwgdWludDY0KGJsb2NrLnRpbWVzdGFtcCkpOwogICAgfQoKICAgIC8vLyBAbm90aWNlIOeuoeeQhuWRmOWuoeaguOe6v+e0ou+8iOmAmui/h+WQjuWPkeaUvuWFrOebiuenr+WIhu+8iQogICAgZnVuY3Rpb24gcmV2aWV3QW5pbWFsKHVpbnQyNTYgaWQsIGJvb2wgYXBwcm92ZWQsIHN0cmluZyBjYWxsZGF0YSByZWFzb24pIGV4dGVybmFsIG9ubHlBZG1pbiB7CiAgICAgICAgQW5pbWFsIHN0b3JhZ2UgYSA9IGFuaW1hbHNbaWRdOwogICAgICAgIHJlcXVpcmUoYS5leGlzdHMsICJMZWRnZXI6IG5vdCBleGlzdCIpOwogICAgICAgIHJlcXVpcmUoIWEucmV2aWV3ZWQsICJMZWRnZXI6IGFscmVhZHkgcmV2aWV3ZWQiKTsKCiAgICAgICAgYS5yZXZpZXdlZCA9IHRydWU7CiAgICAgICAgYS5zdGF0dXMgPSBhcHByb3ZlZCA/IHVpbnQ4KFN0YXR1cy5WZXJpZmllZCkgOiB1aW50OChTdGF0dXMuUmVqZWN0ZWQpOwogICAgICAgIGEudXBkYXRlZEF0ID0gdWludDY0KGJsb2NrLnRpbWVzdGFtcCk7CiAgICAgICAgcmV2aWV3T2ZbaWRdID0gUmV2aWV3UmVjb3JkKHsKICAgICAgICAgICAgcmV2aWV3ZXI6IG1zZy5zZW5kZXIsCiAgICAgICAgICAgIGFwcHJvdmVkOiBhcHByb3ZlZCwKICAgICAgICAgICAgcmVhc29uOiByZWFzb24sCiAgICAgICAgICAgIGRhdGFIYXNoOiBhLmRhdGFIYXNoLAogICAgICAgICAgICB0czogdWludDY0KGJsb2NrLnRpbWVzdGFtcCkKICAgICAgICB9KTsKCiAgICAgICAgaWYgKGFwcHJvdmVkICYmIGFkZHJlc3MocG9pbnRzKSAhPSBhZGRyZXNzKDApKSB7CiAgICAgICAgICAgIHBvaW50cy5hd2FyZChhLnJlcG9ydGVyLCBQT0lOVF9SRVBPUlQsICJSRVBPUlRfVkVSSUZJRUQiKTsKICAgICAgICB9CgogICAgICAgIGVtaXQgQW5pbWFsUmV2aWV3ZWQoaWQsIG1zZy5zZW5kZXIsIGFwcHJvdmVkLCByZWFzb24sIHVpbnQ2NChibG9jay50aW1lc3RhbXApKTsKICAgIH0KCiAgICAvLy8gQG5vdGljZSDnirbmgIHmtYHovazvvIjlhaXnq5kgLyDmlZHmsrsgLyDovazlvoXpooblhbsgLyDmlL7lvZIgLyDmrbvkuqHigKbvvIkKICAgIGZ1bmN0aW9uIHVwZGF0ZVN0YXR1cygKICAgICAgICB1aW50MjU2IGlkLAogICAgICAgIHVpbnQ4IG5ld1N0YXR1cywKICAgICAgICBieXRlczMyIGV2aWRlbmNlSGFzaCwKICAgICAgICBzdHJpbmcgY2FsbGRhdGEgbm90ZQogICAgKSBleHRlcm5hbCBvbmx5QWRtaW5PclNoZWx0ZXIgewogICAgICAgIEFuaW1hbCBzdG9yYWdlIGEgPSBhbmltYWxzW2lkXTsKICAgICAgICByZXF1aXJlKGEuZXhpc3RzLCAiTGVkZ2VyOiBub3QgZXhpc3QiKTsKICAgICAgICByZXF1aXJlKGEucmV2aWV3ZWQsICJMZWRnZXI6IG5vdCByZXZpZXdlZCIpOwogICAgICAgIHVpbnQ4IG9sZCA9IGEuc3RhdHVzOwogICAgICAgIGEuc3RhdHVzID0gbmV3U3RhdHVzOwogICAgICAgIGEudXBkYXRlZEF0ID0gdWludDY0KGJsb2NrLnRpbWVzdGFtcCk7CiAgICAgICAgaWYgKG5ld1N0YXR1cyA9PSB1aW50OChTdGF0dXMuU2hlbHRlcmVkKSAmJiBhLnNoZWx0ZXIgPT0gYWRkcmVzcygwKSkgewogICAgICAgICAgICBhLnNoZWx0ZXIgPSBtc2cuc2VuZGVyOwogICAgICAgICAgICBpZiAoYWRkcmVzcyhwb2ludHMpICE9IGFkZHJlc3MoMCkpIHsKICAgICAgICAgICAgICAgIHBvaW50cy5hd2FyZChtc2cuc2VuZGVyLCBQT0lOVF9TSEVMVEVSLCAiU0hFTFRFUl9JTlRBS0UiKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBfYXBwZW5kVHJhbnNmZXIoaWQsIGFkZHJlc3MoMCksIGFkZHJlc3MoMCksIG9sZCwgbmV3U3RhdHVzLCBldmlkZW5jZUhhc2gsIG5vdGUpOwogICAgICAgIGVtaXQgQW5pbWFsU3RhdHVzVXBkYXRlZChpZCwgb2xkLCBuZXdTdGF0dXMsIG1zZy5zZW5kZXIsIGV2aWRlbmNlSGFzaCwgbm90ZSwgdWludDY0KGJsb2NrLnRpbWVzdGFtcCkpOwogICAgfQoKICAgIC8vLyBAbm90aWNlIOaJmOeuoeadg+i9rOenu++8muaVkeWKqeermSAtPiDpooblhbvkurrvvIjmiJbnq5npl7Tovazov5DvvInvvIzmsLjkuYXnlZnnl5UKICAgIGZ1bmN0aW9uIHRyYW5zZmVyQ3VzdG9keSgKICAgICAgICB1aW50MjU2IGlkLAogICAgICAgIGFkZHJlc3MgdG8sCiAgICAgICAgdWludDggbmV3U3RhdHVzLAogICAgICAgIGJ5dGVzMzIgZXZpZGVuY2VIYXNoLAogICAgICAgIHN0cmluZyBjYWxsZGF0YSBub3RlCiAgICApIGV4dGVybmFsIG9ubHlBZG1pbk9yU2hlbHRlciB7CiAgICAgICAgQW5pbWFsIHN0b3JhZ2UgYSA9IGFuaW1hbHNbaWRdOwogICAgICAgIHJlcXVpcmUoYS5leGlzdHMsICJMZWRnZXI6IG5vdCBleGlzdCIpOwogICAgICAgIHJlcXVpcmUodG8gIT0gYWRkcmVzcygwKSwgIkxlZGdlcjogemVybyBhZGRyIik7CiAgICAgICAgcmVxdWlyZShhLnJldmlld2VkLCAiTGVkZ2VyOiBub3QgcmV2aWV3ZWQiKTsKCiAgICAgICAgdWludDggb2xkID0gYS5zdGF0dXM7CiAgICAgICAgYWRkcmVzcyBmcm9tID0gYS5ndWFyZGlhbiAhPSBhZGRyZXNzKDApID8gYS5ndWFyZGlhbiA6IGEuc2hlbHRlcjsKICAgICAgICBpZiAoZnJvbSA9PSBhZGRyZXNzKDApKSBmcm9tID0gbXNnLnNlbmRlcjsKCiAgICAgICAgYS5zdGF0dXMgPSBuZXdTdGF0dXM7CiAgICAgICAgYS5ndWFyZGlhbiA9IChuZXdTdGF0dXMgPT0gdWludDgoU3RhdHVzLkFkb3B0ZWQpKSA/IHRvIDogYS5ndWFyZGlhbjsKICAgICAgICBpZiAobmV3U3RhdHVzICE9IHVpbnQ4KFN0YXR1cy5BZG9wdGVkKSkgYS5zaGVsdGVyID0gdG87CiAgICAgICAgYS51cGRhdGVkQXQgPSB1aW50NjQoYmxvY2sudGltZXN0YW1wKTsKCiAgICAgICAgX2FwcGVuZFRyYW5zZmVyKGlkLCBmcm9tLCB0bywgb2xkLCBuZXdTdGF0dXMsIGV2aWRlbmNlSGFzaCwgbm90ZSk7CiAgICAgICAgZW1pdCBDdXN0b2R5VHJhbnNmZXJyZWQoaWQsIGZyb20sIHRvLCBldmlkZW5jZUhhc2gsIHVpbnQ2NChibG9jay50aW1lc3RhbXApKTsKICAgICAgICBlbWl0IEFuaW1hbFN0YXR1c1VwZGF0ZWQoaWQsIG9sZCwgbmV3U3RhdHVzLCBtc2cuc2VuZGVyLCBldmlkZW5jZUhhc2gsIG5vdGUsIHVpbnQ2NChibG9jay50aW1lc3RhbXApKTsKICAgIH0KCiAgICAvLy8gQG5vdGljZSDpooblhbvlrozmiJDml7bnlLHpooblhbvlkIjnuqblm57osIPvvIzlhpnlhaXpooblhbvkurrlubblj5HmlL7np6/liIYKICAgIGZ1bmN0aW9uIG1hcmtBZG9wdGVkKHVpbnQyNTYgaWQsIGFkZHJlc3MgZ3VhcmRpYW4sIGJ5dGVzMzIgY29udHJhY3RIYXNoKSBleHRlcm5hbCBvbmx5QWRtaW4gewogICAgICAgIEFuaW1hbCBzdG9yYWdlIGEgPSBhbmltYWxzW2lkXTsKICAgICAgICByZXF1aXJlKGEuZXhpc3RzLCAiTGVkZ2VyOiBub3QgZXhpc3QiKTsKICAgICAgICB1aW50OCBvbGQgPSBhLnN0YXR1czsKICAgICAgICBhLnN0YXR1cyA9IHVpbnQ4KFN0YXR1cy5BZG9wdGVkKTsKICAgICAgICBhLmd1YXJkaWFuID0gZ3VhcmRpYW47CiAgICAgICAgYS51cGRhdGVkQXQgPSB1aW50NjQoYmxvY2sudGltZXN0YW1wKTsKICAgICAgICBfYXBwZW5kVHJhbnNmZXIoaWQsIGEuc2hlbHRlciwgZ3VhcmRpYW4sIG9sZCwgdWludDgoU3RhdHVzLkFkb3B0ZWQpLCBjb250cmFjdEhhc2gsICJBRE9QVElPTl9TSUdORURfQ1VTVE9EWV9UUkFOU0ZFUiIpOwogICAgICAgIGVtaXQgQ3VzdG9keVRyYW5zZmVycmVkKGlkLCBhLnNoZWx0ZXIsIGd1YXJkaWFuLCBjb250cmFjdEhhc2gsIHVpbnQ2NChibG9jay50aW1lc3RhbXApKTsKICAgICAgICBpZiAoYWRkcmVzcyhwb2ludHMpICE9IGFkZHJlc3MoMCkpIHsKICAgICAgICAgICAgcG9pbnRzLmF3YXJkKGd1YXJkaWFuLCBQT0lOVF9BRE9QVCwgIkFET1BUSU9OX1NJR05FRCIpOwogICAgICAgIH0KICAgIH0KCiAgICBmdW5jdGlvbiBfYXBwZW5kVHJhbnNmZXIoCiAgICAgICAgdWludDI1NiBpZCwKICAgICAgICBhZGRyZXNzIGZyb20sCiAgICAgICAgYWRkcmVzcyB0bywKICAgICAgICB1aW50OCBmcm9tU3RhdHVzLAogICAgICAgIHVpbnQ4IHRvU3RhdHVzLAogICAgICAgIGJ5dGVzMzIgZXZpZGVuY2VIYXNoLAogICAgICAgIHN0cmluZyBtZW1vcnkgbm90ZQogICAgKSBpbnRlcm5hbCB7CiAgICAgICAgdHJhbnNmZXJzW2lkXS5wdXNoKFRyYW5zZmVyUmVjb3JkKHsKICAgICAgICAgICAgZnJvbTogZnJvbSwKICAgICAgICAgICAgdG86IHRvLAogICAgICAgICAgICBmcm9tU3RhdHVzOiBmcm9tU3RhdHVzLAogICAgICAgICAgICB0b1N0YXR1czogdG9TdGF0dXMsCiAgICAgICAgICAgIGV2aWRlbmNlSGFzaDogZXZpZGVuY2VIYXNoLAogICAgICAgICAgICBub3RlOiBub3RlLAogICAgICAgICAgICBvcGVyYXRvcjogbXNnLnNlbmRlciwKICAgICAgICAgICAgdHM6IHVpbnQ2NChibG9jay50aW1lc3RhbXApCiAgICAgICAgfSkpOwogICAgfQoKICAgIC8vIC0tLS0tLS0tLS0tLS0tLS0g5p+l6K+iIC0tLS0tLS0tLS0tLS0tLS0KCiAgICBmdW5jdGlvbiBnZXRBbmltYWwodWludDI1NiBpZCkgZXh0ZXJuYWwgdmlldyByZXR1cm5zIChBbmltYWwgbWVtb3J5KSB7CiAgICAgICAgcmV0dXJuIGFuaW1hbHNbaWRdOwogICAgfQoKICAgIGZ1bmN0aW9uIGdldFRyYW5zZmVycyh1aW50MjU2IGlkKSBleHRlcm5hbCB2aWV3IHJldHVybnMgKFRyYW5zZmVyUmVjb3JkW10gbWVtb3J5KSB7CiAgICAgICAgcmV0dXJuIHRyYW5zZmVyc1tpZF07CiAgICB9CgogICAgZnVuY3Rpb24gZ2V0UmV2aWV3KHVpbnQyNTYgaWQpIGV4dGVybmFsIHZpZXcgcmV0dXJucyAoUmV2aWV3UmVjb3JkIG1lbW9yeSkgewogICAgICAgIHJldHVybiByZXZpZXdPZltpZF07CiAgICB9CgogICAgLy8vIEBub3RpY2Ug5YiG6aG15pGY6KaB77yM5L6/5LqO5YmN56uv5YiX6KGo5riy5p+TCiAgICBmdW5jdGlvbiBnZXRBbmltYWxzKHVpbnQyNTYgb2Zmc2V0LCB1aW50MjU2IGxpbWl0KQogICAgICAgIGV4dGVybmFsCiAgICAgICAgdmlldwogICAgICAgIHJldHVybnMgKEFuaW1hbFtdIG1lbW9yeSBsaXN0KQogICAgewogICAgICAgIGlmIChvZmZzZXQgPj0gYW5pbWFsQ291bnQgfHwgbGltaXQgPT0gMCkgcmV0dXJuIG5ldyBBbmltYWxbXSgwKTsKICAgICAgICB1aW50MjU2IGVuZCA9IG9mZnNldCArIGxpbWl0OwogICAgICAgIGlmIChlbmQgPiBhbmltYWxDb3VudCkgZW5kID0gYW5pbWFsQ291bnQ7CiAgICAgICAgbGlzdCA9IG5ldyBBbmltYWxbXShlbmQgLSBvZmZzZXQpOwogICAgICAgIGZvciAodWludDI1NiBpID0gb2Zmc2V0OyBpIDwgZW5kOyBpKyspIHsKICAgICAgICAgICAgbGlzdFtpIC0gb2Zmc2V0XSA9IGFuaW1hbHNbaSArIDFdOwogICAgICAgIH0KICAgIH0KfQo=
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.11;
+
+interface ICharityPoints {
+    function award(address to, uint256 amount, string calldata reason) external;
+}
+
+/**
+ * @title AnimalRescueLedger
+ * @notice 郑州流浪动物救助导航 · 线索存证与流转台账
+ * @dev 覆盖：线索上报（SHA-256 哈希存证）→ 管理员审核 → 救助站收容 → 治疗 →
+ *      待领养 → 领养 的完整链路，每次状态变更与托管权转移均写入链上流转记录，
+ *      永久留存，防止弃养导致的二次流浪。
+ *
+ * 适配：FISCO BCOS 3.x (solidity 0.8.11)
+ */
+contract AnimalRescueLedger {
+    enum Status {
+        Reported,   // 0 已上报，待审核
+        Verified,   // 1 已核实
+        Sheltered,  // 2 已入站收容
+        Treating,   // 3 救治中
+        Adoptable,  // 4 待领养
+        Adopted,    // 5 已领养
+        Returned,   // 6 原地放归
+        Deceased,   // 7 已死亡
+        Rejected    // 8 线索驳回（无效/重复）
+    }
+
+    enum Severity { Normal, Injured, Sick, Critical } // 0 健康 1 受伤 2 患病 3 重伤病危
+
+    enum POIKind { Sighting, Shelter, Hospital, Feeding } // 发现点/救助站/宠物医院/投喂点
+
+    struct Animal {
+        uint256 id;
+        bytes32 dataHash;      // 线索原文 SHA-256 存证哈希
+        string  metaURI;       // 明细（IPFS CID / JSON 串），含图片摘要
+        string  species;       // 犬 / 猫 / 其他
+        string  title;         // 标题，如"金水区受伤橘猫"
+        int256  lat1e6;        // 纬度 * 1e6
+        int256  lng1e6;        // 经度 * 1e6
+        string  addressText;   // 文字地址
+        uint8   severity;
+        bool    urgent;        // 是否紧急（重伤/病危自动置位）
+        uint8   status;
+        address reporter;      // 上报人
+        address shelter;       // 当前收容方（救助站地址）
+        address guardian;      // 领养人
+        bool    reviewed;      // 是否已审核
+        uint64  createdAt;
+        uint64  updatedAt;
+        bool    exists;
+    }
+
+    struct ReviewRecord {
+        address reviewer;
+        bool    approved;
+        string  reason;
+        bytes32 dataHash;
+        uint64  ts;
+    }
+
+    struct TransferRecord {
+        address from;          // 原托管方
+        address to;            // 新托管方
+        uint8   fromStatus;
+        uint8   toStatus;
+        bytes32 evidenceHash;  // 交接凭证哈希
+        string  note;
+        address operator;
+        uint64  ts;
+    }
+
+    struct POI {
+        uint256 id;
+        uint8   kind;
+        string  name;
+        string  addressText;
+        int256  lat1e6;
+        int256  lng1e6;
+        string  contact;
+        address owner;
+        bool    active;
+        uint64  ts;
+    }
+
+    address public owner;
+    uint256 public animalCount;
+    uint256 public poiCount;
+
+    mapping(address => bool) public admins;          // 管理员（审核/流转）
+    mapping(address => bool) public shelters;        // 救助站
+    mapping(uint256 => Animal) private animals;
+    mapping(uint256 => ReviewRecord) public reviewOf;
+    mapping(uint256 => TransferRecord[]) private transfers;
+    mapping(uint256 => POI) private pois;
+    mapping(uint256 => uint256) public urgentIndex;  // animalId => 上报序号，用于优先队列
+
+    ICharityPoints public points;
+
+    uint256 public constant POINT_REPORT = 10;
+    uint256 public constant POINT_SHELTER = 20;
+    uint256 public constant POINT_ADOPT = 50;
+
+    event AnimalReported(
+        uint256 indexed id,
+        address indexed reporter,
+        bytes32 dataHash,
+        uint8 severity,
+        bool urgent,
+        uint64 ts
+    );
+    event AnimalReviewed(uint256 indexed id, address indexed reviewer, bool approved, string reason, uint64 ts);
+    event AnimalStatusUpdated(
+        uint256 indexed id,
+        uint8 fromStatus,
+        uint8 toStatus,
+        address indexed operator,
+        bytes32 evidenceHash,
+        string note,
+        uint64 ts
+    );
+    event CustodyTransferred(
+        uint256 indexed id,
+        address indexed from,
+        address indexed to,
+        bytes32 evidenceHash,
+        uint64 ts
+    );
+    event POIRegistered(uint256 indexed id, uint8 kind, string name, address indexed owner, uint64 ts);
+    event AdminUpdated(address indexed account, bool enabled);
+    event ShelterUpdated(address indexed account, bool enabled);
+
+    modifier onlyOwner() {
+        require(msg.sender == owner, "Ledger: not owner");
+        _;
+    }
+
+    modifier onlyAdmin() {
+        require(admins[msg.sender] || msg.sender == owner, "Ledger: not admin");
+        _;
+    }
+
+    modifier onlyAdminOrShelter() {
+        require(admins[msg.sender] || shelters[msg.sender] || msg.sender == owner, "Ledger: not privileged");
+        _;
+    }
+
+    constructor() {
+        owner = msg.sender;
+        admins[msg.sender] = true;
+        emit AdminUpdated(msg.sender, true);
+    }
+
+    function setPointsContract(address addr) external onlyOwner {
+        points = ICharityPoints(addr);
+    }
+
+    function setAdmin(address account, bool enabled) external onlyOwner {
+        admins[account] = enabled;
+        emit AdminUpdated(account, enabled);
+    }
+
+    function setShelter(address account, bool enabled) external onlyOwner {
+        shelters[account] = enabled;
+        emit ShelterUpdated(account, enabled);
+    }
+
+    // ---------------- 点位（救助站 / 医院 / 投喂点 / 发现点） ----------------
+
+    function registerPOI(
+        uint8 kind,
+        string calldata name,
+        string calldata addressText,
+        int256 lat1e6,
+        int256 lng1e6,
+        string calldata contact
+    ) external returns (uint256 id) {
+        require(bytes(name).length > 0, "Ledger: empty name");
+        id = ++poiCount;
+        pois[id] = POI({
+            id: id,
+            kind: kind,
+            name: name,
+            addressText: addressText,
+            lat1e6: lat1e6,
+            lng1e6: lng1e6,
+            contact: contact,
+            owner: msg.sender,
+            active: true,
+            ts: uint64(block.timestamp)
+        });
+        emit POIRegistered(id, kind, name, msg.sender, uint64(block.timestamp));
+    }
+
+    function setPOIActive(uint256 id, bool active) external onlyAdmin {
+        require(pois[id].id != 0, "Ledger: poi not exist");
+        pois[id].active = active;
+    }
+
+    function getPOI(uint256 id) external view returns (POI memory) {
+        return pois[id];
+    }
+
+    // ---------------- 线索上报 ----------------
+
+    /// @notice 上报入参（打包为结构体，避免参数过多导致栈过深）
+    struct ReportInput {
+        bytes32 dataHash;      // 线索原文 SHA-256 存证哈希
+        string  metaURI;       // 明细（IPFS CID / JSON 串）
+        string  species;       // 犬 / 猫 / 其他
+        string  title;
+        int256  lat1e6;
+        int256  lng1e6;
+        string  addressText;
+        uint8   severity;      // 0 健康 1 受伤 2 患病 3 重伤病危（自动置为紧急）
+    }
+
+    /// @notice 用户/管理员上报需要帮助的流浪动物，dataHash 为线索原文 SHA-256
+    function reportAnimal(ReportInput calldata input) external returns (uint256 id) {
+        require(input.dataHash != bytes32(0), "Ledger: empty hash");
+        require(bytes(input.title).length > 0, "Ledger: empty title");
+
+        id = ++animalCount;
+        bool urgent = input.severity >= uint8(Severity.Critical);
+
+        animals[id] = Animal({
+            id: id,
+            dataHash: input.dataHash,
+            metaURI: input.metaURI,
+            species: input.species,
+            title: input.title,
+            lat1e6: input.lat1e6,
+            lng1e6: input.lng1e6,
+            addressText: input.addressText,
+            severity: input.severity,
+            urgent: urgent,
+            status: uint8(Status.Reported),
+            reporter: msg.sender,
+            shelter: address(0),
+            guardian: address(0),
+            reviewed: false,
+            createdAt: uint64(block.timestamp),
+            updatedAt: uint64(block.timestamp),
+            exists: true
+        });
+
+        if (urgent) urgentIndex[id] = id;
+        emit AnimalReported(id, msg.sender, input.dataHash, input.severity, urgent, uint64(block.timestamp));
+    }
+
+    /// @notice 管理员审核线索（通过后发放公益积分）
+    function reviewAnimal(uint256 id, bool approved, string calldata reason) external onlyAdmin {
+        Animal storage a = animals[id];
+        require(a.exists, "Ledger: not exist");
+        require(!a.reviewed, "Ledger: already reviewed");
+
+        a.reviewed = true;
+        a.status = approved ? uint8(Status.Verified) : uint8(Status.Rejected);
+        a.updatedAt = uint64(block.timestamp);
+        reviewOf[id] = ReviewRecord({
+            reviewer: msg.sender,
+            approved: approved,
+            reason: reason,
+            dataHash: a.dataHash,
+            ts: uint64(block.timestamp)
+        });
+
+        if (approved && address(points) != address(0)) {
+            points.award(a.reporter, POINT_REPORT, "REPORT_VERIFIED");
+        }
+
+        emit AnimalReviewed(id, msg.sender, approved, reason, uint64(block.timestamp));
+    }
+
+    /// @notice 状态流转（入站 / 救治 / 转待领养 / 放归 / 死亡…）
+    function updateStatus(
+        uint256 id,
+        uint8 newStatus,
+        bytes32 evidenceHash,
+        string calldata note
+    ) external onlyAdminOrShelter {
+        Animal storage a = animals[id];
+        require(a.exists, "Ledger: not exist");
+        require(a.reviewed, "Ledger: not reviewed");
+        uint8 old = a.status;
+        a.status = newStatus;
+        a.updatedAt = uint64(block.timestamp);
+        if (newStatus == uint8(Status.Sheltered) && a.shelter == address(0)) {
+            a.shelter = msg.sender;
+            if (address(points) != address(0)) {
+                points.award(msg.sender, POINT_SHELTER, "SHELTER_INTAKE");
+            }
+        }
+        _appendTransfer(id, address(0), address(0), old, newStatus, evidenceHash, note);
+        emit AnimalStatusUpdated(id, old, newStatus, msg.sender, evidenceHash, note, uint64(block.timestamp));
+    }
+
+    /// @notice 托管权转移：救助站 -> 领养人（或站间转运），永久留痕
+    function transferCustody(
+        uint256 id,
+        address to,
+        uint8 newStatus,
+        bytes32 evidenceHash,
+        string calldata note
+    ) external onlyAdminOrShelter {
+        Animal storage a = animals[id];
+        require(a.exists, "Ledger: not exist");
+        require(to != address(0), "Ledger: zero addr");
+        require(a.reviewed, "Ledger: not reviewed");
+
+        uint8 old = a.status;
+        address from = a.guardian != address(0) ? a.guardian : a.shelter;
+        if (from == address(0)) from = msg.sender;
+
+        a.status = newStatus;
+        a.guardian = (newStatus == uint8(Status.Adopted)) ? to : a.guardian;
+        if (newStatus != uint8(Status.Adopted)) a.shelter = to;
+        a.updatedAt = uint64(block.timestamp);
+
+        _appendTransfer(id, from, to, old, newStatus, evidenceHash, note);
+        emit CustodyTransferred(id, from, to, evidenceHash, uint64(block.timestamp));
+        emit AnimalStatusUpdated(id, old, newStatus, msg.sender, evidenceHash, note, uint64(block.timestamp));
+    }
+
+    /// @notice 领养完成时由领养合约回调，写入领养人并发放积分
+    function markAdopted(uint256 id, address guardian, bytes32 contractHash) external onlyAdmin {
+        Animal storage a = animals[id];
+        require(a.exists, "Ledger: not exist");
+        uint8 old = a.status;
+        a.status = uint8(Status.Adopted);
+        a.guardian = guardian;
+        a.updatedAt = uint64(block.timestamp);
+        _appendTransfer(id, a.shelter, guardian, old, uint8(Status.Adopted), contractHash, "ADOPTION_SIGNED_CUSTODY_TRANSFER");
+        emit CustodyTransferred(id, a.shelter, guardian, contractHash, uint64(block.timestamp));
+        if (address(points) != address(0)) {
+            points.award(guardian, POINT_ADOPT, "ADOPTION_SIGNED");
+        }
+    }
+
+    function _appendTransfer(
+        uint256 id,
+        address from,
+        address to,
+        uint8 fromStatus,
+        uint8 toStatus,
+        bytes32 evidenceHash,
+        string memory note
+    ) internal {
+        transfers[id].push(TransferRecord({
+            from: from,
+            to: to,
+            fromStatus: fromStatus,
+            toStatus: toStatus,
+            evidenceHash: evidenceHash,
+            note: note,
+            operator: msg.sender,
+            ts: uint64(block.timestamp)
+        }));
+    }
+
+    // ---------------- 查询 ----------------
+
+    function getAnimal(uint256 id) external view returns (Animal memory) {
+        return animals[id];
+    }
+
+    function getTransfers(uint256 id) external view returns (TransferRecord[] memory) {
+        return transfers[id];
+    }
+
+    function getReview(uint256 id) external view returns (ReviewRecord memory) {
+        return reviewOf[id];
+    }
+
+    /// @notice 分页摘要，便于前端列表渲染
+    function getAnimals(uint256 offset, uint256 limit)
+        external
+        view
+        returns (Animal[] memory list)
+    {
+        if (offset >= animalCount || limit == 0) return new Animal[](0);
+        uint256 end = offset + limit;
+        if (end > animalCount) end = animalCount;
+        list = new Animal[](end - offset);
+        for (uint256 i = offset; i < end; i++) {
+            list[i - offset] = animals[i + 1];
+        }
+    }
+}

@@ -1,1 +1,154 @@
-LyoqCiAqIHNlZWQuanMg4oCU4oCUIOmDkeW3nuacrOWcsOenjeWtkOaVsOaNru+8iOmmluasoeiuv+mXruaXtuWGmeWFpemTvuS4iu+8jOS+v+S6juebtOaOpeS9k+mqjOWFqOa1geeoi++8iQogKi8KKGZ1bmN0aW9uIChnbG9iYWwpIHsKICAndXNlIHN0cmljdCc7CgogIGNvbnN0IEEgPSAoKSA9PiBnbG9iYWwuWlpBdXRoLmFjY291bnRzOwogIGNvbnN0IGFkbWluQWRkciA9ICgpID0+IEEoKVswXS5hZGRyOwogIGNvbnN0IHNoZWx0ZXIxID0gKCkgPT4gQSgpWzFdLmFkZHI7CiAgY29uc3Qgc2hlbHRlcjIgPSAoKSA9PiBBKClbMl0uYWRkcjsKICBjb25zdCB1c2VyMSA9ICgpID0+IEEoKVszXS5hZGRyOwogIGNvbnN0IHVzZXIyID0gKCkgPT4gQSgpWzRdLmFkZHI7CgogIGNvbnN0IFBPSVMgPSBbCiAgICB7IGtpbmQ6IDEsIG5hbWU6ICfpg5Hlt57luILlsI/liqjniankv53miqTljY/kvJrmlZHliqnnq5knLCBhZGRyZXNzVGV4dDogJ+aDoOa1juWMuuWkp+ays+i3r+S4reautScsIGxhdDogMTEzLjYxMjMsIGxuZzogMzQuODc2NSwgY29udGFjdDogJzAzNzEtNnh4eHh4MDEnIH0sCiAgICB7IGtpbmQ6IDEsIG5hbWU6ICfkuozkuIPljLrmr5vmr5vpm6jmlZHliqnlsI/pmaInLCBhZGRyZXNzVGV4dDogJ+S6jOS4g+WMuuS+r+WvqOS5oScsIGxhdDogMTEzLjU5ODcsIGxuZzogMzQuNjg1NCwgY29udGFjdDogJzAzNzEtNnh4eHh4MDInIH0sCiAgICB7IGtpbmQ6IDEsIG5hbWU6ICfkuK3ljp/ljLrmmpbniKrmlZHliqnnq5knLCBhZGRyZXNzVGV4dDogJ+S4reWOn+WMuuilv+a1gea5lui3rycsIGxhdDogMTEzLjU2NTQsIGxuZzogMzQuNzYyMSwgY29udGFjdDogJzAzNzEtNnh4eHh4MDMnIH0sCiAgICB7IGtpbmQ6IDIsIG5hbWU6ICflurfml63lrqDnianljLvpmaLvvIjph5HmsLTlupfvvIknLCBhZGRyZXNzVGV4dDogJ+mHkeawtOWMuuiKseWbrei3ryAxMjgg5Y+3JywgbGF0OiAxMTMuNjg1MiwgbG5nOiAzNC43ODY1LCBjb250YWN0OiAnMDM3MS02eHh4eHgxMScgfSwKICAgIHsga2luZDogMiwgbmFtZTogJ+eRnua0vuWuoOeJqeWMu+mZou+8iOmDkeS4nOaWsOWMuuW6l++8iScsIGFkZHJlc3NUZXh0OiAn6YOR5Lic5paw5Yy65ZWG5Yqh5YaF546vJywgbGF0OiAxMTMuNzYyMywgbG5nOiAzNC43NzEyLCBjb250YWN0OiAnMDM3MS02eHh4eHgxMicgfSwKICAgIHsga2luZDogMiwgbmFtZTogJ+WuieWuieWuoOWMu++8iOmrmOaWsOWMuuW6l++8iScsIGFkZHJlc3NUZXh0OiAn6auY5paw5Yy656eR5a2m5aSn6YGTJywgbGF0OiAxMTMuNTUyMSwgbG5nOiAzNC44MTAyLCBjb250YWN0OiAnMDM3MS02eHh4eHgxMycgfSwKICAgIHsga2luZDogMywgbmFtZTogJ+S6uuawkeWFrOWbreaKleWWgueCuScsIGFkZHJlc3NUZXh0OiAn6YeR5rC05Yy65Lq65rCR5YWs5Zut5Lic6ZeoJywgbGF0OiAxMTMuNjY1MiwgbG5nOiAzNC43NTk4LCBjb250YWN0OiAn5b+X5oS/6ICF6L2u5YC8JyB9LAogICAgeyBraW5kOiAzLCBuYW1lOiAn6YOR5bee5aSn5a2m5Y2X5qCh5Yy65oqV5ZaC54K5JywgYWRkcmVzc1RleHQ6ICfkuozkuIPljLrlpKflrabljJfot68nLCBsYXQ6IDExMy42NDAzLCBsbmc6IDM0Ljc0OTAsIGNvbnRhY3Q6ICfmoKHlm63liqjkv53npL7lm6InIH0sCiAgICB7IGtpbmQ6IDMsIG5hbWU6ICfkuJzpo47muKDmu6jmsrPlhazlm63mipXlloLngrknLCBhZGRyZXNzVGV4dDogJ+mHkeawtOWMuuS4nOmjjua4oOWMl+WyuCcsIGxhdDogMTEzLjY5NDAsIGxuZzogMzQuODEwMCwgY29udGFjdDogJ+W/l+aEv+iAhei9ruWAvCcgfQogIF07CgogIGNvbnN0IEFOSU1BTFMgPSBbCiAgICB7CiAgICAgIGZyb206IHVzZXIxLCBzcGVjaWVzOiAn54yrJywgdGl0bGU6ICfph5HmsLTljLroirHlm63ot6/lj5fkvKTmqZjnjKsnLAogICAgICBhZGRyZXNzVGV4dDogJ+mHkeawtOWMuuiKseWbrei3r+S4juWGnOS4mui3r+S6pOWPieWPoycsIGxhdDogMTEzLjY3NjQsIGxuZzogMzQuNzk5Mywgc2V2ZXJpdHk6IDEsCiAgICAgIG1ldGE6IHsgZGVzYzogJ+WPs+WQjuiFv+eWkeS8vOmqqOaKmO+8jOi6suWcqOe7v+WMluW4pu+8jOeyvuelnuWwmuWPr++8jOaAleeUn+OAgicsIGNvbnRhY3Q6ICcxMzh4eHh4MjEwMScsIHRhZ3M6IFsn5Y+X5LykJywgJ+aAleeUnyddIH0KICAgIH0sCiAgICB7CiAgICAgIGZyb206IHVzZXIyLCBzcGVjaWVzOiAn54qsJywgdGl0bGU6ICfkuozkuIPlub/lnLrph43kvKTnmb3oibLlsI/lnovniqwnLAogICAgICBhZGRyZXNzVGV4dDogJ+S6jOS4g+WMuuS6jOS4g+W5v+WcuuWcsOmTgeWPoycsIGxhdDogMTEzLjYzMzksIGxuZzogMzQuNzQ3Nywgc2V2ZXJpdHk6IDMsCiAgICAgIG1ldGE6IHsgZGVzYzogJ+iiq+i9puaSnuS8pO+8jOWQjuiCouaXoOazleermeeri++8jOacieWHuuihgO+8jOaDheWGteWNseaApe+8jOaApemcgOmAgeWMu+OAgicsIGNvbnRhY3Q6ICcxMzl4eHh4MzMyMCcsIHRhZ3M6IFsn6YeN5LykJywgJ+e0p+aApScsICfpnIDpgIHljLsnXSB9CiAgICB9LAogICAgewogICAgICBmcm9tOiB1c2VyMSwgc3BlY2llczogJ+eMqycsIHRpdGxlOiAn5Lit5Y6f5LiH6L6+5LiJ6Iqx54yr77yI5Lqy5Lq677yJJywKICAgICAgYWRkcmVzc1RleHQ6ICfkuK3ljp/ljLrkuIfovr7lub/lnLrljJfkvqcnLCBsYXQ6IDExMy42MDI5LCBsbmc6IDM0Ljc0NjksIHNldmVyaXR5OiAwLAogICAgICBtZXRhOiB7IGRlc2M6ICfnuqYgMSDlsoHvvIzlt7LpqbHomavvvIzkurLkurrlj6/mirHvvIzpgILlkIjlrrbluq3pooblhbvjgIInLCBjb250YWN0OiAnMTM4eHh4eDIxMDEnLCB0YWdzOiBbJ+S6suS6uicsICflt7LpqbHomasnLCAn5b6F6aKG5YW7J10gfQogICAgfSwKICAgIHsKICAgICAgZnJvbTogdXNlcjIsIHNwZWNpZXM6ICfnjKsnLCB0aXRsZTogJ+WmguaEj+a5lueVlOWltueJm+eMq++8iOeWkeS8vOeMq+eZo++8iScsCiAgICAgIGFkZHJlc3NUZXh0OiAn6YOR5Lic5paw5Yy65aaC5oSP5rmW5paH5YyW5bm/5Zy6JywgbGF0OiAxMTMuNzUwNywgbG5nOiAzNC43Njk1LCBzZXZlcml0eTogMiwKICAgICAgbWV0YTogeyBkZXNjOiAn6ICz5py16ZmE6L+R6ISx5q+b77yM55aR5Ly854yr55mj77yM5q2j5Zyo6I2v5rW05rK755aX5Lit44CCJywgY29udGFjdDogJzEzOXh4eHgzMzIwJywgdGFnczogWyfmgqPnl4UnLCAn5rK755aX5LitJ10gfQogICAgfSwKICAgIHsKICAgICAgZnJvbTogdXNlcjEsIHNwZWNpZXM6ICfniqwnLCB0aXRsZTogJ+mrmOaWsOWMuua1gea1queUsOWbreeKrOOAjOWkp+m7hOOAjScsCiAgICAgIGFkZHJlc3NUZXh0OiAn6auY5paw5Yy656eR5a2m5aSn6YGT5LiO6ZW/5qS/6LevJywgbGF0OiAxMTMuNTQ2MSwgbG5nOiAzNC44MDM4LCBzZXZlcml0eTogMCwKICAgICAgbWV0YTogeyBkZXNjOiAn5oiQ5bm06ZuE5oCn77yM5bey5YWN55ar77yM5oCn5qC85rip6aG677yM5bey5a6M5oiQ6aKG5YW7562+57qm44CCJywgY29udGFjdDogJzEzOHh4eHgyMTAxJywgdGFnczogWyflt7LlhY3nlqsnLCAn5bey6aKG5YW7J10gfQogICAgfSwKICAgIHsKICAgICAgZnJvbTogdXNlcjIsIHNwZWNpZXM6ICfnjKsnLCB0aXRsZTogJ+euoeWfjuWMuuWVhuWfjui3r+W5vOeMq++8iOe6piAyIOaciO+8iScsCiAgICAgIGFkZHJlc3NUZXh0OiAn566h5Z+O5Yy65ZWG5Z+O6Lev5LiO57Sr6I2G5bGx6LevJywgbGF0OiAxMTMuNjc0MCwgbG5nOiAzNC43NTIwLCBzZXZlcml0eTogMSwKICAgICAgbWV0YTogeyBkZXNjOiAn57q4566x5YaF5Y+R546wIDMg5Y+q5bm854yr77yM5YW25LitIDEg5Y+q55y8552b5Y+R54KO44CCJywgY29udGFjdDogJzEzOXh4eHgzMzIwJywgdGFnczogWyflubzltL0nLCAn5b6F5a6h5qC4J10gfQogICAgfQogIF07CgogIGFzeW5jIGZ1bmN0aW9uIGVuc3VyZSgpIHsKICAgIGlmIChsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgnenouc2VlZGVkJykgPT09ICd2MScpIHJldHVybiBmYWxzZTsKICAgIGNvbnN0IEMgPSBnbG9iYWwuWlpDaGFpbjsKICAgIGNvbnN0IHN0ID0gQy5fc3RhdGUoKS5jb250cmFjdHMucmVzY3VlLnN0b3JhZ2U7CiAgICBpZiAoc3QucG9pQ291bnQgPiAwIHx8IHN0LmFuaW1hbENvdW50ID4gMCkgewogICAgICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbSgnenouc2VlZGVkJywgJ3YxJyk7CiAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCiAgICAvLyAxLiDop5LoibLmjojmnYMKICAgIGF3YWl0IEMuc2VuZEJhdGNoKFsKICAgICAgeyBjb250cmFjdDogJ3Jlc2N1ZUxlZGdlcicsIG1ldGhvZDogJ3NldFNoZWx0ZXInLCBhcmdzOiBbc2hlbHRlcjEoKSwgdHJ1ZV0gfSwKICAgICAgeyBjb250cmFjdDogJ3Jlc2N1ZUxlZGdlcicsIG1ldGhvZDogJ3NldFNoZWx0ZXInLCBhcmdzOiBbc2hlbHRlcjIoKSwgdHJ1ZV0gfSwKICAgICAgeyBjb250cmFjdDogJ2Fkb3B0aW9uTGVkZ2VyJywgbWV0aG9kOiAnc2V0U2hlbHRlcicsIGFyZ3M6IFtzaGVsdGVyMSgpLCB0cnVlXSB9LAogICAgICB7IGNvbnRyYWN0OiAnYWRvcHRpb25MZWRnZXInLCBtZXRob2Q6ICdzZXRTaGVsdGVyJywgYXJnczogW3NoZWx0ZXIyKCksIHRydWVdIH0sCiAgICAgIHsgY29udHJhY3Q6ICdhZG9wdGlvbkxlZGdlcicsIG1ldGhvZDogJ3NldEFkbWluJywgYXJnczogW3NoZWx0ZXIxKCksIHRydWVdIH0KICAgIF0sIHsgZnJvbTogYWRtaW5BZGRyKCkgfSk7CgogICAgLy8gMi4g54K55L2N5LiK6ZO+CiAgICBmb3IgKGNvbnN0IHAgb2YgUE9JUykgewogICAgICBhd2FpdCBDLnNlbmQoJ3Jlc2N1ZUxlZGdlcicsICdyZWdpc3RlclBPSScsCiAgICAgICAgW3Aua2luZCwgcC5uYW1lLCBwLmFkZHJlc3NUZXh0LCBNYXRoLnJvdW5kKHAubGF0ICogMWU2KSwgTWF0aC5yb3VuZChwLmxuZyAqIDFlNiksIHAuY29udGFjdF0sCiAgICAgICAgeyBmcm9tOiBwLmtpbmQgPT09IDEgPyBzaGVsdGVyMSgpIDogYWRtaW5BZGRyKCkgfSk7CiAgICB9CgogICAgLy8gMy4g57q/57Si5LiK5oql77yI5ZCrIFNIQS0yNTYg5a2Y6K+B77yJCiAgICBjb25zdCBpZHMgPSBbXTsKICAgIGZvciAoY29uc3QgYSBvZiBBTklNQUxTKSB7CiAgICAgIGNvbnN0IHBheWxvYWQgPSB7CiAgICAgICAgc3BlY2llczogYS5zcGVjaWVzLCB0aXRsZTogYS50aXRsZSwgYWRkcmVzc1RleHQ6IGEuYWRkcmVzc1RleHQsCiAgICAgICAgbGF0OiBhLmxhdCwgbG5nOiBhLmxuZywgc2V2ZXJpdHk6IGEuc2V2ZXJpdHksCiAgICAgICAgZGVzYzogYS5tZXRhLmRlc2MsIGNvbnRhY3Q6IGEubWV0YS5jb250YWN0LCB0YWdzOiBhLm1ldGEudGFncywgcGhvdG9IYXNoOiBudWxsCiAgICAgIH07CiAgICAgIGNvbnN0IGRhdGFIYXNoID0gYXdhaXQgZ2xvYmFsLlpaSGFzaC5oYXNoUmVjb3JkKHBheWxvYWQpOwogICAgICBjb25zdCByYyA9IGF3YWl0IEMuc2VuZCgncmVzY3VlTGVkZ2VyJywgJ3JlcG9ydEFuaW1hbCcsIFt7CiAgICAgICAgZGF0YUhhc2gsIG1ldGFVUkk6IEpTT04uc3RyaW5naWZ5KGEubWV0YSksIHNwZWNpZXM6IGEuc3BlY2llcywgdGl0bGU6IGEudGl0bGUsCiAgICAgICAgbGF0MWU2OiBNYXRoLnJvdW5kKGEubGF0ICogMWU2KSwgbG5nMWU2OiBNYXRoLnJvdW5kKGEubG5nICogMWU2KSwKICAgICAgICBhZGRyZXNzVGV4dDogYS5hZGRyZXNzVGV4dCwgc2V2ZXJpdHk6IGEuc2V2ZXJpdHkKICAgICAgfV0sIHsgZnJvbTogYS5mcm9tKCkgfSk7CiAgICAgIGlkcy5wdXNoKHJjLnZhbHVlKTsKICAgIH0KCiAgICAvLyA0LiDnrqHnkIblkZjlrqHmoLjvvJojMSAjMiDkv53nlZnlvoXlrqHmoLjvvIjlkKsgMSDmnaHntKfmgKXvvInvvIzlhbbkvZnpgJrov4cKICAgIGNvbnN0IGFwcHJvdmVJZHggPSBbMCwgMiwgMywgNF07CiAgICBmb3IgKGNvbnN0IGkgb2YgYXBwcm92ZUlkeCkgewogICAgICBhd2FpdCBDLnNlbmQoJ3Jlc2N1ZUxlZGdlcicsICdyZXZpZXdBbmltYWwnLCBbaWRzW2ldLCB0cnVlLCAn546w5Zy65qC45a6e77yM5oOF5Ya15bGe5a6eJ10sIHsgZnJvbTogYWRtaW5BZGRyKCkgfSk7CiAgICB9CiAgICAvLyAjNCDpqbPlm57kuIDmnaHvvJrph43lpI3nur/ntKIKICAgIGF3YWl0IEMuc2VuZCgncmVzY3VlTGVkZ2VyJywgJ3Jldmlld0FuaW1hbCcsIFtpZHNbNV0sIGZhbHNlLCAn5LiOICMnICsgaWRzWzBdICsgJyDkuLrlkIzkuIDlnLDngrnph43lpI3kuIrmiqUnXSwgeyBmcm9tOiBhZG1pbkFkZHIoKSB9KTsKCiAgICAvLyA1LiDmtYHovazvvJrlhaXnq5kgLyDmlZHmsrsgLyDlvoXpooblhbsgLyDlt7LpooblhbsKICAgIGF3YWl0IEMuc2VuZCgncmVzY3VlTGVkZ2VyJywgJ3VwZGF0ZVN0YXR1cycsIFtpZHNbMF0sIDIsIGF3YWl0IGgoJ+WFpeermeS6pOaOpeWNlS1BMScpLCAn5bey6YCB5YWl6YOR5bee5biC5bCP5Yqo54mp5L+d5oqk5Y2P5Lya5pWR5Yqp56uZJ10sIHsgZnJvbTogc2hlbHRlcjEoKSB9KTsKICAgIGF3YWl0IEMuc2VuZCgncmVzY3VlTGVkZ2VyJywgJ3VwZGF0ZVN0YXR1cycsIFtpZHNbMl0sIDIsIGF3YWl0IGgoJ+WFpeermeS6pOaOpeWNlS1BMycpLCAn5bey5YWl56uZ77yM5YGl5bq354q25oCB6Imv5aW9J10sIHsgZnJvbTogc2hlbHRlcjEoKSB9KTsKICAgIGF3YWl0IEMuc2VuZCgncmVzY3VlTGVkZ2VyJywgJ3VwZGF0ZVN0YXR1cycsIFtpZHNbMl0sIDQsIGF3YWl0IGgoJ+S9k+ajgOaKpeWRii1BMycpLCAn5L2T5qOA5a6M5oiQ77yM6L2s5Li65b6F6aKG5YW7J10sIHsgZnJvbTogc2hlbHRlcjEoKSB9KTsKICAgIGF3YWl0IEMuc2VuZCgncmVzY3VlTGVkZ2VyJywgJ3VwZGF0ZVN0YXR1cycsIFtpZHNbM10sIDIsIGF3YWl0IGgoJ+WFpeermeS6pOaOpeWNlS1BNCcpLCAn5YWl56uZ5bm26YCB5Yy7J10sIHsgZnJvbTogc2hlbHRlcjIoKSB9KTsKICAgIGF3YWl0IEMuc2VuZCgncmVzY3VlTGVkZ2VyJywgJ3VwZGF0ZVN0YXR1cycsIFtpZHNbM10sIDMsIGF3YWl0IGgoJ+iviuaWreS5pi1BNCcpLCAn54yr55mj6I2v5rW05rK755aX5LitJ10sIHsgZnJvbTogc2hlbHRlcjIoKSB9KTsKICAgIGF3YWl0IEMuc2VuZCgncmVzY3VlTGVkZ2VyJywgJ3VwZGF0ZVN0YXR1cycsIFtpZHNbNF0sIDIsIGF3YWl0IGgoJ+WFpeermeS6pOaOpeWNlS1BNScpLCAn5YWl56uZJ10sIHsgZnJvbTogc2hlbHRlcjEoKSB9KTsKICAgIGF3YWl0IEMuc2VuZCgncmVzY3VlTGVkZ2VyJywgJ3VwZGF0ZVN0YXR1cycsIFtpZHNbNF0sIDQsIGF3YWl0IGgoJ+WFjeeWq+iusOW9lS1BNScpLCAn5a6M5oiQ5YWN55ar77yM5b6F6aKG5YW7J10sIHsgZnJvbTogc2hlbHRlcjEoKSB9KTsKCiAgICAvLyA2LiDpooblhbvmtYHnqIvvvIhBNSDlt7LlrozmiJDnrb7nuqYgKyAyIOasoeWbnuiuv++8m0EzIOacieS4gOadoeW+heetvue6pueUs+ivt++8iQogICAgY29uc3QgZm9ybTEgPSB7IG5hbWU6ICflvKDlhYjnlJ8nLCBwaG9uZTogJzEzOXh4eHgzMzIwJywgYWRkcmVzczogJ+S4reWOn+WMuicsIGhvdXNlOiAn6Ieq5pyJ5L2P5oi/JywgZXhwZXJpZW5jZTogJ+WFu+i/hyAyIOWPqueMqycsIGFncmVlOiB0cnVlIH07CiAgICBjb25zdCByQXBwMSA9IGF3YWl0IEMuc2VuZCgnYWRvcHRpb25MZWRnZXInLCAnYXBwbHlGb3InLAogICAgICBbaWRzWzRdLCBhd2FpdCBnbG9iYWwuWlpIYXNoLmhhc2hSZWNvcmQoZm9ybTEpLCBKU09OLnN0cmluZ2lmeShmb3JtMSldLCB7IGZyb206IHVzZXIyKCkgfSk7CiAgICBjb25zdCBhcHAxSWQgPSByQXBwMS52YWx1ZTsKCiAgICBhd2FpdCBDLnNlbmQoJ2Fkb3B0aW9uTGVkZ2VyJywgJ2JhY2tncm91bmRDaGVjaycsIFthcHAxSWQsIGF3YWl0IGgoJ+iDjOaZr+aguOmqjC1BcHAxJyksIHRydWUsICfkvY/miL/nqLPlrprvvIzlrrbluq3miJDlkZjlkIzmhI/vvIzml6DlvIPlhbvorrDlvZUnXSwgeyBmcm9tOiBhZG1pbkFkZHIoKSB9KTsKICAgIGF3YWl0IEMuc2VuZCgnYWRvcHRpb25MZWRnZXInLCAncmV2aWV3QXBwbGljYXRpb24nLCBbYXBwMUlkLCB0cnVlLCAnJywgJ+mmluaciOavj+WRqCAxIOasoe+8jOS5i+WQjuavj+aciCAxIOasoe+8jOWFsSA2IOasoSddLCB7IGZyb206IGFkbWluQWRkcigpIH0pOwogICAgYXdhaXQgQy5zZW5kKCdhZG9wdGlvbkxlZGdlcicsICdzaWduQ29udHJhY3QnLCBbYXBwMUlkLCBhd2FpdCBoKCfpooblhbvljY/orq4tQXBwMS3lpKfpu4QnKV0sIHsgZnJvbTogc2hlbHRlcjEoKSB9KTsKICAgIGF3YWl0IEMuc2VuZCgnYWRvcHRpb25MZWRnZXInLCAnYWRkVmlzaXRSZWNvcmQnLCBbYXBwMUlkLCBhd2FpdCBoKCflm57orr/orrDlvZUtQXBwMS3nrKwx5qyhJyksICfmlrDlrrbpgILlupToia/lpb3vvIzppa7po5/mraPluLgnLCB0cnVlXSwgeyBmcm9tOiBhZG1pbkFkZHIoKSB9KTsKICAgIGF3YWl0IEMuc2VuZCgnYWRvcHRpb25MZWRnZXInLCAnYWRkVmlzaXRSZWNvcmQnLCBbYXBwMUlkLCBhd2FpdCBoKCflm57orr/orrDlvZUtQXBwMS3nrKwy5qyhJyksICflt7LlrozmiJDkvZPlhoXpqbHomavvvIznlqvoi5fnrKzkuozpkognLCB0cnVlXSwgeyBmcm9tOiBhZG1pbkFkZHIoKSB9KTsKCiAgICBjb25zdCBmb3JtMiA9IHsgbmFtZTogJ+Wwj+aelycsIHBob25lOiAnMTM4eHh4eDIxMDEnLCBhZGRyZXNzOiAn6YeR5rC05Yy6JywgaG91c2U6ICfnp5/miL/vvIjmiL/kuJzlkIzmhI/vvIknLCBleHBlcmllbmNlOiAn6aaW5qyh5YW754yrJywgYWdyZWU6IHRydWUgfTsKICAgIGNvbnN0IHJBcHAyID0gYXdhaXQgQy5zZW5kKCdhZG9wdGlvbkxlZGdlcicsICdhcHBseUZvcicsCiAgICAgIFtpZHNbMl0sIGF3YWl0IGdsb2JhbC5aWkhhc2guaGFzaFJlY29yZChmb3JtMiksIEpTT04uc3RyaW5naWZ5KGZvcm0yKV0sIHsgZnJvbTogdXNlcjEoKSB9KTsKICAgIGNvbnN0IGFwcDJJZCA9IHJBcHAyLnZhbHVlOwogICAgYXdhaXQgQy5zZW5kKCdhZG9wdGlvbkxlZGdlcicsICdiYWNrZ3JvdW5kQ2hlY2snLCBbYXBwMklkLCBhd2FpdCBoKCfog4zmma/moLjpqowtQXBwMicpLCB0cnVlLCAn5oi/5Lic5bey5Lmm6Z2i5ZCM5oSP6aWy5YW7J10sIHsgZnJvbTogYWRtaW5BZGRyKCkgfSk7CiAgICBhd2FpdCBDLnNlbmQoJ2Fkb3B0aW9uTGVkZ2VyJywgJ3Jldmlld0FwcGxpY2F0aW9uJywgW2FwcDJJZCwgdHJ1ZSwgJycsICfpppbmnIjmr4/lkaggMSDmrKHvvIzlhbEgNCDmrKEnXSwgeyBmcm9tOiBhZG1pbkFkZHIoKSB9KTsKCiAgICBjb25zdCBmb3JtMyA9IHsgbmFtZTogJ+eOi+WQjOWtpicsIHBob25lOiAnMTM3eHh4eDg4OTknLCBhZGRyZXNzOiAn6auY5paw5Yy65a2m55Sf5a6/6IiNJywgaG91c2U6ICfpm4bkvZPlrr/oiI0nLCBleHBlcmllbmNlOiAn5pegJywgYWdyZWU6IHRydWUgfTsKICAgIGNvbnN0IHJBcHAzID0gYXdhaXQgQy5zZW5kKCdhZG9wdGlvbkxlZGdlcicsICdhcHBseUZvcicsCiAgICAgIFtpZHNbM10sIGF3YWl0IGdsb2JhbC5aWkhhc2guaGFzaFJlY29yZChmb3JtMyksIEpTT04uc3RyaW5naWZ5KGZvcm0zKV0sIHsgZnJvbTogdXNlcjIoKSB9KTsKICAgIGNvbnN0IGFwcDNJZCA9IHJBcHAzLnZhbHVlOwogICAgYXdhaXQgQy5zZW5kKCdhZG9wdGlvbkxlZGdlcicsICdyZXZpZXdBcHBsaWNhdGlvbicsIFthcHAzSWQsIGZhbHNlLCAn6ZuG5L2T5a6/6IiN5LiN5YW35aSH6aWy5YW75p2h5Lu277yM5LiU5Yqo54mp5LuN5Zyo5rK755aX5LitJywgJyddLCB7IGZyb206IGFkbWluQWRkcigpIH0pOwoKICAgIC8vIDcuIOWFrOebiuenr+WIhgogICAgYXdhaXQgQy5zZW5kKCdjaGFyaXR5UG9pbnRzJywgJ2F3YXJkJywgW3VzZXIxKCksIDE1LCAn5Y+C5LiO5ZGo5pyr6KGX6Z2i5beh5p+lJ10sIHsgZnJvbTogYWRtaW5BZGRyKCkgfSk7CiAgICBhd2FpdCBDLnNlbmQoJ2NoYXJpdHlQb2ludHMnLCAnYXdhcmQnLCBbdXNlcjIoKSwgOCwgJ+aPkOS+m+S4tOaXtuWvhOWFuyddLCB7IGZyb206IGFkbWluQWRkcigpIH0pOwoKICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCd6ei5zZWVkZWQnLCAndjEnKTsKICAgIHJldHVybiB0cnVlOwogIH0KCiAgYXN5bmMgZnVuY3Rpb24gaChzKSB7IHJldHVybiBnbG9iYWwuWlpIYXNoLnNoYTI1NkhleCgnc2VlZDonICsgcyk7IH0KCiAgZ2xvYmFsLlpaU2VlZCA9IHsgZW5zdXJlLCBQT0lTLCBBTklNQUxTIH07Cn0pKHdpbmRvdyk7Cg==
+/**
+ * seed.js —— 郑州本地种子数据（首次访问时写入链上，便于直接体验全流程）
+ */
+(function (global) {
+  'use strict';
+
+  const A = () => global.ZZAuth.accounts;
+  const adminAddr = () => A()[0].addr;
+  const shelter1 = () => A()[1].addr;
+  const shelter2 = () => A()[2].addr;
+  const user1 = () => A()[3].addr;
+  const user2 = () => A()[4].addr;
+
+  const POIS = [
+    { kind: 1, name: '郑州市小动物保护协会救助站', addressText: '惠济区大河路中段', lat: 113.6123, lng: 34.8765, contact: '0371-6xxxxx01' },
+    { kind: 1, name: '二七区毛毛雨救助小院', addressText: '二七区侯寨乡', lat: 113.5987, lng: 34.6854, contact: '0371-6xxxxx02' },
+    { kind: 1, name: '中原区暖爪救助站', addressText: '中原区西流湖路', lat: 113.5654, lng: 34.7621, contact: '0371-6xxxxx03' },
+    { kind: 2, name: '康旭宠物医院（金水店）', addressText: '金水区花园路 128 号', lat: 113.6852, lng: 34.7865, contact: '0371-6xxxxx11' },
+    { kind: 2, name: '瑞派宠物医院（郑东新区店）', addressText: '郑东新区商务内环', lat: 113.7623, lng: 34.7712, contact: '0371-6xxxxx12' },
+    { kind: 2, name: '安安宠医（高新区店）', addressText: '高新区科学大道', lat: 113.5521, lng: 34.8102, contact: '0371-6xxxxx13' },
+    { kind: 3, name: '人民公园投喂点', addressText: '金水区人民公园东门', lat: 113.6652, lng: 34.7598, contact: '志愿者轮值' },
+    { kind: 3, name: '郑州大学南校区投喂点', addressText: '二七区大学北路', lat: 113.6403, lng: 34.7490, contact: '校园动保社团' },
+    { kind: 3, name: '东风渠滨河公园投喂点', addressText: '金水区东风渠北岸', lat: 113.6940, lng: 34.8100, contact: '志愿者轮值' }
+  ];
+
+  const ANIMALS = [
+    {
+      from: user1, species: '猫', title: '金水区花园路受伤橘猫',
+      addressText: '金水区花园路与农业路交叉口', lat: 113.6764, lng: 34.7993, severity: 1,
+      meta: { desc: '右后腿疑似骨折，躲在绿化带，精神尚可，怕生。', contact: '138xxxx2101', tags: ['受伤', '怕生'] }
+    },
+    {
+      from: user2, species: '犬', title: '二七广场重伤白色小型犬',
+      addressText: '二七区二七广场地铁口', lat: 113.6339, lng: 34.7477, severity: 3,
+      meta: { desc: '被车撞伤，后肢无法站立，有出血，情况危急，急需送医。', contact: '139xxxx3320', tags: ['重伤', '紧急', '需送医'] }
+    },
+    {
+      from: user1, species: '猫', title: '中原万达三花猫（亲人）',
+      addressText: '中原区万达广场北侧', lat: 113.6029, lng: 34.7469, severity: 0,
+      meta: { desc: '约 1 岁，已驱虫，亲人可抱，适合家庭领养。', contact: '138xxxx2101', tags: ['亲人', '已驱虫', '待领养'] }
+    },
+    {
+      from: user2, species: '猫', title: '如意湖畔奶牛猫（疑似猫癣）',
+      addressText: '郑东新区如意湖文化广场', lat: 113.7507, lng: 34.7695, severity: 2,
+      meta: { desc: '耳朵附近脱毛，疑似猫癣，正在药浴治疗中。', contact: '139xxxx3320', tags: ['患病', '治疗中'] }
+    },
+    {
+      from: user1, species: '犬', title: '高新区流浪田园犬「大黄」',
+      addressText: '高新区科学大道与长椿路', lat: 113.5461, lng: 34.8038, severity: 0,
+      meta: { desc: '成年雄性，已免疫，性格温顺，已完成领养签约。', contact: '138xxxx2101', tags: ['已免疫', '已领养'] }
+    },
+    {
+      from: user2, species: '猫', title: '管城区商城路幼猫（约 2 月）',
+      addressText: '管城区商城路与紫荆山路', lat: 113.6740, lng: 34.7520, severity: 1,
+      meta: { desc: '纸箱内发现 3 只幼猫，其中 1 只眼睛发炎。', contact: '139xxxx3320', tags: ['幼崽', '待审核'] }
+    }
+  ];
+
+  async function ensure() {
+    if (localStorage.getItem('zz.seeded') === 'v1') return false;
+    const C = global.ZZChain;
+    const st = C._state().contracts.rescue.storage;
+    if (st.poiCount > 0 || st.animalCount > 0) {
+      localStorage.setItem('zz.seeded', 'v1');
+      return false;
+    }
+
+    // 1. 角色授权
+    await C.sendBatch([
+      { contract: 'rescueLedger', method: 'setShelter', args: [shelter1(), true] },
+      { contract: 'rescueLedger', method: 'setShelter', args: [shelter2(), true] },
+      { contract: 'adoptionLedger', method: 'setShelter', args: [shelter1(), true] },
+      { contract: 'adoptionLedger', method: 'setShelter', args: [shelter2(), true] },
+      { contract: 'adoptionLedger', method: 'setAdmin', args: [shelter1(), true] }
+    ], { from: adminAddr() });
+
+    // 2. 点位上链
+    for (const p of POIS) {
+      await C.send('rescueLedger', 'registerPOI',
+        [p.kind, p.name, p.addressText, Math.round(p.lat * 1e6), Math.round(p.lng * 1e6), p.contact],
+        { from: p.kind === 1 ? shelter1() : adminAddr() });
+    }
+
+    // 3. 线索上报（含 SHA-256 存证）
+    const ids = [];
+    for (const a of ANIMALS) {
+      const payload = {
+        species: a.species, title: a.title, addressText: a.addressText,
+        lat: a.lat, lng: a.lng, severity: a.severity,
+        desc: a.meta.desc, contact: a.meta.contact, tags: a.meta.tags, photoHash: null
+      };
+      const dataHash = await global.ZZHash.hashRecord(payload);
+      const rc = await C.send('rescueLedger', 'reportAnimal', [{
+        dataHash, metaURI: JSON.stringify(a.meta), species: a.species, title: a.title,
+        lat1e6: Math.round(a.lat * 1e6), lng1e6: Math.round(a.lng * 1e6),
+        addressText: a.addressText, severity: a.severity
+      }], { from: a.from() });
+      ids.push(rc.value);
+    }
+
+    // 4. 管理员审核：#1 #2 保留待审核（含 1 条紧急），其余通过
+    const approveIdx = [0, 2, 3, 4];
+    for (const i of approveIdx) {
+      await C.send('rescueLedger', 'reviewAnimal', [ids[i], true, '现场核实，情况属实'], { from: adminAddr() });
+    }
+    // #4 驳回一条：重复线索
+    await C.send('rescueLedger', 'reviewAnimal', [ids[5], false, '与 #' + ids[0] + ' 为同一地点重复上报'], { from: adminAddr() });
+
+    // 5. 流转：入站 / 救治 / 待领养 / 已领养
+    await C.send('rescueLedger', 'updateStatus', [ids[0], 2, await h('入站交接单-A1'), '已送入郑州市小动物保护协会救助站'], { from: shelter1() });
+    await C.send('rescueLedger', 'updateStatus', [ids[2], 2, await h('入站交接单-A3'), '已入站，健康状态良好'], { from: shelter1() });
+    await C.send('rescueLedger', 'updateStatus', [ids[2], 4, await h('体检报告-A3'), '体检完成，转为待领养'], { from: shelter1() });
+    await C.send('rescueLedger', 'updateStatus', [ids[3], 2, await h('入站交接单-A4'), '入站并送医'], { from: shelter2() });
+    await C.send('rescueLedger', 'updateStatus', [ids[3], 3, await h('诊断书-A4'), '猫癣药浴治疗中'], { from: shelter2() });
+    await C.send('rescueLedger', 'updateStatus', [ids[4], 2, await h('入站交接单-A5'), '入站'], { from: shelter1() });
+    await C.send('rescueLedger', 'updateStatus', [ids[4], 4, await h('免疫记录-A5'), '完成免疫，待领养'], { from: shelter1() });
+
+    // 6. 领养流程（A5 已完成签约 + 2 次回访；A3 有一条待签约申请）
+    const form1 = { name: '张先生', phone: '139xxxx3320', address: '中原区', house: '自有住房', experience: '养过 2 只猫', agree: true };
+    const rApp1 = await C.send('adoptionLedger', 'applyFor',
+      [ids[4], await global.ZZHash.hashRecord(form1), JSON.stringify(form1)], { from: user2() });
+    const app1Id = rApp1.value;
+
+    await C.send('adoptionLedger', 'backgroundCheck', [app1Id, await h('背景核验-App1'), true, '住房稳定，家庭成员同意，无弃养记录'], { from: adminAddr() });
+    await C.send('adoptionLedger', 'reviewApplication', [app1Id, true, '', '首月每周 1 次，之后每月 1 次，共 6 次'], { from: adminAddr() });
+    await C.send('adoptionLedger', 'signContract', [app1Id, await h('领养协议-App1-大黄')], { from: shelter1() });
+    await C.send('adoptionLedger', 'addVisitRecord', [app1Id, await h('回访记录-App1-第1次'), '新家适应良好，饮食正常', true], { from: adminAddr() });
+    await C.send('adoptionLedger', 'addVisitRecord', [app1Id, await h('回访记录-App1-第2次'), '已完成体内驱虫，疫苗第二针', true], { from: adminAddr() });
+
+    const form2 = { name: '小林', phone: '138xxxx2101', address: '金水区', house: '租房（房东同意）', experience: '首次养猫', agree: true };
+    const rApp2 = await C.send('adoptionLedger', 'applyFor',
+      [ids[2], await global.ZZHash.hashRecord(form2), JSON.stringify(form2)], { from: user1() });
+    const app2Id = rApp2.value;
+    await C.send('adoptionLedger', 'backgroundCheck', [app2Id, await h('背景核验-App2'), true, '房东已书面同意饲养'], { from: adminAddr() });
+    await C.send('adoptionLedger', 'reviewApplication', [app2Id, true, '', '首月每周 1 次，共 4 次'], { from: adminAddr() });
+
+    const form3 = { name: '王同学', phone: '137xxxx8899', address: '高新区学生宿舍', house: '集体宿舍', experience: '无', agree: true };
+    const rApp3 = await C.send('adoptionLedger', 'applyFor',
+      [ids[3], await global.ZZHash.hashRecord(form3), JSON.stringify(form3)], { from: user2() });
+    const app3Id = rApp3.value;
+    await C.send('adoptionLedger', 'reviewApplication', [app3Id, false, '集体宿舍不具备饲养条件，且动物仍在治疗中', ''], { from: adminAddr() });
+
+    // 7. 公益积分
+    await C.send('charityPoints', 'award', [user1(), 15, '参与周末街面巡查'], { from: adminAddr() });
+    await C.send('charityPoints', 'award', [user2(), 8, '提供临时寄养'], { from: adminAddr() });
+
+    localStorage.setItem('zz.seeded', 'v1');
+    return true;
+  }
+
+  async function h(s) { return global.ZZHash.sha256Hex('seed:' + s); }
+
+  global.ZZSeed = { ensure, POIS, ANIMALS };
+})(window);

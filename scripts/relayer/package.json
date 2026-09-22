@@ -1,1 +1,13 @@
-ewogICJuYW1lIjogInp6LXJlc2N1ZS1yZWxheWVyIiwKICAidmVyc2lvbiI6ICIxLjAuMCIsCiAgInByaXZhdGUiOiB0cnVlLAogICJkZXNjcmlwdGlvbiI6ICLpg5Hlt57mtYHmtarliqjnianmlZHliqnpk74gwrcg5pys5Zyw562+5ZCN572R5YWz77yI5rWP6KeI5Zmo6Z2Z5oCB6aG1IOKGlCBGSVNDTyBCQ09T77yJIiwKICAibWFpbiI6ICJzZXJ2ZXIuanMiLAogICJzY3JpcHRzIjogewogICAgInN0YXJ0IjogIm5vZGUgc2VydmVyLmpzIgogIH0sCiAgImRlcGVuZGVuY2llcyI6IHsKICAgICJldGhlcnMiOiAiXjYuMTMuNCIKICB9Cn0K
+{
+  "name": "zz-rescue-relayer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "郑州流浪动物救助链 · 本地签名网关（浏览器静态页 ↔ FISCO BCOS）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ethers": "^6.13.4"
+  }
+}

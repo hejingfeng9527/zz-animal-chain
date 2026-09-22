@@ -1,1 +1,67 @@
-LyoqCiAqIGhhc2guanMg4oCU4oCUIOe6v+e0ouWTiOW4jOWtmOivgeW3peWFtwogKiAtIHNoYTI1NkhleDog55yf5a6eIFNIQS0yNTbvvIhXZWIgQ3J5cHRv77yJ77yM55So5LqO57q/57SiL+WNj+iuri/lm57orr/lh63or4HlrZjor4EKICogLSBzeW5jSGV4OiAgIOWQjOatpeWTiOW4jO+8jOS7heeUqOS6jueUn+aIkOa8lOekuueUqOWcsOWdgOOAgeS6pOaYky/ljLrlnZflk4jluIzmoIfor4YKICovCihmdW5jdGlvbiAoZ2xvYmFsKSB7CiAgJ3VzZSBzdHJpY3QnOwoKICBhc3luYyBmdW5jdGlvbiBzaGEyNTZIZXgoaW5wdXQpIHsKICAgIGNvbnN0IGJ1ZiA9IHR5cGVvZiBpbnB1dCA9PT0gJ3N0cmluZycKICAgICAgPyBuZXcgVGV4dEVuY29kZXIoKS5lbmNvZGUoaW5wdXQpCiAgICAgIDogbmV3IFVpbnQ4QXJyYXkoaW5wdXQpOwogICAgY29uc3QgZGlnZXN0ID0gYXdhaXQgY3J5cHRvLnN1YnRsZS5kaWdlc3QoJ1NIQS0yNTYnLCBidWYpOwogICAgcmV0dXJuICcweCcgKyBBcnJheS5mcm9tKG5ldyBVaW50OEFycmF5KGRpZ2VzdCkpCiAgICAgIC5tYXAoKGIpID0+IGIudG9TdHJpbmcoMTYpLnBhZFN0YXJ0KDIsICcwJykpCiAgICAgIC5qb2luKCcnKTsKICB9CgogIC8qKiDlkIzmraXlk4jluIzvvIhGTlYtMWEg5Y+Y5L2T77yM6Z2e5Yqg5a+G5by65bqm77yM5LuF55So5LqO5ryU56S65qCH6K+G55Sf5oiQ77yJICovCiAgZnVuY3Rpb24gc3luY0hleChzdHIsIGxlbikgewogICAgbGVuID0gbGVuIHx8IDY0OwogICAgY29uc3QgTUFTSyA9IDB4ZmZmZmZmZmZmZmZmZmZmZm47CiAgICBjb25zdCBQUklNRSA9IDB4MTAwMDAwMDAxYjNuOwogICAgbGV0IG91dCA9ICcnOwogICAgZm9yIChsZXQgcm91bmQgPSAwOyBvdXQubGVuZ3RoIDwgbGVuOyByb3VuZCsrKSB7CiAgICAgIGxldCBoID0gMHhjYmYyOWNlNDg0MjIyMzI1biArIEJpZ0ludChyb3VuZCkgKiAweDllMzc3OWI5N2Y0YTdjMTVuOwogICAgICBjb25zdCBzID0gU3RyaW5nKHN0cik7CiAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwgcy5sZW5ndGg7IGkrKykgewogICAgICAgIGggXj0gQmlnSW50KHMuY2hhckNvZGVBdChpKSArIHJvdW5kKTsKICAgICAgICBoID0gKGggKiBQUklNRSkgJiBNQVNLOwogICAgICB9CiAgICAgIG91dCArPSBoLnRvU3RyaW5nKDE2KS5wYWRTdGFydCgxNiwgJzAnKTsKICAgIH0KICAgIHJldHVybiBvdXQuc2xpY2UoMCwgbGVuKTsKICB9CgogIC8qKiDop4TojIPljJYgSlNPTu+8iOmUruaOkuW6jyArIOWOu+aOiSB1bmRlZmluZWTvvInvvIzkv53or4HlkIzmoLflhoXlrrnlvpfliLDlkIzmoLflk4jluIwgKi8KICBmdW5jdGlvbiBjYW5vbmljYWwodmFsdWUpIHsKICAgIGlmICh2YWx1ZSA9PT0gbnVsbCB8fCB0eXBlb2YgdmFsdWUgIT09ICdvYmplY3QnKSByZXR1cm4gSlNPTi5zdHJpbmdpZnkodmFsdWUpOwogICAgaWYgKEFycmF5LmlzQXJyYXkodmFsdWUpKSByZXR1cm4gJ1snICsgdmFsdWUubWFwKGNhbm9uaWNhbCkuam9pbignLCcpICsgJ10nOwogICAgY29uc3Qga2V5cyA9IE9iamVjdC5rZXlzKHZhbHVlKS5maWx0ZXIoKGspID0+IHZhbHVlW2tdICE9PSB1bmRlZmluZWQpLnNvcnQoKTsKICAgIHJldHVybiAneycgKyBrZXlzLm1hcCgoaykgPT4gSlNPTi5zdHJpbmdpZnkoaykgKyAnOicgKyBjYW5vbmljYWwodmFsdWVba10pKS5qb2luKCcsJykgKyAnfSc7CiAgfQoKICBhc3luYyBmdW5jdGlvbiBoYXNoUmVjb3JkKG9iaikgewogICAgcmV0dXJuIHNoYTI1NkhleChjYW5vbmljYWwob2JqKSk7CiAgfQoKICBhc3luYyBmdW5jdGlvbiBoYXNoRmlsZShmaWxlKSB7CiAgICBjb25zdCBhYiA9IGF3YWl0IGZpbGUuYXJyYXlCdWZmZXIoKTsKICAgIHJldHVybiBzaGEyNTZIZXgoYWIpOwogIH0KCiAgLyoqIOeUseaYteensOeUn+aIkOeos+WumueahOa8lOekuuWcsOWdgO+8iDIwIOWtl+iKgu+8iSAqLwogIGZ1bmN0aW9uIGFkZHJlc3NPZihuYW1lKSB7CiAgICByZXR1cm4gJzB4JyArIHN5bmNIZXgoJ2FkZHI6JyArIG5hbWUsIDQwKTsKICB9CgogIGZ1bmN0aW9uIHNob3J0SGFzaChoLCBoZWFkLCB0YWlsKSB7CiAgICBpZiAoIWgpIHJldHVybiAnLSc7CiAgICBoZWFkID0gaGVhZCB8fCAxMDsKICAgIHRhaWwgPSB0YWlsID09PSB1bmRlZmluZWQgPyA4IDogdGFpbDsKICAgIHJldHVybiBoLmxlbmd0aCA+IGhlYWQgKyB0YWlsID8gaC5zbGljZSgwLCBoZWFkKSArICfigKYnICsgaC5zbGljZSgtdGFpbCkgOiBoOwogIH0KCiAgZ2xvYmFsLlpaSGFzaCA9IHsgc2hhMjU2SGV4LCBzeW5jSGV4LCBjYW5vbmljYWwsIGhhc2hSZWNvcmQsIGhhc2hGaWxlLCBhZGRyZXNzT2YsIHNob3J0SGFzaCB9Owp9KSh3aW5kb3cpOwo=
+/**
+ * hash.js —— 线索哈希存证工具
+ * - sha256Hex: 真实 SHA-256（Web Crypto），用于线索/协议/回访凭证存证
+ * - syncHex:   同步哈希，仅用于生成演示用地址、交易/区块哈希标识
+ */
+(function (global) {
+  'use strict';
+
+  async function sha256Hex(input) {
+    const buf = typeof input === 'string'
+      ? new TextEncoder().encode(input)
+      : new Uint8Array(input);
+    const digest = await crypto.subtle.digest('SHA-256', buf);
+    return '0x' + Array.from(new Uint8Array(digest))
+      .map((b) => b.toString(16).padStart(2, '0'))
+      .join('');
+  }
+
+  /** 同步哈希（FNV-1a 变体，非加密强度，仅用于演示标识生成） */
+  function syncHex(str, len) {
+    len = len || 64;
+    const MASK = 0xffffffffffffffffn;
+    const PRIME = 0x100000001b3n;
+    let out = '';
+    for (let round = 0; out.length < len; round++) {
+      let h = 0xcbf29ce484222325n + BigInt(round) * 0x9e3779b97f4a7c15n;
+      const s = String(str);
+      for (let i = 0; i < s.length; i++) {
+        h ^= BigInt(s.charCodeAt(i) + round);
+        h = (h * PRIME) & MASK;
+      }
+      out += h.toString(16).padStart(16, '0');
+    }
+    return out.slice(0, len);
+  }
+
+  /** 规范化 JSON（键排序 + 去掉 undefined），保证同样内容得到同样哈希 */
+  function canonical(value) {
+    if (value === null || typeof value !== 'object') return JSON.stringify(value);
+    if (Array.isArray(value)) return '[' + value.map(canonical).join(',') + ']';
+    const keys = Object.keys(value).filter((k) => value[k] !== undefined).sort();
+    return '{' + keys.map((k) => JSON.stringify(k) + ':' + canonical(value[k])).join(',') + '}';
+  }
+
+  async function hashRecord(obj) {
+    return sha256Hex(canonical(obj));
+  }
+
+  async function hashFile(file) {
+    const ab = await file.arrayBuffer();
+    return sha256Hex(ab);
+  }
+
+  /** 由昵称生成稳定的演示地址（20 字节） */
+  function addressOf(name) {
+    return '0x' + syncHex('addr:' + name, 40);
+  }
+
+  function shortHash(h, head, tail) {
+    if (!h) return '-';
+    head = head || 10;
+    tail = tail === undefined ? 8 : tail;
+    return h.length > head + tail ? h.slice(0, head) + '…' + h.slice(-tail) : h;
+  }
+
+  global.ZZHash = { sha256Hex, syncHex, canonical, hashRecord, hashFile, addressOf, shortHash };
+})(window);

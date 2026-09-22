@@ -1,1 +1,50 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyAg6YOR5bee5rWB5rWq5Yqo54mp5pWR5Yqp6ZO+5LiK5a+86IiqIERBcHAgwrcg5pys5Zyw6aKE6KeICiMKIyAg55So5rOV77yI5Zyo5pys55uu5b2V5omT5byAIEdpdCBCYXNo77yJ77yaCiMgICAgICBiYXNoIHN0YXJ0LXByZXZpZXcuc2ggW+err+WPo10KIyAg56uv5Y+j55yB55Wl5pe26buY6K6kIDg5MDIKIwojICDlv4XpobvpgJrov4cgaHR0cDovLyDorr/pl67vvIzkuI3og73nm7TmjqXlj4zlh7sgaW5kZXguaHRtbO+8iGZpbGU6Ly8g5LiLCiMgIGNyeXB0by5zdWJ0bGUg55qEIFNIQS0yNTYg5a2Y6K+B5Yqf6IO95Lya6KKr5rWP6KeI5Zmo5a6J5YWo562W55Wl56aB55So77yJ44CCCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKY2QgIiQoZGlybmFtZSAiJDAiKSIgfHwgZXhpdCAxClBPUlQ9IiR7MTotODkwMn0iClVSTD0iaHR0cDovLzEyNy4wLjAuMToke1BPUlR9L2luZGV4Lmh0bWwiCgplY2hvICI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IgplY2hvICIgIOmDkeW3nua1gea1quWKqOeJqeaVkeWKqemTvuS4iuWvvOiIqiBEQXBwIMK3IOacrOWcsOmihOiniCIKZWNobyAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIKZWNobwplY2hvICIgIOmmlumhtSAgIO+8miAke1VSTH0iCmVjaG8gIiAg566h55CG5Y+wIO+8miBodHRwOi8vMTI3LjAuMC4xOiR7UE9SVH0vcGFnZXMvYWRtaW4uaHRtbCIKZWNobyAiICDlrZjor4Hpk74g77yaIGh0dHA6Ly8xMjcuMC4wLjE6JHtQT1JUfS9wYWdlcy9leHBsb3Jlci5odG1sIgplY2hvCmVjaG8gIiAg5Y+z5LiK6KeS5Y+v5YiH5o2i6Lqr5Lu977ya5bmz5Y+w566h55CG5ZGYIC8g5pWR5Yqp56uZIC8g5biC5rCRIgplY2hvICIgIEN0cmwgKyBDIOWBnOatouacjeWKoSIKZWNobyAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIKZWNobwoKIyAtLS0tLS0tLS0tIOaJvuS4gOS4quWPr+eUqOeahCBQeXRob24gLS0tLS0tLS0tLQpQWT0iIgpmb3IgYyBpbiBweXRob24gcHl0aG9uMyBweTsgZG8KICBpZiBjb21tYW5kIC12ICIkYyIgPi9kZXYvbnVsbCAyPiYxOyB0aGVuIFBZPSIkYyI7IGJyZWFrOyBmaQpkb25lCmlmIFsgLXogIiRQWSIgXTsgdGhlbgogIGZvciBwIGluICIvYy9Vc2Vycy/mnqsvLndvcmtidWRkeS9iaW5hcmllcy9weXRob24vdmVyc2lvbnMvMy4xMy4xMi9weXRob24uZXhlIiBcCiAgICAgICAgICAgIi9jL1VzZXJzL+aeqy9BcHBEYXRhL0xvY2FsL1Byb2dyYW1zL1B5dGhvbi9QeXRob24zMTQvcHl0aG9uLmV4ZSI7IGRvCiAgICBpZiBbIC14ICIkcCIgXTsgdGhlbiBQWT0iJHAiOyBicmVhazsgZmkKICBkb25lCmZpCmlmIFsgLXogIiRQWSIgXTsgdGhlbgogIGVjaG8gIltFUlJPUl0g5rKh5om+5YiwIFB5dGhvbu+8jOivt+WuieijhSBodHRwczovL3d3dy5weXRob24ub3JnL2Rvd25sb2Fkcy8iCiAgZWNobyAiICAgICAgICDmiJbogIXmiYvliqjmiafooYzvvJogbnB4IHNlcnZlIC4gLWwgJHtQT1JUfSIKICBleGl0IDEKZmkKCiMgLS0tLS0tLS0tLSDotbfmnI3liqHlkI7lnKjmtY/op4jlmajph4zmiZPlvIAgLS0tLS0tLS0tLQooIHNsZWVwIDI7IGNtZC5leGUgLy9jIHN0YXJ0ICIiICIke1VSTH0iID4vZGV2L251bGwgMj4mMSApICYKCmV4ZWMgIiRQWSIgLW0gaHR0cC5zZXJ2ZXIgIiRQT1JUIiAtLWJpbmQgMTI3LjAuMC4xCg==
+#!/usr/bin/env bash
+# ================================================================
+#  郑州流浪动物救助链上导航 DApp · 本地预览
+#
+#  用法（在本目录打开 Git Bash）：
+#      bash start-preview.sh [端口]
+#  端口省略时默认 8902
+#
+#  必须通过 http:// 访问，不能直接双击 index.html（file:// 下
+#  crypto.subtle 的 SHA-256 存证功能会被浏览器安全策略禁用）。
+# ================================================================
+
+cd "$(dirname "$0")" || exit 1
+PORT="${1:-8902}"
+URL="http://127.0.0.1:${PORT}/index.html"
+
+echo "================================================================"
+echo "  郑州流浪动物救助链上导航 DApp · 本地预览"
+echo "================================================================"
+echo
+echo "  首页   ： ${URL}"
+echo "  管理台 ： http://127.0.0.1:${PORT}/pages/admin.html"
+echo "  存证链 ： http://127.0.0.1:${PORT}/pages/explorer.html"
+echo
+echo "  右上角可切换身份：平台管理员 / 救助站 / 市民"
+echo "  Ctrl + C 停止服务"
+echo "================================================================"
+echo
+
+# ---------- 找一个可用的 Python ----------
+PY=""
+for c in python python3 py; do
+  if command -v "$c" >/dev/null 2>&1; then PY="$c"; break; fi
+done
+if [ -z "$PY" ]; then
+  for p in "/c/Users/枫/.workbuddy/binaries/python/versions/3.13.12/python.exe" \
+           "/c/Users/枫/AppData/Local/Programs/Python/Python314/python.exe"; do
+    if [ -x "$p" ]; then PY="$p"; break; fi
+  done
+fi
+if [ -z "$PY" ]; then
+  echo "[ERROR] 没找到 Python，请安装 https://www.python.org/downloads/"
+  echo "        或者手动执行： npx serve . -l ${PORT}"
+  exit 1
+fi
+
+# ---------- 起服务后在浏览器里打开 ----------
+( sleep 2; cmd.exe //c start "" "${URL}" >/dev/null 2>&1 ) &
+
+exec "$PY" -m http.server "$PORT" --bind 127.0.0.1

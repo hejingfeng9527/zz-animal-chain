@@ -1,1 +1,141 @@
-LyoqCiAqIG5vdGlmeS5qcyDigJTigJQg56uZ5YaF5raI5oGv6YCa55+l77yI5a6h5qC457uT5p6cIC8g57Sn5oCl5rGC5Yqp5o6o6YCBIC8g6aKG5YW75Zue6K6/5o+Q6YaS77yJCiAqIOivtOaYju+8mua2iOaBr+S9k+WtmOacrOWcsO+8jOinpuWPkea6kOS4uumTvuS4iuS6i+S7tu+8iHR4LmxvZ3PvvInvvIzpk77kuIrnlZnnl5XjgIHnq5nlhoXmj5DphpLjgIIKICovCihmdW5jdGlvbiAoZ2xvYmFsKSB7CiAgJ3VzZSBzdHJpY3QnOwoKICBjb25zdCBLRVkgPSAnenoubm90aWZ5LnYxJzsKCiAgZnVuY3Rpb24gYWxsKCkgewogICAgdHJ5IHsgcmV0dXJuIEpTT04ucGFyc2UobG9jYWxTdG9yYWdlLmdldEl0ZW0oS0VZKSB8fCAnW10nKTsgfSBjYXRjaCAoZSkgeyByZXR1cm4gW107IH0KICB9CiAgZnVuY3Rpb24gc2F2ZShsaXN0KSB7IGxvY2FsU3RvcmFnZS5zZXRJdGVtKEtFWSwgSlNPTi5zdHJpbmdpZnkobGlzdCkpOyB9CgogIGNvbnN0IFRZUEUgPSB7CiAgICByZXZpZXc6IHsgbGFiZWw6ICflrqHmoLjnu5PmnpwnLCBpY29uOiAn4pyFJyB9LAogICAgdXJnZW50OiB7IGxhYmVsOiAn57Sn5oCl5rGC5YqpJywgaWNvbjogJ/CfmqgnIH0sCiAgICBhZG9wdGlvbjogeyBsYWJlbDogJ+mihuWFu+i/m+W6picsIGljb246ICfwn5C+JyB9LAogICAgdmlzaXQ6IHsgbGFiZWw6ICflm57orr/mj5DphpInLCBpY29uOiAn8J+ThScgfSwKICAgIHBvaW50czogeyBsYWJlbDogJ+WFrOebiuenr+WIhicsIGljb246ICfirZAnIH0sCiAgICBzeXN0ZW06IHsgbGFiZWw6ICfns7vnu58nLCBpY29uOiAn8J+UlCcgfQogIH07CgogIGNvbnN0IE5vdGlmeSA9IHsKICAgIFRZUEUsCgogICAgLyoqIHRvIOS4uuepuuihqOekuuW5v+aSree7meeuoeeQhuWRmCAqLwogICAgcHVzaCh0bywgdHlwZSwgdGl0bGUsIGJvZHksIGxpbmspIHsKICAgICAgY29uc3QgbGlzdCA9IGFsbCgpOwogICAgICBsaXN0LnVuc2hpZnQoewogICAgICAgIGlkOiAnbScgKyBEYXRlLm5vdygpICsgTWF0aC5yYW5kb20oKS50b1N0cmluZygxNikuc2xpY2UoMiwgNiksCiAgICAgICAgdG86IHRvIHx8ICdBRE1JTicsCiAgICAgICAgdHlwZSwgdGl0bGUsIGJvZHk6IGJvZHkgfHwgJycsIGxpbms6IGxpbmsgfHwgJycsCiAgICAgICAgdHM6IERhdGUubm93KCksIHJlYWQ6IGZhbHNlCiAgICAgIH0pOwogICAgICBzYXZlKGxpc3Quc2xpY2UoMCwgMzAwKSk7CiAgICAgIE5vdGlmeS5yZWZyZXNoQmFkZ2UoKTsKICAgIH0sCgogICAgbGlzdEZvcihhZGRyKSB7CiAgICAgIGNvbnN0IG1lID0gZ2xvYmFsLlpaQXV0aC5jdXJyZW50KCk7CiAgICAgIGNvbnN0IGlzQWRtaW4gPSBtZS5yb2xlID09PSAnYWRtaW4nIHx8IG1lLnJvbGUgPT09ICdzaGVsdGVyJzsKICAgICAgcmV0dXJuIGFsbCgpLmZpbHRlcigobSkgPT4gbS50byA9PT0gYWRkciB8fCAoaXNBZG1pbiAmJiBtLnRvID09PSAnQURNSU4nKSB8fCBtLnRvID09PSAnQUxMJyk7CiAgICB9LAoKICAgIHVucmVhZENvdW50KGFkZHIpIHsKICAgICAgcmV0dXJuIE5vdGlmeS5saXN0Rm9yKGFkZHIpLmZpbHRlcigobSkgPT4gIW0ucmVhZCkubGVuZ3RoOwogICAgfSwKCiAgICBtYXJrUmVhZChpZCkgewogICAgICBjb25zdCBsaXN0ID0gYWxsKCk7CiAgICAgIGNvbnN0IG0gPSBsaXN0LmZpbmQoKHgpID0+IHguaWQgPT09IGlkKTsKICAgICAgaWYgKG0pIHsgbS5yZWFkID0gdHJ1ZTsgc2F2ZShsaXN0KTsgTm90aWZ5LnJlZnJlc2hCYWRnZSgpOyB9CiAgICB9LAoKICAgIG1hcmtBbGxSZWFkKGFkZHIpIHsKICAgICAgY29uc3QgbGlzdCA9IGFsbCgpOwogICAgICBsaXN0LmZvckVhY2goKG0pID0+IHsgaWYgKG0udG8gPT09IGFkZHIgfHwgbS50byA9PT0gJ0FETUlOJyB8fCBtLnRvID09PSAnQUxMJykgbS5yZWFkID0gdHJ1ZTsgfSk7CiAgICAgIHNhdmUobGlzdCk7CiAgICAgIE5vdGlmeS5yZWZyZXNoQmFkZ2UoKTsKICAgIH0sCgogICAgY2xlYXIoYWRkcikgewogICAgICBjb25zdCBtZSA9IGdsb2JhbC5aWkF1dGguY3VycmVudCgpOwogICAgICBjb25zdCBpc0FkbWluID0gbWUucm9sZSA9PT0gJ2FkbWluJyB8fCBtZS5yb2xlID09PSAnc2hlbHRlcic7CiAgICAgIHNhdmUoYWxsKCkuZmlsdGVyKChtKSA9PiAhKG0udG8gPT09IGFkZHIgfHwgKGlzQWRtaW4gJiYgbS50byA9PT0gJ0FETUlOJykgfHwgbS50byA9PT0gJ0FMTCcpKSk7CiAgICAgIE5vdGlmeS5yZWZyZXNoQmFkZ2UoKTsKICAgIH0sCgogICAgcmVmcmVzaEJhZGdlKCkgewogICAgICBjb25zdCBlbCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdtc2dCYWRnZScpOwogICAgICBpZiAoIWVsKSByZXR1cm47CiAgICAgIGNvbnN0IG4gPSBOb3RpZnkudW5yZWFkQ291bnQoZ2xvYmFsLlpaQXV0aC5jdXJyZW50KCkuYWRkcik7CiAgICAgIGVsLnRleHRDb250ZW50ID0gbiA+IDk5ID8gJzk5KycgOiBuOwogICAgICBlbC5zdHlsZS5kaXNwbGF5ID0gbiA+IDAgPyAnaW5saW5lLWZsZXgnIDogJ25vbmUnOwogICAgfSwKCiAgICAvKiog5oqK5LiA5qyh5Lqk5piT55qE5LqL5Lu257+76K+R5oiQ56uZ5YaF5raI5oGvICovCiAgICBmcm9tVHgocmMsIGN0eCkgewogICAgICAocmMubG9ncyB8fCBbXSkuZm9yRWFjaCgobG9nKSA9PiB7CiAgICAgICAgaWYgKGxvZy5ldmVudCA9PT0gJ0FuaW1hbFJlcG9ydGVkJykgewogICAgICAgICAgY29uc3QgYSA9IGxvZy5hcmdzOwogICAgICAgICAgaWYgKGEudXJnZW50KSB7CiAgICAgICAgICAgIE5vdGlmeS5wdXNoKCdBRE1JTicsICd1cmdlbnQnLCAn44CQ57Sn5oCl44CR6YeN5LykL+eXheWNseWKqOeJqeW+heWuoeaguCAjJyArIGEuaWQsCiAgICAgICAgICAgICAgJ+acieeUqOaIt+S4iuaKpeS6humHjeS8pOeXheWNsea1gea1quWKqOeJqe+8jOivt+S8mOWFiOWuoeaguOW5tua0vuWNleOAgicsICdhZG1pbi5odG1sI3JldmlldycpOwogICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgTm90aWZ5LnB1c2goJ0FETUlOJywgJ3JldmlldycsICfmlrDnur/ntKLlvoXlrqHmoLggIycgKyBhLmlkLAogICAgICAgICAgICAgICfmnInmlrDnmoTmtYHmtarliqjniannur/ntKLnrYnlvoXmoLjlrp7jgIInLCAnYWRtaW4uaHRtbCNyZXZpZXcnKTsKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgaWYgKGxvZy5ldmVudCA9PT0gJ0FuaW1hbFJldmlld2VkJykgewogICAgICAgICAgY29uc3QgYSA9IGxvZy5hcmdzOwogICAgICAgICAgTm90aWZ5LnB1c2goY3R4ICYmIGN0eC5yZXBvcnRlciwgJ3JldmlldycsCiAgICAgICAgICAgIGEuYXBwcm92ZWQgPyAn57q/57SiICMnICsgYS5pZCArICcg5a6h5qC46YCa6L+HJyA6ICfnur/ntKIgIycgKyBhLmlkICsgJyDlrqHmoLjmnKrpgJrov4cnLAogICAgICAgICAgICBhLmFwcHJvdmVkID8gJ+aEn+iwouS9oOaPkOS+m+eahOe6v+e0ou+8jOW3suaguOWunumAmui/h++8jOWFrOebiuenr+WIhiArMTDjgIInIDogKCfljp/lm6DvvJonICsgKGEucmVhc29uIHx8ICfmnKror7TmmI4nKSksCiAgICAgICAgICAgICdhbmltYWxzLmh0bWw/aWQ9JyArIGEuaWQpOwogICAgICAgIH0KICAgICAgICBpZiAobG9nLmV2ZW50ID09PSAnQXBwbGljYXRpb25TdWJtaXR0ZWQnKSB7CiAgICAgICAgICBOb3RpZnkucHVzaCgnQURNSU4nLCAnYWRvcHRpb24nLCAn5paw55qE6aKG5YW755Sz6K+3ICMnICsgbG9nLmFyZ3MuaWQsCiAgICAgICAgICAgICfmnInnlKjmiLfmj5DkuqTkuobpooblhbvnlLPor7fvvIzor7fov5vooYzog4zmma/moLjpqozkuI7lrqHmoLjjgIInLCAnYWRtaW4uaHRtbCNhZG9wdGlvbicpOwogICAgICAgIH0KICAgICAgICBpZiAobG9nLmV2ZW50ID09PSAnQmFja2dyb3VuZENoZWNrZWQnKSB7CiAgICAgICAgICBOb3RpZnkucHVzaCgnQURNSU4nLCAnYWRvcHRpb24nLCAn6aKG5YW755Sz6K+3ICMnICsgbG9nLmFyZ3MuaWQgKyAnIOiDjOaZr+aguOmqjOWujOaIkCcsCiAgICAgICAgICAgIChsb2cuYXJncy5wYXNzZWQgPyAn5qC46aqM6YCa6L+H77yaJyA6ICfmoLjpqozmnKrpgJrov4fvvJonKSArIChsb2cuYXJncy5ub3RlIHx8ICcnKSwgJ2FkbWluLmh0bWwjYWRvcHRpb24nKTsKICAgICAgICB9CiAgICAgICAgaWYgKGxvZy5ldmVudCA9PT0gJ0FwcGxpY2F0aW9uUmV2aWV3ZWQnKSB7CiAgICAgICAgICBjb25zdCBhID0gbG9nLmFyZ3M7CiAgICAgICAgICBOb3RpZnkucHVzaChjdHggJiYgY3R4LmFwcGxpY2FudCwgJ2Fkb3B0aW9uJywKICAgICAgICAgICAgYS5hcHByb3ZlZCA/ICfpooblhbvnlLPor7cgIycgKyBhLmlkICsgJyDlrqHmoLjpgJrov4cnIDogJ+mihuWFu+eUs+ivtyAjJyArIGEuaWQgKyAnIOiiq+mps+WbnicsCiAgICAgICAgICAgIGEuYXBwcm92ZWQgPyAoJ+Wbnuiuv+iuoeWIku+8micgKyAoYS52aXNpdFBsYW4gfHwgJ+KAlCcpICsgJ+OAguivt+WwveW/q+WJjeW+gOetvue6puOAgicpCiAgICAgICAgICAgICAgOiAoJ+mps+WbnueQhueUse+8micgKyAoYS5yZWFzb24gfHwgJ+acquivtOaYjicpKSwKICAgICAgICAgICAgJ2Fkb3B0aW9uLmh0bWwjbWluZScpOwogICAgICAgIH0KICAgICAgICBpZiAobG9nLmV2ZW50ID09PSAnQWRvcHRpb25TaWduZWQnKSB7CiAgICAgICAgICBOb3RpZnkucHVzaChjdHggJiYgY3R4LmFwcGxpY2FudCwgJ2Fkb3B0aW9uJywgJ+mihuWFu+WNj+iuruW3suetvue6piAjJyArIGxvZy5hcmdzLmlkLAogICAgICAgICAgICAn5omY566h5p2D5bey56e75Lqk77yM5Y2P6K6u5ZOI5biM5bey5LiK6ZO+44CC6K+35oyJ5Zue6K6/6K6h5YiS6YWN5ZCI5Zue6K6/44CCJywgJ2Fkb3B0aW9uLmh0bWwjbWluZScpOwogICAgICAgICAgTm90aWZ5LnB1c2goJ0FETUlOJywgJ3Zpc2l0JywgJ+W+heWuieaOkuWbnuiuv++8mueUs+ivtyAjJyArIGxvZy5hcmdzLmlkLAogICAgICAgICAgICAn6aKG5YW75bey562+57qm77yM6K+35Zyo5Zue6K6/6K6h5YiS5ZGo5pyf5YaF5b2V5YWl5Zue6K6/6K6w5b2V44CCJywgJ2FkbWluLmh0bWwjYWRvcHRpb24nKTsKICAgICAgICB9CiAgICAgICAgaWYgKGxvZy5ldmVudCA9PT0gJ1Zpc2l0UmVjb3JkZWQnKSB7CiAgICAgICAgICBOb3RpZnkucHVzaChjdHggJiYgY3R4LmFwcGxpY2FudCwgJ3Zpc2l0JywgJ+esrCAnICsgbG9nLmFyZ3Mucm91bmQgKyAnIOasoeWbnuiuv+W3suiusOW9lScsCiAgICAgICAgICAgIGxvZy5hcmdzLnBhc3NlZCA/ICflm57orr/pgJrov4fvvIzlhaznm4rnp6/liIYgKzXjgIInIDogJ+Wbnuiuv+WPkeeOsOmXrumimO+8jOivt+mFjeWQiOaVtOaUueOAgicsICdhZG9wdGlvbi5odG1sI21pbmUnKTsKICAgICAgICB9CiAgICAgICAgaWYgKGxvZy5ldmVudCA9PT0gJ0Fkb3B0aW9uQ29tcGxldGVkJykgewogICAgICAgICAgTm90aWZ5LnB1c2goY3R4ICYmIGN0eC5hcHBsaWNhbnQsICdhZG9wdGlvbicsICfpooblhbvlrozmiJAgIycgKyBsb2cuYXJncy5pZCwKICAgICAgICAgICAgJ+Wbnuiuv+WFqOmDqOi+vuagh++8jOmihuWFu+a1geeoi+WujOaIkO+8jOWFrOebiuenr+WIhiArMzDjgIInLCAncG9pbnRzLmh0bWwnKTsKICAgICAgICB9CiAgICAgICAgaWYgKGxvZy5ldmVudCA9PT0gJ1BvaW50c0F3YXJkZWQnKSB7CiAgICAgICAgICBOb3RpZnkucHVzaChsb2cuYXJncy50bywgJ3BvaW50cycsICflhaznm4rnp6/liIYgKycgKyBsb2cuYXJncy5hbW91bnQsCiAgICAgICAgICAgIChnbG9iYWwuWlpfQ09ORklHLlBPSU5UX1JFQVNPTltsb2cuYXJncy5yZWFzb25dIHx8IGxvZy5hcmdzLnJlYXNvbiksICdwb2ludHMuaHRtbCcpOwogICAgICAgIH0KICAgICAgICBpZiAobG9nLmV2ZW50ID09PSAnUG9pbnRzRGVkdWN0ZWQnKSB7CiAgICAgICAgICBOb3RpZnkucHVzaChsb2cuYXJncy5mcm9tLCAncG9pbnRzJywgJ+WFrOebiuenr+WIhiAtJyArIGxvZy5hcmdzLmFtb3VudCwKICAgICAgICAgICAgJ+i/nee6puiusOW9leW3suS4iumTvu+8micgKyAoZ2xvYmFsLlpaX0NPTkZJRy5QT0lOVF9SRUFTT05bbG9nLmFyZ3MucmVhc29uXSB8fCBsb2cuYXJncy5yZWFzb24pLCAncG9pbnRzLmh0bWwnKTsKICAgICAgICB9CiAgICAgIH0pOwogICAgfQogIH07CgogIGdsb2JhbC5aWk5vdGlmeSA9IE5vdGlmeTsKfSkod2luZG93KTsK
+/**
+ * notify.js —— 站内消息通知（审核结果 / 紧急求助推送 / 领养回访提醒）
+ * 说明：消息体存本地，触发源为链上事件（tx.logs），链上留痕、站内提醒。
+ */
+(function (global) {
+  'use strict';
+
+  const KEY = 'zz.notify.v1';
+
+  function all() {
+    try { return JSON.parse(localStorage.getItem(KEY) || '[]'); } catch (e) { return []; }
+  }
+  function save(list) { localStorage.setItem(KEY, JSON.stringify(list)); }
+
+  const TYPE = {
+    review: { label: '审核结果', icon: '✅' },
+    urgent: { label: '紧急求助', icon: '🚨' },
+    adoption: { label: '领养进度', icon: '🐾' },
+    visit: { label: '回访提醒', icon: '📅' },
+    points: { label: '公益积分', icon: '⭐' },
+    system: { label: '系统', icon: '🔔' }
+  };
+
+  const Notify = {
+    TYPE,
+
+    /** to 为空表示广播给管理员 */
+    push(to, type, title, body, link) {
+      const list = all();
+      list.unshift({
+        id: 'm' + Date.now() + Math.random().toString(16).slice(2, 6),
+        to: to || 'ADMIN',
+        type, title, body: body || '', link: link || '',
+        ts: Date.now(), read: false
+      });
+      save(list.slice(0, 300));
+      Notify.refreshBadge();
+    },
+
+    listFor(addr) {
+      const me = global.ZZAuth.current();
+      const isAdmin = me.role === 'admin' || me.role === 'shelter';
+      return all().filter((m) => m.to === addr || (isAdmin && m.to === 'ADMIN') || m.to === 'ALL');
+    },
+
+    unreadCount(addr) {
+      return Notify.listFor(addr).filter((m) => !m.read).length;
+    },
+
+    markRead(id) {
+      const list = all();
+      const m = list.find((x) => x.id === id);
+      if (m) { m.read = true; save(list); Notify.refreshBadge(); }
+    },
+
+    markAllRead(addr) {
+      const list = all();
+      list.forEach((m) => { if (m.to === addr || m.to === 'ADMIN' || m.to === 'ALL') m.read = true; });
+      save(list);
+      Notify.refreshBadge();
+    },
+
+    clear(addr) {
+      const me = global.ZZAuth.current();
+      const isAdmin = me.role === 'admin' || me.role === 'shelter';
+      save(all().filter((m) => !(m.to === addr || (isAdmin && m.to === 'ADMIN') || m.to === 'ALL')));
+      Notify.refreshBadge();
+    },
+
+    refreshBadge() {
+      const el = document.getElementById('msgBadge');
+      if (!el) return;
+      const n = Notify.unreadCount(global.ZZAuth.current().addr);
+      el.textContent = n > 99 ? '99+' : n;
+      el.style.display = n > 0 ? 'inline-flex' : 'none';
+    },
+
+    /** 把一次交易的事件翻译成站内消息 */
+    fromTx(rc, ctx) {
+      (rc.logs || []).forEach((log) => {
+        if (log.event === 'AnimalReported') {
+          const a = log.args;
+          if (a.urgent) {
+            Notify.push('ADMIN', 'urgent', '【紧急】重伤/病危动物待审核 #' + a.id,
+              '有用户上报了重伤病危流浪动物，请优先审核并派单。', 'admin.html#review');
+          } else {
+            Notify.push('ADMIN', 'review', '新线索待审核 #' + a.id,
+              '有新的流浪动物线索等待核实。', 'admin.html#review');
+          }
+        }
+        if (log.event === 'AnimalReviewed') {
+          const a = log.args;
+          Notify.push(ctx && ctx.reporter, 'review',
+            a.approved ? '线索 #' + a.id + ' 审核通过' : '线索 #' + a.id + ' 审核未通过',
+            a.approved ? '感谢你提供的线索，已核实通过，公益积分 +10。' : ('原因：' + (a.reason || '未说明')),
+            'animals.html?id=' + a.id);
+        }
+        if (log.event === 'ApplicationSubmitted') {
+          Notify.push('ADMIN', 'adoption', '新的领养申请 #' + log.args.id,
+            '有用户提交了领养申请，请进行背景核验与审核。', 'admin.html#adoption');
+        }
+        if (log.event === 'BackgroundChecked') {
+          Notify.push('ADMIN', 'adoption', '领养申请 #' + log.args.id + ' 背景核验完成',
+            (log.args.passed ? '核验通过：' : '核验未通过：') + (log.args.note || ''), 'admin.html#adoption');
+        }
+        if (log.event === 'ApplicationReviewed') {
+          const a = log.args;
+          Notify.push(ctx && ctx.applicant, 'adoption',
+            a.approved ? '领养申请 #' + a.id + ' 审核通过' : '领养申请 #' + a.id + ' 被驳回',
+            a.approved ? ('回访计划：' + (a.visitPlan || '—') + '。请尽快前往签约。')
+              : ('驳回理由：' + (a.reason || '未说明')),
+            'adoption.html#mine');
+        }
+        if (log.event === 'AdoptionSigned') {
+          Notify.push(ctx && ctx.applicant, 'adoption', '领养协议已签约 #' + log.args.id,
+            '托管权已移交，协议哈希已上链。请按回访计划配合回访。', 'adoption.html#mine');
+          Notify.push('ADMIN', 'visit', '待安排回访：申请 #' + log.args.id,
+            '领养已签约，请在回访计划周期内录入回访记录。', 'admin.html#adoption');
+        }
+        if (log.event === 'VisitRecorded') {
+          Notify.push(ctx && ctx.applicant, 'visit', '第 ' + log.args.round + ' 次回访已记录',
+            log.args.passed ? '回访通过，公益积分 +5。' : '回访发现问题，请配合整改。', 'adoption.html#mine');
+        }
+        if (log.event === 'AdoptionCompleted') {
+          Notify.push(ctx && ctx.applicant, 'adoption', '领养完成 #' + log.args.id,
+            '回访全部达标，领养流程完成，公益积分 +30。', 'points.html');
+        }
+        if (log.event === 'PointsAwarded') {
+          Notify.push(log.args.to, 'points', '公益积分 +' + log.args.amount,
+            (global.ZZ_CONFIG.POINT_REASON[log.args.reason] || log.args.reason), 'points.html');
+        }
+        if (log.event === 'PointsDeducted') {
+          Notify.push(log.args.from, 'points', '公益积分 -' + log.args.amount,
+            '违约记录已上链：' + (global.ZZ_CONFIG.POINT_REASON[log.args.reason] || log.args.reason), 'points.html');
+        }
+      });
+    }
+  };
+
+  global.ZZNotify = Notify;
+})(window);
