@@ -11,7 +11,7 @@
   'use strict';
 
   const CFG = global.ZZ_CONFIG;
-  const LS_KEY = 'zz.chain.v1';
+  const LS_KEY = 'zz.chain.v2'; // v2: 修复种子数据经纬度写反的问题，强制重新播种
   const ADDR0 = '0x' + '0'.repeat(40);
   const OWNER = global.ZZHash.addressOf('admin');
 

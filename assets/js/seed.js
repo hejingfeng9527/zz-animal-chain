@@ -12,46 +12,46 @@
   const user2 = () => A()[4].addr;
 
   const POIS = [
-    { kind: 1, name: '郑州市小动物保护协会救助站', addressText: '惠济区大河路中段', lat: 113.6123, lng: 34.8765, contact: '0371-6xxxxx01' },
-    { kind: 1, name: '二七区毛毛雨救助小院', addressText: '二七区侯寨乡', lat: 113.5987, lng: 34.6854, contact: '0371-6xxxxx02' },
-    { kind: 1, name: '中原区暖爪救助站', addressText: '中原区西流湖路', lat: 113.5654, lng: 34.7621, contact: '0371-6xxxxx03' },
-    { kind: 2, name: '康旭宠物医院（金水店）', addressText: '金水区花园路 128 号', lat: 113.6852, lng: 34.7865, contact: '0371-6xxxxx11' },
-    { kind: 2, name: '瑞派宠物医院（郑东新区店）', addressText: '郑东新区商务内环', lat: 113.7623, lng: 34.7712, contact: '0371-6xxxxx12' },
-    { kind: 2, name: '安安宠医（高新区店）', addressText: '高新区科学大道', lat: 113.5521, lng: 34.8102, contact: '0371-6xxxxx13' },
-    { kind: 3, name: '人民公园投喂点', addressText: '金水区人民公园东门', lat: 113.6652, lng: 34.7598, contact: '志愿者轮值' },
-    { kind: 3, name: '郑州大学南校区投喂点', addressText: '二七区大学北路', lat: 113.6403, lng: 34.7490, contact: '校园动保社团' },
-    { kind: 3, name: '东风渠滨河公园投喂点', addressText: '金水区东风渠北岸', lat: 113.6940, lng: 34.8100, contact: '志愿者轮值' }
+    { kind: 1, name: '郑州市小动物保护协会救助站', addressText: '惠济区大河路中段', lat: 34.8765, lng: 113.6123, contact: '0371-6xxxxx01' },
+    { kind: 1, name: '二七区毛毛雨救助小院', addressText: '二七区侯寨乡', lat: 34.6854, lng: 113.5987, contact: '0371-6xxxxx02' },
+    { kind: 1, name: '中原区暖爪救助站', addressText: '中原区西流湖路', lat: 34.7621, lng: 113.5654, contact: '0371-6xxxxx03' },
+    { kind: 2, name: '康旭宠物医院（金水店）', addressText: '金水区花园路 128 号', lat: 34.7865, lng: 113.6852, contact: '0371-6xxxxx11' },
+    { kind: 2, name: '瑞派宠物医院（郑东新区店）', addressText: '郑东新区商务内环', lat: 34.7712, lng: 113.7623, contact: '0371-6xxxxx12' },
+    { kind: 2, name: '安安宠医（高新区店）', addressText: '高新区科学大道', lat: 34.8102, lng: 113.5521, contact: '0371-6xxxxx13' },
+    { kind: 3, name: '人民公园投喂点', addressText: '金水区人民公园东门', lat: 34.7598, lng: 113.6652, contact: '志愿者轮值' },
+    { kind: 3, name: '郑州大学南校区投喂点', addressText: '二七区大学北路', lat: 34.7490, lng: 113.6403, contact: '校园动保社团' },
+    { kind: 3, name: '东风渠滨河公园投喂点', addressText: '金水区东风渠北岸', lat: 34.8100, lng: 113.6940, contact: '志愿者轮值' }
   ];
 
   const ANIMALS = [
     {
       from: user1, species: '猫', title: '金水区花园路受伤橘猫',
-      addressText: '金水区花园路与农业路交叉口', lat: 113.6764, lng: 34.7993, severity: 1,
+      addressText: '金水区花园路与农业路交叉口', lat: 34.7993, lng: 113.6764, severity: 1,
       meta: { desc: '右后腿疑似骨折，躲在绿化带，精神尚可，怕生。', contact: '138xxxx2101', tags: ['受伤', '怕生'] }
     },
     {
       from: user2, species: '犬', title: '二七广场重伤白色小型犬',
-      addressText: '二七区二七广场地铁口', lat: 113.6339, lng: 34.7477, severity: 3,
+      addressText: '二七区二七广场地铁口', lat: 34.7477, lng: 113.6339, severity: 3,
       meta: { desc: '被车撞伤，后肢无法站立，有出血，情况危急，急需送医。', contact: '139xxxx3320', tags: ['重伤', '紧急', '需送医'] }
     },
     {
       from: user1, species: '猫', title: '中原万达三花猫（亲人）',
-      addressText: '中原区万达广场北侧', lat: 113.6029, lng: 34.7469, severity: 0,
+      addressText: '中原区万达广场北侧', lat: 34.7469, lng: 113.6029, severity: 0,
       meta: { desc: '约 1 岁，已驱虫，亲人可抱，适合家庭领养。', contact: '138xxxx2101', tags: ['亲人', '已驱虫', '待领养'] }
     },
     {
       from: user2, species: '猫', title: '如意湖畔奶牛猫（疑似猫癣）',
-      addressText: '郑东新区如意湖文化广场', lat: 113.7507, lng: 34.7695, severity: 2,
+      addressText: '郑东新区如意湖文化广场', lat: 34.7695, lng: 113.7507, severity: 2,
       meta: { desc: '耳朵附近脱毛，疑似猫癣，正在药浴治疗中。', contact: '139xxxx3320', tags: ['患病', '治疗中'] }
     },
     {
       from: user1, species: '犬', title: '高新区流浪田园犬「大黄」',
-      addressText: '高新区科学大道与长椿路', lat: 113.5461, lng: 34.8038, severity: 0,
+      addressText: '高新区科学大道与长椿路', lat: 34.8038, lng: 113.5461, severity: 0,
       meta: { desc: '成年雄性，已免疫，性格温顺，已完成领养签约。', contact: '138xxxx2101', tags: ['已免疫', '已领养'] }
     },
     {
       from: user2, species: '猫', title: '管城区商城路幼猫（约 2 月）',
-      addressText: '管城区商城路与紫荆山路', lat: 113.6740, lng: 34.7520, severity: 1,
+      addressText: '管城区商城路与紫荆山路', lat: 34.7520, lng: 113.6740, severity: 1,
       meta: { desc: '纸箱内发现 3 只幼猫，其中 1 只眼睛发炎。', contact: '139xxxx3320', tags: ['幼崽', '待审核'] }
     }
   ];

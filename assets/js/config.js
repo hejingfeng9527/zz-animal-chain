@@ -16,6 +16,14 @@ window.ZZ_CONFIG = {
   AMAP_KEY: 'c70384d4c643edac99986fd0d266b808',
   AMAP_SECURITY_CODE: 'e743c0228cfb1d94f13975dea5be4cdc',
 
+  /* ===== 底图引擎 =====
+   * 'leaflet' : 高德栅格瓦片（默认推荐）。普通 <img> 加载高德瓦片，不依赖 WebGL/Key，
+   *             境内外网络都能稳定出图；逆地理编码仍走高德 Key。
+   * 'amap'    : 高德官方 JS API 矢量底图（效果更细腻、可 3D）。
+   *             注意：高德对海外出口 IP 拒绝下发矢量瓦片（infocode 11000），
+   *             若你的网络走了代理/加速器导致出口在境外，选 amap 会底图空白。 */
+  MAP_ENGINE: 'leaflet',
+
   /* ===== 城市（郑州） ===== */
   city: {
     name: '郑州',
